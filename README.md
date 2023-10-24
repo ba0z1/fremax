@@ -19,5 +19,7 @@ python Generate.py \
 --seed=42 \
 --out_dir=path/to/your/output \
 --generation_config=generate_plain.json \
---
+--model_name_or_path=path/to/gpt2/or/other/LM \
+--alpha=0.5 \
+--beta=2
 ``` 
