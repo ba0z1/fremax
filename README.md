@@ -6,13 +6,18 @@ Generative Linguistic Steganography (GLS) is a popular technique that utilizes L
 
 ## Usage
 ### Preparation
+Please create a new python environment and install this list:
+```shell
+pip install -r requirements.txt
+```
+
 ### Run an exmaple
 ```shell
 python Generate.py \
---mode=G
---gpuid=0
---seed=42
---out_dir=path/to/your/output
---generation_config=generate.json
+--mode=G \
+--gpuid=0 \
+--seed=42 \
+--out_dir=path/to/your/output \
+--generation_config=generate_plain.json \
 --
- ``` 
+``` 
