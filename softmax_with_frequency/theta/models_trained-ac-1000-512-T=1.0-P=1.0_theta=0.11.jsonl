@@ -1,0 +1,1000 @@
+{"idx": 1, "prompt": "bor", "stego": "boring and i have to go to work to get the best of me from here before i get off work", "tokens": [2865, 278, 290, 1312, 423, 284, 467, 284, 670, 284, 651, 262, 1266, 286, 502, 422, 994, 878, 1312, 651, 572, 670], "bits": ["", "", "01", "01", "0111", "01", "0", "", "", "10000", "", "100001", "10000100001", "", "01", "01111", "100101", "011110", "", "011111", "", ""]}
+{"idx": 2, "prompt": "i", "stego": "i miss you lt3", "tokens": [72, 2051, 345, 300, 83, 18], "bits": ["", "1000", "01", "1001", "", ""]}
+{"idx": 3, "prompt": "the", "stego": "the room is a mess now", "tokens": [1169, 2119, 318, 257, 2085, 783], "bits": ["", "10001010", "", "011", "01", ""]}
+{"idx": 4, "prompt": "i", "stego": "i want to go so bad", "tokens": [72, 765, 284, 467, 523, 2089], "bits": ["", "", "0111", "01", "11100", ""]}
+{"idx": 5, "prompt": "it", "stego": "it's only an option", "tokens": [270, 705, 82, 691, 281, 3038], "bits": ["", "", "", "100", "011111110001", "01"]}
+{"idx": 6, "prompt": "rel", "stego": "relaxing after a long day and my eyes are still eden", "tokens": [2411, 897, 278, 706, 257, 890, 1110, 290, 616, 2951, 389, 991, 1225, 268], "bits": ["", "", "", "", "", "", "", "100010", "011110101", "01010111", "", "0", "101001111010", "11000111"]}
+{"idx": 7, "prompt": "just", "stego": "just got done with my interview", "tokens": [3137, 1392, 1760, 351, 616, 2720], "bits": ["", "0", "1001", "00", "1", "1000"]}
+{"idx": 8, "prompt": "that", "stego": "that's just not right", "tokens": [5562, 705, 82, 655, 407, 826], "bits": ["", "", "", "10011", "010", ""]}
+{"idx": 9, "prompt": "y", "stego": "yayyyyyyyy", "tokens": [88, 323, 22556, 22556, 22556, 88], "bits": ["", "", "011", "0", "", "0"]}
+{"idx": 10, "prompt": "food", "stego": "food shalu is good", "tokens": [19425, 427, 282, 84, 318, 922], "bits": ["", "11100", "01111111010", "1000", "01", ""]}
+{"idx": 11, "prompt": "can", "stego": "can i have that cake please", "tokens": [5171, 1312, 423, 326, 12187, 3387], "bits": ["", "", "011", "1110111", "011", "01111"]}
+{"idx": 12, "prompt": "will", "stego": "will be out of town tomorrow", "tokens": [10594, 307, 503, 286, 3240, 9439], "bits": ["", "0", "0011", "", "", "0111"]}
+{"idx": 13, "prompt": "anything", "stego": "anything but red bull and beer", "tokens": [49459, 475, 2266, 6473, 290, 6099], "bits": ["", "11000", "10101111", "00", "", "0111"]}
+{"idx": 14, "prompt": "s", "stego": "sad i missed the interview", "tokens": [82, 324, 1312, 6825, 262, 2720], "bits": ["", "0", "1011", "", "", "100000000101"]}
+{"idx": 15, "prompt": "exc", "stego": "excited to be back home", "tokens": [41194, 863, 284, 307, 736, 1363], "bits": ["", "", "1", "10101", "0", ""]}
+{"idx": 16, "prompt": "just", "stego": "just woke up from a nap", "tokens": [3137, 19092, 510, 422, 257, 25422], "bits": ["", "", "", "0111", "0", ""]}
+{"idx": 17, "prompt": "i", "stego": "i guess i missed it oh well at least it was still the weekend", "tokens": [72, 4724, 1312, 6825, 340, 11752, 880, 379, 1551, 340, 373, 991, 262, 5041], "bits": ["", "1110101", "", "1001000", "011", "1110010", "", "01101", "", "100", "10", "10011", "0101", ""]}
+{"idx": 18, "prompt": "ok", "stego": "okay got my internet back", "tokens": [482, 323, 1392, 616, 5230, 736], "bits": ["", "", "01110011", "", "0111101101", ""]}
+{"idx": 19, "prompt": "g", "stego": "gonna start cooking me something", "tokens": [70, 6415, 923, 10801, 502, 1223], "bits": ["", "0", "101111", "100000", "1000110000", "1000000"]}
+{"idx": 20, "prompt": "and", "stego": "and a new macbook pro", "tokens": [392, 257, 649, 8352, 2070, 386], "bits": ["", "10011", "0100", "100011101", "0", ""]}
+{"idx": 21, "prompt": "h", "stego": "hahahaha i just realized", "tokens": [71, 36225, 12236, 1312, 655, 6939], "bits": ["", "11", "100", "", "011111", ""]}
+{"idx": 22, "prompt": "and", "stego": "and now im a little worried", "tokens": [392, 783, 545, 257, 1310, 7960], "bits": ["", "", "011111111", "10000", "010", "1010000"]}
+{"idx": 23, "prompt": "i", "stego": "i have never seen him either", "tokens": [72, 423, 1239, 1775, 683, 2035], "bits": ["", "01", "10011111", "", "100010", "10100"]}
+{"idx": 24, "prompt": "nice", "stego": "nice i hope you like it", "tokens": [44460, 1312, 2911, 345, 588, 340], "bits": ["", "10100", "10011", "", "", ""]}
+{"idx": 25, "prompt": "in", "stego": "in bed with a busted leg", "tokens": [259, 3996, 351, 257, 36193, 1232], "bits": ["", "100", "00", "", "011", "1000110010"]}
+{"idx": 26, "prompt": "mmmm", "stego": "mmmm sounds like a good idea", "tokens": [40133, 5238, 588, 257, 922, 2126], "bits": ["", "101000", "0", "", "0", ""]}
+{"idx": 27, "prompt": "of", "stego": "of course i am at work", "tokens": [1659, 1781, 1312, 716, 379, 670], "bits": ["", "", "", "0100", "0111010", "0"]}
+{"idx": 28, "prompt": "this", "stego": "this makes me miss my sister", "tokens": [5661, 1838, 502, 2051, 616, 6621], "bits": ["", "110111", "", "100", "", "100000"]}
+{"idx": 29, "prompt": "back", "stego": "back from melbourne bound and well on the way back to cape cod", "tokens": [1891, 422, 7758, 12544, 5421, 290, 880, 319, 262, 835, 736, 284, 36023, 14873], "bits": ["", "1", "011101101", "", "10001011000011100", "0", "10000010111010", "1010100", "", "", "", "", "100000000110", ""]}
+{"idx": 30, "prompt": "even", "stego": "even if it is a bitch", "tokens": [10197, 611, 340, 318, 257, 21551], "bits": ["", "", "011", "", "10000", "001110000"]}
+{"idx": 31, "prompt": "who", "stego": "who's a man now", "tokens": [8727, 705, 82, 257, 582, 783], "bits": ["", "0", "", "010101", "011000", ""]}
+{"idx": 32, "prompt": "y", "stego": "yay my unnoticed bracelet broke", "tokens": [88, 323, 616, 33755, 42893, 6265], "bits": ["", "", "0111", "10110001101100010100011", "01", "0"]}
+{"idx": 33, "prompt": "i", "stego": "i love friday nights too", "tokens": [72, 1842, 1216, 2567, 12513, 1165], "bits": ["", "010", "1101110011", "110", "1000", "0"]}
+{"idx": 34, "prompt": "s", "stego": "sad that his team lost", "tokens": [82, 324, 326, 465, 1074, 2626], "bits": ["", "0", "10", "10101011", "0111111", ""]}
+{"idx": 35, "prompt": "song", "stego": "song with bryan adams", "tokens": [34050, 351, 275, 29038, 512, 4105], "bits": ["", "110110", "0101010", "1011", "0", ""]}
+{"idx": 36, "prompt": "please", "stego": "please come to south africa", "tokens": [29688, 1282, 284, 5366, 6580, 30997], "bits": ["", "0", "", "10011111", "", ""]}
+{"idx": 37, "prompt": "the", "stego": "the love of my life is", "tokens": [1169, 1842, 286, 616, 1204, 318], "bits": ["", "0111101", "", "", "", "011"]}
+{"idx": 38, "prompt": "no", "stego": "no problem i'm pretty sure", "tokens": [3919, 1917, 1312, 1101, 2495, 1654], "bits": ["", "0101", "0", "", "0111111011", "10"]}
+{"idx": 39, "prompt": "p", "stego": "pity it's raining", "tokens": [79, 414, 340, 705, 82, 43079], "bits": ["", "0100", "0", "", "", ""]}
+{"idx": 40, "prompt": "is", "stego": "is there a problem with it", "tokens": [271, 612, 257, 1917, 351, 340], "bits": ["", "0110", "01", "01100", "", "01"]}
+{"idx": 41, "prompt": "the", "stego": "the swine flu is back", "tokens": [1169, 1509, 500, 6562, 318, 736], "bits": ["", "01111111", "", "", "", "011"]}
+{"idx": 42, "prompt": "jj", "stego": "jj abrams's song", "tokens": [41098, 450, 9474, 705, 82, 3496], "bits": ["", "01", "", "1000001", "", "000011"]}
+{"idx": 43, "prompt": "but", "stego": "but it's all good", "tokens": [4360, 340, 705, 82, 477, 922], "bits": ["", "100", "", "", "0", ""]}
+{"idx": 44, "prompt": "walking", "stego": "walking home from my dads house", "tokens": [44065, 1363, 422, 616, 47713, 2156], "bits": ["", "", "", "100010", "011011", ""]}
+{"idx": 45, "prompt": "i", "stego": "i don't think so", "tokens": [72, 466, 299, 470, 892, 523], "bits": ["", "10", "", "", "01111", ""]}
+{"idx": 46, "prompt": "been", "stego": "been sick on the way home", "tokens": [47436, 6639, 319, 262, 835, 1363], "bits": ["", "", "0111111111", "01", "10", ""]}
+{"idx": 47, "prompt": "lol", "stego": "lol well not forever i hope", "tokens": [47288, 880, 407, 8097, 1312, 2911], "bits": ["", "01111", "101000", "11011101", "011011", "11"]}
+{"idx": 48, "prompt": "is", "stego": "is it not cool that i have to go to work at 630am", "tokens": [271, 340, 407, 3608, 326, 1312, 423, 284, 467, 284, 670, 379, 44505, 321], "bits": ["", "000", "101011", "1010", "", "0111111", "01", "", "01", "", "", "1000", "1000", "01"]}
+{"idx": 49, "prompt": "i", "stego": "i want to cuddle him", "tokens": [72, 765, 284, 269, 24500, 683], "bits": ["", "", "0111", "110100111", "", "0110"]}
+{"idx": 50, "prompt": "has", "stego": "has an upset tummy boo", "tokens": [10134, 281, 9247, 11814, 1820, 22513], "bits": ["", "11001", "011", "", "", "1"]}
+{"idx": 51, "prompt": "i", "stego": "i miss my pajamas", "tokens": [72, 2051, 616, 279, 1228, 17485], "bits": ["", "1000", "0", "0100111", "0111", ""]}
+{"idx": 52, "prompt": "nice", "stego": "nice to know you like it", "tokens": [44460, 284, 760, 345, 588, 340], "bits": ["", "0", "1101", "", "10", ""]}
+{"idx": 53, "prompt": "i", "stego": "i am getting out of bed", "tokens": [72, 716, 1972, 503, 286, 3996], "bits": ["", "011", "10001010", "11001", "", ""]}
+{"idx": 54, "prompt": "about", "stego": "about to go eat some breakfast", "tokens": [10755, 284, 467, 4483, 617, 12607], "bits": ["", "", "0", "11101", "", "0111"]}
+{"idx": 55, "prompt": "i", "stego": "i miss you too chicken soup", "tokens": [72, 2051, 345, 1165, 9015, 17141], "bits": ["", "1000", "01", "0", "1010001111", "011"]}
+{"idx": 56, "prompt": "i", "stego": "i 'll see you then", "tokens": [72, 705, 297, 766, 345, 788], "bits": ["", "0100", "", "", "", "1000000"]}
+{"idx": 57, "prompt": "its", "stego": "its all cheeky or nothing", "tokens": [896, 477, 19353, 88, 393, 2147], "bits": ["", "0111", "11100000100110101101", "", "1000", "0111111011"]}
+{"idx": 58, "prompt": "we", "stego": "we should've known better", "tokens": [732, 815, 705, 303, 1900, 1365], "bits": ["", "1010", "10", "", "1000000", ""]}
+{"idx": 59, "prompt": "i", "stego": "i wish you could have came", "tokens": [72, 4601, 345, 714, 423, 1625], "bits": ["", "100", "100", "011", "10", "0111"]}
+{"idx": 60, "prompt": "and", "stego": "and that's why i'm tweeting while in my car all day", "tokens": [392, 326, 705, 82, 1521, 1312, 1101, 28990, 981, 287, 616, 1097, 477, 1110], "bits": ["", "10", "", "", "0111111", "", "01", "100010101", "10010", "11", "1000001", "0011", "011101", ""]}
+{"idx": 61, "prompt": "you", "stego": "you have meumped xxx", "tokens": [5832, 423, 502, 27073, 2124, 5324], "bits": ["", "101", "11000101", "111010100100011", "1100100", "0"]}
+{"idx": 62, "prompt": "so", "stego": "so your not tired at all", "tokens": [568, 534, 407, 10032, 379, 477], "bits": ["", "11011000", "", "100000001000", "", ""]}
+{"idx": 63, "prompt": "t", "stego": "trying to keep it dark", "tokens": [83, 14992, 284, 1394, 340, 3223], "bits": ["", "0", "", "100001", "", "10000000001011101011"]}
+{"idx": 64, "prompt": "the", "stego": "the pool was so empty today", "tokens": [1169, 5933, 373, 523, 6565, 1909], "bits": ["", "01011100", "01", "", "10001101", "0111"]}
+{"idx": 65, "prompt": "fashioned", "stego": "fashionedved by my own accord", "tokens": [28776, 1079, 416, 616, 898, 8178], "bits": ["", "110011100010", "01", "10010", "", "01111100011"]}
+{"idx": 66, "prompt": "i", "stego": "i have an interview tomz", "tokens": [72, 423, 281, 2720, 16667, 89], "bits": ["", "01", "10011", "1000000", "11100", "110000"]}
+{"idx": 67, "prompt": "with", "stego": "with ashley in her arms", "tokens": [4480, 12530, 1636, 287, 607, 5101], "bits": ["", "110000", "", "100101", "011", "01"]}
+{"idx": 68, "prompt": "the", "stego": "the french people in iran", "tokens": [1169, 48718, 661, 287, 4173, 272], "bits": ["", "1001010001", "110110", "1001", "0111", ""]}
+{"idx": 69, "prompt": "got", "stego": "got my slipknot ready", "tokens": [23442, 616, 13819, 74, 1662, 3492], "bits": ["", "01", "1100110110100", "00", "", "11010"]}
+{"idx": 70, "prompt": "how", "stego": "how's la treating you", "tokens": [4919, 705, 82, 8591, 13622, 345], "bits": ["", "0", "", "10011100001", "01110", ""]}
+{"idx": 71, "prompt": "om", "stego": "omg that is so depressing", "tokens": [296, 70, 326, 318, 523, 31193], "bits": ["", "", "100", "011", "", "1100011"]}
+{"idx": 72, "prompt": "no", "stego": "no fun on the lake today", "tokens": [3919, 1257, 319, 262, 13546, 1909], "bits": ["", "1001001", "010", "", "100000001", ""]}
+{"idx": 73, "prompt": "ge", "stego": "geeky come on man", "tokens": [469, 988, 88, 1282, 319, 582], "bits": ["", "101", "", "100110001100", "00", "10"]}
+{"idx": 74, "prompt": "no", "stego": "no wonder it is so expensive", "tokens": [3919, 4240, 340, 318, 523, 5789], "bits": ["", "01101", "1010", "110", "", "10001010"]}
+{"idx": 75, "prompt": "come", "stego": "come back to meeeeee", "tokens": [2958, 736, 284, 502, 41591, 68], "bits": ["", "1", "", "0", "1000", ""]}
+{"idx": 76, "prompt": "why", "stego": "why do they think im fat", "tokens": [22850, 466, 484, 892, 545, 3735], "bits": ["", "0", "110010", "101001100", "100", "0101"]}
+{"idx": 77, "prompt": "good", "stego": "good morning well i guess so", "tokens": [11274, 3329, 880, 1312, 4724, 523], "bits": ["", "0", "110000101", "01", "0111", "100011"]}
+{"idx": 78, "prompt": "cle", "stego": "cleaning the house ouch", "tokens": [2375, 7574, 262, 2156, 267, 794], "bits": ["", "", "", "01", "11011011", "101"]}
+{"idx": 79, "prompt": "good", "stego": "good luck with the switch lol", "tokens": [11274, 8458, 351, 262, 5078, 19462], "bits": ["", "", "", "", "0111111100001001", "100011001"]}
+{"idx": 80, "prompt": "too", "stego": "too bad i have to work", "tokens": [18820, 2089, 1312, 423, 284, 670], "bits": ["", "", "0", "", "", ""]}
+{"idx": 81, "prompt": "the", "stego": "the hair looks sooo pretty", "tokens": [1169, 4190, 3073, 523, 2238, 2495], "bits": ["", "10000100", "01101", "0", "0", "0111"]}
+{"idx": 82, "prompt": "you", "stego": "you are on the search right", "tokens": [5832, 389, 319, 262, 2989, 826], "bits": ["", "", "100011010", "0", "01110", "1000011100"]}
+{"idx": 83, "prompt": "was", "stego": "was awake for 25 hours today", "tokens": [9776, 21693, 329, 1679, 2250, 1909], "bits": ["", "11011101", "10000", "1100011", "01", "0"]}
+{"idx": 84, "prompt": "so", "stego": "so far i have no luck", "tokens": [568, 1290, 1312, 423, 645, 8458], "bits": ["", "100", "01", "", "011", "101"]}
+{"idx": 85, "prompt": "packing", "stego": "packing the last of my things", "tokens": [41291, 262, 938, 286, 616, 1243], "bits": ["", "111011", "011", "0", "", ""]}
+{"idx": 86, "prompt": "did", "stego": "didn't get much sleep", "tokens": [20839, 299, 470, 651, 881, 3993], "bits": ["", "", "", "", "1000", ""]}
+{"idx": 87, "prompt": "six", "stego": "six hours of gym this week", "tokens": [19412, 2250, 286, 11550, 428, 1285], "bits": ["", "", "", "10000010100", "010", ""]}
+{"idx": 88, "prompt": "i", "stego": "i am with you on that", "tokens": [72, 716, 351, 345, 319, 326], "bits": ["", "011", "10100001", "", "", ""]}
+{"idx": 89, "prompt": "got", "stego": "got to go to work tomorrow", "tokens": [23442, 284, 467, 284, 670, 9439], "bits": ["", "", "", "", "0111", "1101"]}
+{"idx": 90, "prompt": "i", "stego": "i don't like it", "tokens": [72, 466, 299, 470, 588, 340], "bits": ["", "10", "", "", "011", "01"]}
+{"idx": 91, "prompt": "det", "stego": "detroit goes to the finals", "tokens": [15255, 7775, 2925, 284, 262, 18576], "bits": ["", "", "101111100", "0", "", ""]}
+{"idx": 92, "prompt": "so", "stego": "so tired still a little sick", "tokens": [568, 10032, 991, 257, 1310, 6639], "bits": ["", "", "1000001001", "10001", "10", "01"]}
+{"idx": 93, "prompt": "we", "stego": "we 'll have to do some taking that lesson on monday morning", "tokens": [732, 705, 297, 423, 284, 466, 617, 2263, 326, 11483, 319, 285, 3204, 3329], "bits": ["", "0", "1", "010", "", "011110", "10110", "100010110001", "0110011", "111101000100001", "0100", "101", "", "010"]}
+{"idx": 94, "prompt": "dam", "stego": "damn you tony hawk", "tokens": [11043, 77, 345, 256, 1647, 48710], "bits": ["", "", "", "011011010", "1000", ""]}
+{"idx": 95, "prompt": "aha", "stego": "aha she's so cute", "tokens": [12236, 673, 705, 82, 523, 13779], "bits": ["", "11010", "011", "", "", "0"]}
+{"idx": 96, "prompt": "lol", "stego": "lol ur such a dork", "tokens": [47288, 2956, 884, 257, 288, 967], "bits": ["", "1101001", "01", "", "1000", ""]}
+{"idx": 97, "prompt": "w", "stego": "welcome back to the future", "tokens": [86, 9571, 736, 284, 262, 2003], "bits": ["", "", "1000", "", "", "011"]}
+{"idx": 98, "prompt": "si", "stego": "siickness causes the chaos", "tokens": [13396, 624, 1108, 5640, 262, 11918], "bits": ["", "011100", "100000", "1111001", "0111111001", "10000"]}
+{"idx": 99, "prompt": "thanks", "stego": "thanks for the chat btw", "tokens": [27547, 329, 262, 8537, 275, 4246], "bits": ["", "", "", "101100110", "011", ""]}
+{"idx": 100, "prompt": "good", "stego": "good luck with your world tour", "tokens": [11274, 8458, 351, 534, 995, 4205], "bits": ["", "", "", "1000", "1000101010", ""]}
+{"idx": 101, "prompt": "they", "stego": "they were supposed to do a duet with heidi and jay", "tokens": [9930, 547, 4385, 284, 466, 257, 7043, 316, 351, 339, 19830, 290, 474, 323], "bits": ["", "10", "10001010", "", "01101", "1", "010110", "", "", "01111101110110", "0", "", "0111", "100"]}
+{"idx": 102, "prompt": "no", "stego": "no work to do today then", "tokens": [3919, 670, 284, 466, 1909, 788], "bits": ["", "", "100000001010", "0", "101", ""]}
+{"idx": 103, "prompt": "we", "stego": "we are obviously not drinking coffee", "tokens": [732, 389, 6189, 407, 7722, 6891], "bits": ["", "", "10000010100000", "011", "1000000011", "101001"]}
+{"idx": 104, "prompt": "i", "stego": "i am sooooooo tired", "tokens": [72, 716, 523, 13321, 2238, 10032], "bits": ["", "011", "01", "001", "10", ""]}
+{"idx": 105, "prompt": "that", "stego": "that's not my style", "tokens": [5562, 705, 82, 407, 616, 3918], "bits": ["", "", "", "1000", "10011", "01"]}
+{"idx": 106, "prompt": "is", "stego": "is sad about the burrito", "tokens": [271, 6507, 546, 262, 4356, 39834], "bits": ["", "011111", "01", "", "1000010011101001", "1"]}
+{"idx": 107, "prompt": "are", "stego": "are you doing a work out", "tokens": [533, 345, 1804, 257, 670, 503], "bits": ["", "", "011", "01", "1010110011", ""]}
+{"idx": 108, "prompt": "have", "stego": "have a nice day marissa", "tokens": [14150, 257, 3621, 1110, 1667, 13808], "bits": ["", "", "1000", "", "0111100101", "01"]}
+{"idx": 109, "prompt": "lt", "stego": "lt3 taylor timee", "tokens": [2528, 18, 256, 7167, 640, 68], "bits": ["", "", "1010110", "010", "100000111101010", ""]}
+{"idx": 110, "prompt": "g", "stego": "gonna hit the books now", "tokens": [70, 6415, 2277, 262, 3835, 783], "bits": ["", "0", "1100001", "", "1000", "0"]}
+{"idx": 111, "prompt": "lol", "stego": "lol im an insomniac i think that will cheer me up", "tokens": [47288, 545, 281, 1035, 296, 8461, 330, 1312, 892, 326, 481, 14042, 502, 510], "bits": ["", "10010", "101010000", "01001", "", "", "", "011", "00", "1000010", "01111110", "110", "", ""]}
+{"idx": 112, "prompt": "i", "stego": "i don't like it", "tokens": [72, 466, 299, 470, 588, 340], "bits": ["", "10", "", "", "011", "01"]}
+{"idx": 113, "prompt": "u", "stego": "u still wana be there", "tokens": [84, 991, 266, 2271, 307, 612], "bits": ["", "100010", "11010000", "0100", "100", ""]}
+{"idx": 114, "prompt": "y", "stego": "yay its fridayy", "tokens": [88, 323, 663, 1216, 2567, 88], "bits": ["", "", "1000010", "01", "", "0011"]}
+{"idx": 115, "prompt": "i", "stego": "i'm taking my chocolate tablet", "tokens": [72, 1101, 2263, 616, 11311, 14147], "bits": ["", "0", "011011111", "101", "10100011", "10000010101"]}
+{"idx": 116, "prompt": "you", "stego": "you should be in it too", "tokens": [5832, 815, 307, 287, 340, 1165], "bits": ["", "10", "01011", "", "100001", "1000"]}
+{"idx": 117, "prompt": "you", "stego": "you are a silly silly girl", "tokens": [5832, 389, 257, 14397, 14397, 2576], "bits": ["", "", "", "0111111011100", "01", ""]}
+{"idx": 118, "prompt": "makes", "stego": "makes me want to go shopping", "tokens": [49123, 502, 765, 284, 467, 9735], "bits": ["", "", "", "", "0110", "101"]}
+{"idx": 119, "prompt": "my", "stego": "my daddy is bringing me cookies", "tokens": [1820, 35822, 318, 6079, 502, 14746], "bits": ["", "10011001", "0", "101101110", "", "1010010"]}
+{"idx": 120, "prompt": "fe", "stego": "feeling realllll sick", "tokens": [5036, 10809, 1103, 297, 297, 6639], "bits": ["", "", "10111100", "", "01", "1101"]}
+{"idx": 121, "prompt": "im", "stego": "im back on my old phone", "tokens": [320, 736, 319, 616, 1468, 3072], "bits": ["", "10101", "", "01111110", "101011", "0"]}
+{"idx": 122, "prompt": "with", "stego": "with and the westlove family", "tokens": [4480, 290, 262, 7421, 23205, 1641], "bits": ["", "10011", "0", "100000110100100", "1000001001101001", "0110"]}
+{"idx": 123, "prompt": "i", "stego": "i am so boooored", "tokens": [72, 716, 523, 1489, 2238, 1850], "bits": ["", "011", "01", "1001100010", "", ""]}
+{"idx": 124, "prompt": "dep", "stego": "depends on how you feel", "tokens": [10378, 2412, 319, 703, 345, 1254], "bits": ["", "", "", "", "011110", ""]}
+{"idx": 125, "prompt": "off", "stego": "off to work early after that", "tokens": [2364, 284, 670, 1903, 706, 326], "bits": ["", "", "00", "100110", "10011100", ""]}
+{"idx": 126, "prompt": "we", "stego": "we are two now so thanks", "tokens": [732, 389, 734, 783, 523, 5176], "bits": ["", "", "011111100101", "0110100", "01", "0111111"]}
+{"idx": 127, "prompt": "follow", "stego": "following you back as well", "tokens": [27780, 278, 345, 736, 355, 880], "bits": ["", "10", "0", "0", "100", ""]}
+{"idx": 128, "prompt": "aw", "stego": "awww i miss u too", "tokens": [707, 1383, 1312, 2051, 334, 1165], "bits": ["", "", "", "10000", "1000", ""]}
+{"idx": 129, "prompt": "thank", "stego": "thank you for the bday", "tokens": [40716, 345, 329, 262, 275, 820], "bits": ["", "", "", "", "01110011", ""]}
+{"idx": 130, "prompt": "just", "stego": "just finished seeing wolverine", "tokens": [3137, 5201, 4379, 266, 14375, 500], "bits": ["", "01", "1011110100", "011", "", ""]}
+{"idx": 131, "prompt": "pping", "stego": "pping in to wine amp listening to godiva by john green then bed", "tokens": [2105, 287, 284, 8237, 20766, 8680, 284, 5770, 12151, 416, 45610, 4077, 788, 3996], "bits": ["", "01", "10", "110001011", "0111111", "100111011010", "", "10100011011", "011", "", "011100", "10000", "11010111111100", ""]}
+{"idx": 132, "prompt": "internet", "stego": "internet is dying slow fast food", "tokens": [37675, 318, 9950, 3105, 3049, 2057], "bits": ["", "", "10000010", "0110", "1101", "1000010010110"]}
+{"idx": 133, "prompt": "using", "stego": "using the web browser with the eye credit cards damn those trains trains tun", "tokens": [3500, 262, 3992, 6444, 351, 262, 4151, 3884, 4116, 12270, 883, 13404, 13404, 6278], "bits": ["", "01", "01010", "110000", "01101", "010", "1001011100010", "1101001111010101110", "011000", "1000001111000", "100", "10010100110", "01101101", "101010001111"]}
+{"idx": 134, "prompt": "esp", "stego": "esp the social security season haha", "tokens": [9774, 262, 1919, 2324, 1622, 42254], "bits": ["", "", "100000101010100", "0", "101001111100011", "0111"]}
+{"idx": 135, "prompt": "i", "stego": "i am a sad panda", "tokens": [72, 716, 257, 6507, 279, 5282], "bits": ["", "011", "011", "0111110", "", ""]}
+{"idx": 136, "prompt": "yeah", "stego": "yeah i was passing it out", "tokens": [43669, 1312, 373, 6427, 340, 503], "bits": ["", "0", "01", "1010001001111", "10", "1000"]}
+{"idx": 137, "prompt": "my", "stego": "my day is about to start", "tokens": [1820, 1110, 318, 546, 284, 923], "bits": ["", "010101", "0", "01110", "", "0"]}
+{"idx": 138, "prompt": "watching", "stego": "watching jay leno's last tonight show i love conan", "tokens": [50042, 474, 323, 18896, 78, 705, 82, 938, 9975, 905, 1312, 1842, 369, 272], "bits": ["", "100", "1001", "", "", "01", "", "", "1", "", "", "011111", "1", ""]}
+{"idx": 139, "prompt": "os", "stego": "oscarni dvds", "tokens": [418, 7718, 8461, 288, 85, 9310], "bits": ["", "", "011110110110", "01111000000", "0110", ""]}
+{"idx": 140, "prompt": "re", "stego": "re quotattendquot", "tokens": [260, 23611, 1078, 437, 421, 313], "bits": ["", "100101", "110110001", "1000", "", ""]}
+{"idx": 141, "prompt": "i", "stego": "i love moment in my day", "tokens": [72, 1842, 2589, 287, 616, 1110], "bits": ["", "010", "111001010001010110111", "11011", "", "110100"]}
+{"idx": 142, "prompt": "my", "stego": "my tummy hurts like hell", "tokens": [1820, 11814, 1820, 20406, 588, 5968], "bits": ["", "00100", "", "01", "1100", ""]}
+{"idx": 143, "prompt": "i", "stego": "i want my own subeta", "tokens": [72, 765, 616, 898, 850, 17167], "bits": ["", "", "0111111", "0111", "100011101010", "1101"]}
+{"idx": 144, "prompt": "this", "stego": "this is why i like it", "tokens": [5661, 318, 1521, 1312, 588, 340], "bits": ["", "", "", "", "100000010", "0"]}
+{"idx": 145, "prompt": "does", "stego": "doesn't feel like it", "tokens": [22437, 299, 470, 1254, 588, 340], "bits": ["", "", "", "00", "", ""]}
+{"idx": 146, "prompt": "i", "stego": "i miss all my friends already", "tokens": [72, 2051, 477, 616, 2460, 1541], "bits": ["", "1000", "10001", "011", "0", ""]}
+{"idx": 147, "prompt": "s", "stego": "sad face on the news", "tokens": [82, 324, 1986, 319, 262, 1705], "bits": ["", "0", "110001", "10011", "", ""]}
+{"idx": 148, "prompt": "im", "stego": "im on my way to school", "tokens": [320, 319, 616, 835, 284, 1524], "bits": ["", "10000", "0", "", "", ""]}
+{"idx": 149, "prompt": "i", "stego": "i wish you would be here", "tokens": [72, 4601, 345, 561, 307, 994], "bits": ["", "100", "100", "10000", "011", ""]}
+{"idx": 150, "prompt": "i", "stego": "i am so excited for you", "tokens": [72, 716, 523, 6568, 329, 345], "bits": ["", "011", "01", "010", "", ""]}
+{"idx": 151, "prompt": "i", "stego": "i want this album so bad", "tokens": [72, 765, 428, 5062, 523, 2089], "bits": ["", "", "1000000000101", "101010", "", ""]}
+{"idx": 152, "prompt": "is", "stego": "is making a headway of a sexy girl quot seconds of silencequot by the veronicas is awesome", "tokens": [271, 1642, 257, 1182, 1014, 286, 257, 17144, 2576, 23611, 4201, 286, 9550, 421, 313, 416, 262, 3326, 9229, 292, 318, 7427], "bits": ["", "101", "0111", "100000", "", "0111111110110", "", "10000100001110", "0110110", "1010000001", "111110110001100011", "", "011", "", "", "010", "01111", "000", "", "", "100011", "001"]}
+{"idx": 153, "prompt": "all", "stego": "all of the best to you", "tokens": [439, 286, 262, 1266, 284, 345], "bits": ["", "", "100010", "10", "01", ""]}
+{"idx": 154, "prompt": "well", "stego": "well that's another record", "tokens": [4053, 326, 705, 82, 1194, 1700], "bits": ["", "01", "", "", "011111111", "11001010"]}
+{"idx": 155, "prompt": "clear", "stego": "clearly the answer was yes", "tokens": [20063, 306, 262, 3280, 373, 3763], "bits": ["", "", "", "011111110", "101", ""]}
+{"idx": 156, "prompt": "to", "stego": "to help me lose my mind", "tokens": [1462, 1037, 502, 4425, 616, 2000], "bits": ["", "100111", "10", "0110110", "01", "0"]}
+{"idx": 157, "prompt": "those", "stego": "those poor birds and their families", "tokens": [25591, 3595, 10087, 290, 511, 4172], "bits": ["", "1001", "1100101", "1000110", "", "0"]}
+{"idx": 158, "prompt": "aw", "stego": "aww hope you feel better", "tokens": [707, 86, 2911, 345, 1254, 1365], "bits": ["", "0", "10111", "01", "", ""]}
+{"idx": 159, "prompt": "then", "stego": "then a fun filled day of busy doing nothing i wish i knew more", "tokens": [8524, 257, 1257, 5901, 1110, 286, 8179, 1804, 2147, 1312, 4601, 1312, 2993, 517], "bits": ["", "0111", "", "", "", "011111111111", "10011011101", "1101000", "01", "100101", "011", "", "10001111111", ""]}
+{"idx": 160, "prompt": "got", "stego": "got to do another ear drum", "tokens": [23442, 284, 466, 1194, 1027, 13026], "bits": ["", "", "1001000", "1110101", "100110010011", "0111000"]}
+{"idx": 161, "prompt": "i", "stego": "i hope it's helpful", "tokens": [72, 2911, 340, 705, 82, 7613], "bits": ["", "101", "01101", "0", "", "110101101"]}
+{"idx": 162, "prompt": "i", "stego": "i hope your project went well", "tokens": [72, 2911, 534, 1628, 1816, 880], "bits": ["", "101", "01110", "1000011001111", "11001", ""]}
+{"idx": 163, "prompt": "aw", "stego": "aww thank you so much", "tokens": [707, 86, 5875, 345, 523, 881], "bits": ["", "0", "100", "", "011", ""]}
+{"idx": 164, "prompt": "ca", "stego": "can't wait to hear", "tokens": [6888, 299, 470, 4043, 284, 3285], "bits": ["", "", "", "", "", "01110"]}
+{"idx": 165, "prompt": "having", "stego": "having a really bad day today", "tokens": [40965, 257, 1107, 2089, 1110, 1909], "bits": ["", "", "0011", "", "01", ""]}
+{"idx": 166, "prompt": "ah", "stego": "ahhh got 3 new followers", "tokens": [993, 12337, 1392, 513, 649, 10569], "bits": ["", "", "1001010", "101000100000", "011", "00"]}
+{"idx": 167, "prompt": "but", "stego": "but you're pretty awesome", "tokens": [4360, 345, 705, 260, 2495, 7427], "bits": ["", "10", "", "", "100000000", "011"]}
+{"idx": 168, "prompt": "rest", "stego": "rest in peace luis", "tokens": [2118, 287, 4167, 300, 84, 271], "bits": ["", "", "", "010110", "", ""]}
+{"idx": 169, "prompt": "i", "stego": "i wish i could go to", "tokens": [72, 4601, 1312, 714, 467, 284], "bits": ["", "100", "", "01", "100", "01"]}
+{"idx": 170, "prompt": "i", "stego": "i just read your post and i like the sound of it so much", "tokens": [72, 655, 1100, 534, 1281, 290, 1312, 588, 262, 2128, 286, 340, 523, 881], "bits": ["", "1010", "0111100", "0", "0110", "", "0111", "1000101", "01", "100", "", "01111", "011", "10"]}
+{"idx": 171, "prompt": "that", "stego": "that's the new pic", "tokens": [5562, 705, 82, 262, 649, 8301], "bits": ["", "", "", "100", "011100", "011011"]}
+{"idx": 172, "prompt": "finished", "stego": "finished the exams i'm done", "tokens": [43952, 262, 26420, 1312, 1101, 1760], "bits": ["", "0", "100111011", "01111", "00", "00"]}
+{"idx": 173, "prompt": "and", "stego": "and so is imovie 60", "tokens": [392, 523, 318, 545, 10739, 3126], "bits": ["", "101111", "0", "10011011100", "01101", "1110101001"]}
+{"idx": 174, "prompt": "im", "stego": "im gonna try and get back into bed i just wanna be at home", "tokens": [320, 8066, 1949, 290, 651, 736, 656, 3996, 1312, 655, 18869, 307, 379, 1363], "bits": ["", "010", "1000", "", "011111", "10", "100000010", "101", "", "10000000101", "010", "10", "1001", ""]}
+{"idx": 175, "prompt": "sm", "stego": "smile and be nice xx", "tokens": [5796, 576, 290, 307, 3621, 31383], "bits": ["", "", "01", "011110", "11000", "1010101"]}
+{"idx": 176, "prompt": "no", "stego": "no i'm not i have the veter it's the marquis", "tokens": [3919, 1312, 1101, 407, 1312, 423, 262, 5785, 340, 705, 82, 262, 44054, 271], "bits": ["", "0", "011", "", "01010", "101001", "110011", "101000110100010001010011", "1010101", "", "", "01", "1001000100100010001", ""]}
+{"idx": 177, "prompt": "pr", "stego": "praying for all the families", "tokens": [1050, 8369, 329, 477, 262, 4172], "bits": ["", "", "", "01100", "", ""]}
+{"idx": 178, "prompt": "hey", "stego": "hey can i rub your head", "tokens": [20342, 460, 1312, 6437, 534, 1182], "bits": ["", "1001", "", "10000011011100001101", "", ""]}
+{"idx": 179, "prompt": "sorry", "stego": "sorry i wasn't there", "tokens": [41599, 1312, 373, 299, 470, 612], "bits": ["", "", "0111", "0", "", ""]}
+{"idx": 180, "prompt": "he", "stego": "hehe i love that one", "tokens": [258, 258, 1312, 1842, 326, 530], "bits": ["", "", "100", "011", "0", "10110"]}
+{"idx": 181, "prompt": "count", "stego": "counting down until i can take my hovestar to work", "tokens": [9127, 278, 866, 1566, 1312, 460, 1011, 616, 289, 709, 395, 283, 284, 670], "bits": ["", "", "", "101", "010", "", "100001011", "01", "1000110000", "101101000010", "0", "0101", "0", "0"]}
+{"idx": 182, "prompt": "i", "stego": "i wish i could go out", "tokens": [72, 4601, 1312, 714, 467, 503], "bits": ["", "100", "", "01", "100", "10"]}
+{"idx": 183, "prompt": "aw", "stego": "awww i was so sad", "tokens": [707, 1383, 1312, 373, 523, 6507], "bits": ["", "", "", "1000110111", "0", ""]}
+{"idx": 184, "prompt": "bo", "stego": "boo jus got home", "tokens": [2127, 78, 474, 385, 1392, 1363], "bits": ["", "", "10100010", "0", "", ""]}
+{"idx": 185, "prompt": "picked", "stego": "picked up some great shots today", "tokens": [41891, 510, 617, 1049, 6934, 1909], "bits": ["", "", "10", "01", "100001", ""]}
+{"idx": 186, "prompt": "but", "stego": "but it's a wrap", "tokens": [4360, 340, 705, 82, 257, 14441], "bits": ["", "100", "", "", "01", "011"]}
+{"idx": 187, "prompt": "i", "stego": "i want niley 182 tickets", "tokens": [72, 765, 299, 9618, 28581, 8587], "bits": ["", "", "10000000010101", "", "100000100000111", ""]}
+{"idx": 188, "prompt": "sh", "stego": "shame there's no more chinese for the arkansas", "tokens": [1477, 480, 612, 705, 82, 645, 517, 442, 3762, 329, 262, 610, 74, 6618], "bits": ["", "", "10000010", "", "", "", "0111", "011101011100", "01", "0", "100000", "110000001", "0", ""]}
+{"idx": 189, "prompt": "i", "stego": "i miss my fuzzy teddy", "tokens": [72, 2051, 616, 34669, 256, 21874], "bits": ["", "1000", "0", "01111010001", "10011", "011"]}
+{"idx": 190, "prompt": "break", "stego": "breakfast at taxis was good", "tokens": [9032, 7217, 379, 45049, 373, 922], "bits": ["", "", "", "100011001000001110011", "0111100", "00"]}
+{"idx": 191, "prompt": "re", "stego": "recovering from my night", "tokens": [260, 9631, 278, 422, 616, 1755], "bits": ["", "0", "", "", "1011", "011000"]}
+{"idx": 192, "prompt": "i", "stego": "i want too sleep at night", "tokens": [72, 765, 1165, 3993, 379, 1755], "bits": ["", "", "1000000001010", "10001000", "0111110", ""]}
+{"idx": 193, "prompt": "n", "stego": "noo i'm not blonde", "tokens": [77, 2238, 1312, 1101, 407, 21541], "bits": ["", "101", "01", "0", "", "1000110000000"]}
+{"idx": 194, "prompt": "i", "stego": "i love you sooo much", "tokens": [72, 1842, 345, 523, 2238, 881], "bits": ["", "010", "", "", "1000001", ""]}
+{"idx": 195, "prompt": "we", "stego": "we're taking pictures too", "tokens": [732, 705, 260, 2263, 5986, 1165], "bits": ["", "0", "", "01110010", "100100", ""]}
+{"idx": 196, "prompt": "we", "stego": "we are having a good time", "tokens": [732, 389, 1719, 257, 922, 640], "bits": ["", "", "01101", "", "01111", ""]}
+{"idx": 197, "prompt": "watching", "stego": "watching some tv and eating soup", "tokens": [50042, 617, 31557, 290, 6600, 17141], "bits": ["", "100101", "00", "", "0101", "000"]}
+{"idx": 198, "prompt": "o", "stego": "ooc no ice cream tho", "tokens": [78, 420, 645, 4771, 8566, 42796], "bits": ["", "110", "10", "10000011000001", "", "110001"]}
+{"idx": 199, "prompt": "16", "stego": "16 hour work day is here", "tokens": [1433, 1711, 670, 1110, 318, 994], "bits": ["", "10", "011", "01", "01", "101"]}
+{"idx": 200, "prompt": "hur", "stego": "hurray for the statement being", "tokens": [48349, 2433, 329, 262, 2643, 852], "bits": ["", "", "", "011", "1100111010111110", "0111001"]}
+{"idx": 201, "prompt": "i", "stego": "i miss my little mermaid", "tokens": [72, 2051, 616, 1310, 4017, 23151], "bits": ["", "1000", "0", "00110", "0101011", ""]}
+{"idx": 202, "prompt": "normal", "stego": "normal service for about 25 minutes", "tokens": [11265, 2139, 329, 546, 1679, 2431], "bits": ["", "0", "01101", "0111001", "11110000", "1"]}
+{"idx": 203, "prompt": "would", "stego": "wouldn't that be helpful", "tokens": [19188, 299, 470, 326, 307, 7613], "bits": ["", "", "", "", "", "10000101010"]}
+{"idx": 204, "prompt": "i", "stego": "i need to find some friends", "tokens": [72, 761, 284, 1064, 617, 2460], "bits": ["", "10110", "0", "011", "10100", "011"]}
+{"idx": 205, "prompt": "is", "stego": "is at the heimson", "tokens": [271, 379, 262, 339, 12078, 261], "bits": ["", "0", "011111", "1100010111", "11000111001000", "101001"]}
+{"idx": 206, "prompt": "gl", "stego": "glad you finished your review", "tokens": [4743, 324, 345, 5201, 534, 2423], "bits": ["", "", "", "100111100010", "1", "1000111"]}
+{"idx": 207, "prompt": "my", "stego": "my whole family is doing that", "tokens": [1820, 2187, 1641, 318, 1804, 326], "bits": ["", "0111100", "10", "", "01111000", ""]}
+{"idx": 208, "prompt": "they", "stego": "they are but not for me", "tokens": [9930, 389, 475, 407, 329, 502], "bits": ["", "", "1001001000", "011", "01", ""]}
+{"idx": 209, "prompt": "going", "stego": "going to a doctor this morning", "tokens": [5146, 284, 257, 6253, 428, 3329], "bits": ["", "", "10011", "10011110", "0", ""]}
+{"idx": 210, "prompt": "it", "stego": "it's raining and cold", "tokens": [270, 705, 82, 43079, 290, 4692], "bits": ["", "", "", "1000", "", ""]}
+{"idx": 211, "prompt": "aw", "stego": "awww i'm so jealous", "tokens": [707, 1383, 1312, 1101, 523, 19354], "bits": ["", "", "", "", "", "1000000010"]}
+{"idx": 212, "prompt": "love", "stego": "love the king of egypt", "tokens": [23205, 262, 5822, 286, 304, 6022], "bits": ["", "0", "0111011001001", "", "01101", ""]}
+{"idx": 213, "prompt": "is", "stego": "is praying for her manly", "tokens": [271, 26002, 329, 607, 582, 306], "bits": ["", "11011110", "011", "", "1000101111", "10100"]}
+{"idx": 214, "prompt": "who", "stego": "who wants to make me some", "tokens": [8727, 3382, 284, 787, 502, 617], "bits": ["", "", "", "011110", "", "011"]}
+{"idx": 215, "prompt": "think", "stego": "think i have an ear infection", "tokens": [14925, 1312, 423, 281, 1027, 10280], "bits": ["", "", "1000", "1011", "", ""]}
+{"idx": 216, "prompt": "hold", "stego": "hold up the beat again please", "tokens": [2946, 510, 262, 4405, 757, 3387], "bits": ["", "10", "0", "100000111", "100", ""]}
+{"idx": 217, "prompt": "still", "stego": "still looking for a new server", "tokens": [24219, 2045, 329, 257, 649, 4382], "bits": ["", "10010", "", "0", "", "10011111110101"]}
+{"idx": 218, "prompt": "pel", "stego": "pelosi swollen and stinging", "tokens": [30242, 21707, 37327, 290, 336, 14146], "bits": ["", "0", "1010101100111100", "001", "01101", ""]}
+{"idx": 219, "prompt": "s", "stego": "sitting in the print drawer", "tokens": [82, 2535, 287, 262, 3601, 33451], "bits": ["", "", "011", "", "1001110000101000", "10001111001"]}
+{"idx": 220, "prompt": "and", "stego": "and yes i was completely horrified", "tokens": [392, 3763, 1312, 373, 3190, 32816], "bits": ["", "1001", "01", "100", "100011000", "10101100001"]}
+{"idx": 221, "prompt": "every", "stego": "everybody loves neopets", "tokens": [16833, 2618, 10408, 497, 404, 1039], "bits": ["", "", "010", "10001001111", "", ""]}
+{"idx": 222, "prompt": "i", "stego": "i want a blackberry bold", "tokens": [72, 765, 257, 2042, 8396, 10758], "bits": ["", "", "011111", "011", "", "100"]}
+{"idx": 223, "prompt": "i", "stego": "i miss you too photoshop", "tokens": [72, 2051, 345, 1165, 2825, 25444], "bits": ["", "1000", "01", "0", "1010110010011100", "0"]}
+{"idx": 224, "prompt": "only", "stego": "only for the 4th time", "tokens": [8807, 329, 262, 604, 400, 640], "bits": ["", "10001", "01", "10110", "", ""]}
+{"idx": 225, "prompt": "oh", "stego": "oh and is making me sleepy", "tokens": [1219, 290, 318, 1642, 502, 42023], "bits": ["", "010", "110010", "100011110", "", "1001"]}
+{"idx": 226, "prompt": "i", "stego": "i miss my sisterinlaw", "tokens": [72, 2051, 616, 6621, 259, 6270], "bits": ["", "1000", "0", "01000", "0111", ""]}
+{"idx": 227, "prompt": "sy", "stego": "sydney i love you", "tokens": [1837, 67, 1681, 1312, 1842, 345], "bits": ["", "", "", "011110", "0", ""]}
+{"idx": 228, "prompt": "ah", "stego": "ahhh i love the ocean", "tokens": [993, 12337, 1312, 1842, 262, 9151], "bits": ["", "", "01", "", "", "1000001000"]}
+{"idx": 229, "prompt": "i", "stego": "i wish i could go home", "tokens": [72, 4601, 1312, 714, 467, 1363], "bits": ["", "100", "", "01", "100", ""]}
+{"idx": 230, "prompt": "is", "stego": "is looking forward to a nice relaxing day with a hottie watching fresh prince and then going to bed alone", "tokens": [271, 2045, 2651, 284, 257, 3621, 28175, 1110, 351, 257, 289, 1252, 494, 4964, 4713, 19716, 290, 788, 1016, 284, 3996, 3436], "bits": ["", "100001", "", "", "0111", "01110", "", "0111", "", "10001", "101100111", "0110", "", "11000100011", "1101101010", "", "100", "01100", "0", "", "10", "110000"]}
+{"idx": 231, "prompt": "aw", "stego": "aww why would i give you the the idea of a long weekend", "tokens": [707, 86, 1521, 561, 1312, 1577, 345, 262, 262, 2126, 286, 257, 890, 5041], "bits": ["", "0", "11000", "10010101", "11100", "10010001100", "", "", "1000001111011101", "011010", "", "0", "01100111", ""]}
+{"idx": 232, "prompt": "th", "stego": "thats no good poor you", "tokens": [400, 1381, 645, 922, 3595, 345], "bits": ["", "", "100", "", "100000000010", ""]}
+{"idx": 233, "prompt": "getting", "stego": "getting ready to go to work", "tokens": [37210, 3492, 284, 467, 284, 670], "bits": ["", "", "", "", "", ""]}
+{"idx": 234, "prompt": "writing", "stego": "writing my first honorary 12page hw assignment about neon green underestatform", "tokens": [16502, 616, 717, 44358, 1105, 7700, 289, 86, 16237, 546, 25988, 4077, 20164, 3390], "bits": ["", "", "", "1000001110101111111000", "111000111101011", "", "100000010111", "", "1000111011", "1011111", "111100001011", "0111010", "11111100011110101", "10100000011"]}
+{"idx": 235, "prompt": "those", "stego": "those were some of my favorites", "tokens": [25591, 547, 617, 286, 616, 18852], "bits": ["", "", "10000", "011", "", ""]}
+{"idx": 236, "prompt": "that", "stego": "that's my favorite quote", "tokens": [5562, 705, 82, 616, 4004, 9577], "bits": ["", "", "", "011", "01", "11000"]}
+{"idx": 237, "prompt": "just", "stego": "just got back from the lake", "tokens": [3137, 1392, 736, 422, 262, 13546], "bits": ["", "0", "0", "", "", "011010"]}
+{"idx": 238, "prompt": "oh", "stego": "oh yeah and i'm among the best persons in the world of twitter", "tokens": [1219, 10194, 290, 1312, 1101, 1871, 262, 1266, 6506, 287, 262, 995, 286, 17044], "bits": ["", "", "", "01111111", "", "100100010110010011", "", "100010", "110011101", "", "", "", "", ""]}
+{"idx": 239, "prompt": "she", "stego": "she's mad at me", "tokens": [7091, 705, 82, 8805, 379, 502], "bits": ["", "", "", "1000010", "", ""]}
+{"idx": 240, "prompt": "def", "stego": "definitely will run there already", "tokens": [4299, 12998, 481, 1057, 612, 1541], "bits": ["", "", "01111", "1010111001001", "1010110110", "10001111011"]}
+{"idx": 241, "prompt": "that", "stego": "that's the usual problem", "tokens": [5562, 705, 82, 262, 6678, 1917], "bits": ["", "", "", "100", "10001", "1000000"]}
+{"idx": 242, "prompt": "those", "stego": "those things are good for us", "tokens": [25591, 1243, 389, 922, 329, 514], "bits": ["", "100", "", "011100", "0111", "11011"]}
+{"idx": 243, "prompt": "fake", "stego": "fake arabic yay", "tokens": [30706, 610, 397, 291, 331, 323], "bits": ["", "1011011111", "1011", "", "1001000", ""]}
+{"idx": 244, "prompt": "ind", "stego": "indeed good job at all", "tokens": [521, 2308, 922, 1693, 379, 477], "bits": ["", "", "101010", "0111", "01100100", "01111"]}
+{"idx": 245, "prompt": "oh", "stego": "oh and i cried last night", "tokens": [1219, 290, 1312, 16896, 938, 1755], "bits": ["", "010", "", "1000010001", "1000001000", ""]}
+{"idx": 246, "prompt": "share", "stego": "share a pic of the naked", "tokens": [20077, 257, 8301, 286, 262, 12105], "bits": ["", "101", "01", "", "", "1000100110100"]}
+{"idx": 247, "prompt": "i", "stego": "i don't know why", "tokens": [72, 466, 299, 470, 760, 1521], "bits": ["", "10", "", "", "", "011111"]}
+{"idx": 248, "prompt": "i", "stego": "i miss you so much already", "tokens": [72, 2051, 345, 523, 881, 1541], "bits": ["", "1000", "01", "01", "", "01"]}
+{"idx": 249, "prompt": "i", "stego": "i wish i could see you", "tokens": [72, 4601, 1312, 714, 766, 345], "bits": ["", "100", "", "01", "1010", ""]}
+{"idx": 250, "prompt": "char", "stego": "charles got me at graduation", "tokens": [10641, 829, 1392, 502, 379, 21571], "bits": ["", "", "100", "", "10000001101", "1001011001"]}
+{"idx": 251, "prompt": "will", "stego": "will be at the west end", "tokens": [10594, 307, 379, 262, 7421, 886], "bits": ["", "0", "001", "", "100010010000", ""]}
+{"idx": 252, "prompt": "t", "stego": "tweetdeck is my addiction", "tokens": [83, 7277, 35875, 318, 616, 13230], "bits": ["", "", "01", "", "100011111", "01"]}
+{"idx": 253, "prompt": "i", "stego": "i just got a new phone", "tokens": [72, 655, 1392, 257, 649, 3072], "bits": ["", "1010", "001", "011", "0", "0"]}
+{"idx": 254, "prompt": "you", "stego": "you must be in my city", "tokens": [5832, 1276, 307, 287, 616, 1748], "bits": ["", "1101111", "", "0111", "01", "011"]}
+{"idx": 255, "prompt": "i", "stego": "i wasn't aware that", "tokens": [72, 373, 299, 470, 3910, 326], "bits": ["", "1", "01111000", "", "10101", ""]}
+{"idx": 256, "prompt": "ha", "stego": "ha i was a second old", "tokens": [3099, 1312, 373, 257, 1218, 1468], "bits": ["", "10", "1010", "0110", "101011101010", "10001000"]}
+{"idx": 257, "prompt": "writing", "stego": "writing my first to last post", "tokens": [16502, 616, 717, 284, 938, 1281], "bits": ["", "", "", "011111011000", "", "0111"]}
+{"idx": 258, "prompt": "you", "stego": "you're welcome rachel", "tokens": [5832, 705, 260, 7062, 3444, 2978], "bits": ["", "0", "", "0", "01111100101", ""]}
+{"idx": 259, "prompt": "what", "stego": "what time is the game tomorrow", "tokens": [10919, 640, 318, 262, 983, 9439], "bits": ["", "11011", "", "100010", "0", "0111"]}
+{"idx": 260, "prompt": "s", "stego": "sad times i miss him", "tokens": [82, 324, 1661, 1312, 2051, 683], "bits": ["", "0", "110011", "01101", "", "0111"]}
+{"idx": 261, "prompt": "thanks", "stego": "thanks for the followfriday", "tokens": [27547, 329, 262, 1061, 8310, 2567], "bits": ["", "", "", "", "", ""]}
+{"idx": 262, "prompt": "i", "stego": "i am in a qood mood right now but it's raining", "tokens": [72, 716, 287, 257, 10662, 702, 10038, 826, 783, 475, 340, 705, 82, 43079], "bits": ["", "011", "011110", "0", "10110110001000", "", "", "1001011", "", "0", "10011", "", "", "01"]}
+{"idx": 263, "prompt": "ok", "stego": "okay they call me fat", "tokens": [482, 323, 484, 869, 502, 3735], "bits": ["", "", "10000001001", "1101110", "01", "01"]}
+{"idx": 264, "prompt": "h", "stego": "haha no i'm right", "tokens": [71, 12236, 645, 1312, 1101, 826], "bits": ["", "", "101", "", "0111111", "11000000110"]}
+{"idx": 265, "prompt": "and", "stego": "and oh and breast feeding too", "tokens": [392, 11752, 290, 9296, 13017, 1165], "bits": ["", "11", "10000000110", "10101110100100110111", "", "01"]}
+{"idx": 266, "prompt": "that", "stego": "that's right jerome", "tokens": [5562, 705, 82, 826, 13665, 462], "bits": ["", "", "", "101101", "100000101", ""]}
+{"idx": 267, "prompt": "mer", "stego": "mercury is an understatement", "tokens": [647, 66, 1601, 318, 281, 46196], "bits": ["", "", "", "0111", "011100", "011"]}
+{"idx": 268, "prompt": "i", "stego": "i want to go to sleep", "tokens": [72, 765, 284, 467, 284, 3993], "bits": ["", "", "0111", "01", "", ""]}
+{"idx": 269, "prompt": "early", "stego": "early start tomoro morning", "tokens": [11458, 923, 284, 4491, 78, 3329], "bits": ["", "", "", "011111", "1000", ""]}
+{"idx": 270, "prompt": "qu", "stego": "quotproudquot", "tokens": [421, 313, 79, 5493, 421, 313], "bits": ["", "", "10000011", "0001", "", ""]}
+{"idx": 271, "prompt": "unless", "stego": "unless it's a went", "tokens": [25252, 340, 705, 82, 257, 1816], "bits": ["", "10", "", "", "", "10001101000111110111"]}
+{"idx": 272, "prompt": "please", "stego": "please please please please please please", "tokens": [29688, 3387, 3387, 3387, 3387, 3387], "bits": ["", "0110", "", "", "", ""]}
+{"idx": 273, "prompt": "updated", "stego": "updated my profile picture omg", "tokens": [43162, 616, 7034, 4286, 267, 11296], "bits": ["", "", "01110", "100", "01", ""]}
+{"idx": 274, "prompt": "3", "stego": "3 hours of sleep and i think i need to be up at 7", "tokens": [18, 2250, 286, 3993, 290, 1312, 892, 1312, 761, 284, 307, 510, 379, 767], "bits": ["", "", "", "", "0111110", "", "1001100110", "", "1010", "", "011111", "0", "", "1000"]}
+{"idx": 275, "prompt": "hey", "stego": "hey r u watching top gear", "tokens": [20342, 374, 334, 4964, 1353, 7733], "bits": ["", "1011101", "01", "0111", "100010111011", ""]}
+{"idx": 276, "prompt": "watching", "stego": "watching the sofa with my pup", "tokens": [50042, 262, 34902, 351, 616, 15552], "bits": ["", "0", "101111110110001", "", "", "101001"]}
+{"idx": 277, "prompt": "bo", "stego": "booohoo goa", "tokens": [2127, 78, 1219, 2238, 467, 64], "bits": ["", "", "", "", "1000000100010", "110000110000"]}
+{"idx": 278, "prompt": "hor", "stego": "horrible nightmare and no sleep", "tokens": [17899, 5547, 17123, 290, 645, 3993], "bits": ["", "", "01100", "1011", "0111", ""]}
+{"idx": 279, "prompt": "ye", "stego": "yea i hear ya hun", "tokens": [5948, 64, 1312, 3285, 21349, 5494], "bits": ["", "", "0", "110111", "01", "1001"]}
+{"idx": 280, "prompt": "follow", "stego": "follow me and i will follow you back its more important to me anyway", "tokens": [27780, 502, 290, 1312, 481, 1061, 345, 736, 663, 517, 1593, 284, 502, 6949], "bits": ["", "", "00", "0", "", "", "", "", "100010011001", "101001", "100", "10001", "10", "110001"]}
+{"idx": 281, "prompt": "get", "stego": "get a kick out of me", "tokens": [1136, 257, 4829, 503, 286, 502], "bits": ["", "011", "01", "", "", "10000000"]}
+{"idx": 282, "prompt": "ther", "stego": "therapy is all i need", "tokens": [490, 12826, 318, 477, 1312, 761], "bits": ["", "", "", "10001001", "", ""]}
+{"idx": 283, "prompt": "i", "stego": "i am loving this sunny weather", "tokens": [72, 716, 14442, 428, 27737, 6193], "bits": ["", "011", "10010", "", "1000001", ""]}
+{"idx": 284, "prompt": "el", "stego": "elizabeth is leaving me today", "tokens": [417, 9924, 318, 4305, 502, 1909], "bits": ["", "01", "", "1000101", "1", "01"]}
+{"idx": 285, "prompt": "for", "stego": "forgot to top the drinks", "tokens": [1640, 23442, 284, 1353, 262, 11758], "bits": ["", "", "0", "100101100110", "10000", "010"]}
+{"idx": 286, "prompt": "he", "stego": "heheheh good point", "tokens": [258, 258, 258, 71, 922, 966], "bits": ["", "", "", "", "10000000101", "011"]}
+{"idx": 287, "prompt": "going", "stego": "going to get my copy now", "tokens": [5146, 284, 651, 616, 4866, 783], "bits": ["", "", "01", "", "10001001011000", "10"]}
+{"idx": 288, "prompt": "house", "stego": "house party was a bad idea", "tokens": [4803, 2151, 373, 257, 2089, 2126], "bits": ["", "100", "011", "0", "", ""]}
+{"idx": 289, "prompt": "'", "stego": "'cannon turkoglu' version of gt and tbs", "tokens": [6, 66, 8825, 7858, 74, 49006, 6, 2196, 286, 308, 83, 290, 256, 1443], "bits": ["", "01111", "1110100", "100000001001110111111", "10", "01", "011", "1101000100", "", "011110", "01111", "0111001", "10000", "1000000"]}
+{"idx": 290, "prompt": "i", "stego": "i don't feel well", "tokens": [72, 466, 299, 470, 1254, 880], "bits": ["", "10", "", "", "0111", ""]}
+{"idx": 291, "prompt": "i", "stego": "i am finally reaaalllyyyyyyyyyyyy home", "tokens": [72, 716, 3443, 302, 7252, 282, 12810, 22556, 22556, 22556, 22556, 22556, 88, 1363], "bits": ["", "011", "100111011", "100101100", "100000011", "", "", "", "", "", "", "011", "11", ""]}
+{"idx": 292, "prompt": "that", "stego": "that's just not right", "tokens": [5562, 705, 82, 655, 407, 826], "bits": ["", "", "", "10011", "010", ""]}
+{"idx": 293, "prompt": "i", "stego": "i miss my girl holly", "tokens": [72, 2051, 616, 2576, 289, 5098], "bits": ["", "1000", "0", "010110101", "110111111", "0"]}
+{"idx": 294, "prompt": "b", "stego": "bout to watch gossip girl", "tokens": [65, 448, 284, 2342, 30914, 2576], "bits": ["", "", "", "100010", "101010", ""]}
+{"idx": 295, "prompt": "great", "stego": "great way to start the day", "tokens": [18223, 835, 284, 923, 262, 1110], "bits": ["", "0", "", "", "", ""]}
+{"idx": 296, "prompt": "i", "stego": "i want to meet my boyfriend", "tokens": [72, 765, 284, 1826, 616, 13850], "bits": ["", "", "0111", "110001", "011", "0111"]}
+{"idx": 297, "prompt": "one", "stego": "one more day at the beach", "tokens": [505, 517, 1110, 379, 262, 10481], "bits": ["", "1", "0", "1001", "", ""]}
+{"idx": 298, "prompt": "hi", "stego": "hi everyone its been a while", "tokens": [5303, 2506, 663, 587, 257, 981], "bits": ["", "01", "1000010", "10010", "", ""]}
+{"idx": 299, "prompt": "i", "stego": "i don't even have any left for the group drpepper", "tokens": [72, 466, 299, 470, 772, 423, 597, 1364, 329, 262, 1448, 1553, 431, 2848], "bits": ["", "10", "", "", "1000100", "100100", "10", "0111100", "100", "0", "1010001101111", "11101000101", "01100", ""]}
+{"idx": 300, "prompt": "do", "stego": "don't judge me now", "tokens": [4598, 299, 470, 5052, 502, 783], "bits": ["", "", "", "1100100", "", "0111010"]}
+{"idx": 301, "prompt": "under", "stego": "under my desk all day today", "tokens": [4625, 616, 6915, 477, 1110, 1909], "bits": ["", "11000", "1010", "01100", "", "10100"]}
+{"idx": 302, "prompt": "i", "stego": "i think i broke my toe", "tokens": [72, 892, 1312, 6265, 616, 21189], "bits": ["", "1001", "", "011100", "", "0"]}
+{"idx": 303, "prompt": "thanks", "stego": "thanks for the luv love", "tokens": [27547, 329, 262, 300, 14795, 1842], "bits": ["", "", "", "1001", "", "1000100000"]}
+{"idx": 304, "prompt": "there", "stego": "there's always next year", "tokens": [8117, 705, 82, 1464, 1306, 614], "bits": ["", "", "", "01", "", ""]}
+{"idx": 305, "prompt": "you", "stego": "you know i love that song", "tokens": [5832, 760, 1312, 1842, 326, 3496], "bits": ["", "1010", "", "011", "1001", ""]}
+{"idx": 306, "prompt": "your", "stego": "your boy is a great guy", "tokens": [14108, 2933, 318, 257, 1049, 3516], "bits": ["", "101011000", "", "100", "01", "01"]}
+{"idx": 307, "prompt": "thanks", "stego": "thanks for the followfriday", "tokens": [27547, 329, 262, 1061, 8310, 2567], "bits": ["", "", "", "", "", ""]}
+{"idx": 308, "prompt": "thinking", "stego": "thinking about buying my second one", "tokens": [28973, 546, 7067, 616, 1218, 530], "bits": ["", "", "011", "0111111", "100111101", "00"]}
+{"idx": 309, "prompt": "rain", "stego": "rainy sunday morning whoever wants to go see up with me today", "tokens": [3201, 88, 37437, 323, 3329, 16958, 3382, 284, 467, 766, 510, 351, 502, 1909], "bits": ["", "", "10000", "", "01", "101011010101110010", "0", "", "", "0111", "10000", "", "", "00"]}
+{"idx": 310, "prompt": "doing", "stego": "doing my calculus hw p", "tokens": [19631, 616, 41443, 289, 86, 279], "bits": ["", "00", "110010000110", "1010", "", "110011"]}
+{"idx": 311, "prompt": "un", "stego": "unfortunately i couldn't", "tokens": [403, 6668, 1312, 714, 299, 470], "bits": ["", "", "0", "110000", "", ""]}
+{"idx": 312, "prompt": "my", "stego": "my body is talking to me", "tokens": [1820, 1767, 318, 3375, 284, 502], "bits": ["", "0101111", "", "10011000101", "10", ""]}
+{"idx": 313, "prompt": "this", "stego": "this is so incredibly 5 years", "tokens": [5661, 318, 523, 8131, 642, 812], "bits": ["", "", "0111", "101000111", "1010110001110101", "0010"]}
+{"idx": 314, "prompt": "i", "stego": "i 'll be back tomorrow", "tokens": [72, 705, 297, 307, 736, 9439], "bits": ["", "0100", "", "0", "0", "1001"]}
+{"idx": 315, "prompt": "what", "stego": "what's everyone doing tonight", "tokens": [10919, 705, 82, 2506, 1804, 9975], "bits": ["", "0", "", "10", "100000", "10"]}
+{"idx": 316, "prompt": "is", "stego": "is trying to be motivated today", "tokens": [271, 2111, 284, 307, 13338, 1909], "bits": ["", "100100", "", "011000", "1100000", ""]}
+{"idx": 317, "prompt": "i", "stego": "i want jack to come home", "tokens": [72, 765, 14509, 284, 1282, 1363], "bits": ["", "", "10000000011000110100", "1001", "1001", ""]}
+{"idx": 318, "prompt": "more", "stego": "more of a kid fell asleep", "tokens": [3549, 286, 257, 5141, 3214, 16039], "bits": ["", "0", "0111", "101010000010", "110101011110110", ""]}
+{"idx": 319, "prompt": "yeah", "stego": "yeah i'm not that bad", "tokens": [43669, 1312, 1101, 407, 326, 2089], "bits": ["", "0", "00", "00", "0110", "011"]}
+{"idx": 320, "prompt": "sc", "stego": "scrapbooking with laughter", "tokens": [1416, 2416, 2070, 278, 351, 20263], "bits": ["", "111011", "", "", "100001", "11001110"]}
+{"idx": 321, "prompt": "b", "stego": "bored playing some poker again", "tokens": [65, 1850, 2712, 617, 27101, 757], "bits": ["", "01", "11100011", "0111111111", "011", "0111"]}
+{"idx": 322, "prompt": "it", "stego": "it's gonna be awesome", "tokens": [270, 705, 82, 8066, 307, 7427], "bits": ["", "", "", "100100", "", "0"]}
+{"idx": 323, "prompt": "maybe", "stego": "maybe i should take a nap", "tokens": [25991, 1312, 815, 1011, 257, 25422], "bits": ["", "0", "0", "011", "", ""]}
+{"idx": 324, "prompt": "how", "stego": "how did the tv show go", "tokens": [4919, 750, 262, 31557, 905, 467], "bits": ["", "011", "11", "1001001110110", "", ""]}
+{"idx": 325, "prompt": "and", "stego": "and you're half way", "tokens": [392, 345, 705, 260, 2063, 835], "bits": ["", "1000", "0", "", "101110111111", "0"]}
+{"idx": 326, "prompt": "so", "stego": "soooo glad to be home", "tokens": [568, 34160, 9675, 284, 307, 1363], "bits": ["", "011", "01", "100000", "0", ""]}
+{"idx": 327, "prompt": "i", "stego": "i'm watching the messengers", "tokens": [72, 1101, 4964, 262, 2085, 9302], "bits": ["", "0", "0101001", "", "0111100001", ""]}
+{"idx": 328, "prompt": "got", "stego": "got my new laptop yay", "tokens": [23442, 616, 649, 13224, 331, 323], "bits": ["", "01", "010", "1001", "01", ""]}
+{"idx": 329, "prompt": "the", "stego": "the reast is fooked", "tokens": [1169, 302, 459, 318, 277, 46288], "bits": ["", "101101001", "011111110100001", "1", "10010010100", "01100101"]}
+{"idx": 330, "prompt": "just", "stego": "just got back from the dentist", "tokens": [3137, 1392, 736, 422, 262, 38408], "bits": ["", "0", "0", "", "", "0101"]}
+{"idx": 331, "prompt": "let", "stego": "let's see if i can find a domain in that before i get to work for another terrorsummer", "tokens": [1616, 705, 82, 766, 611, 1312, 460, 1064, 257, 7386, 287, 326, 878, 1312, 651, 284, 670, 329, 1194, 1059, 5965, 31647], "bits": ["", "", "", "", "1000001", "0", "", "", "", "1000101001011", "", "1000001001100", "0111011", "01111", "1000", "0", "10000", "011", "1000010", "1110100000000", "100001", "0111101"]}
+{"idx": 332, "prompt": "i", "stego": "i miss that freakin weather", "tokens": [72, 2051, 326, 22601, 259, 6193], "bits": ["", "1000", "10010101", "1010010010", "", "0111"]}
+{"idx": 333, "prompt": "going", "stego": "going to sleep really early tonight", "tokens": [5146, 284, 3993, 1107, 1903, 9975], "bits": ["", "", "0111", "1110011", "", ""]}
+{"idx": 334, "prompt": "aka", "stego": "aka amanda kyle jonas brothers and david carradine", "tokens": [8130, 716, 5282, 479, 2349, 474, 261, 292, 9397, 290, 21970, 1097, 6335, 500], "bits": ["", "0111110", "", "01110", "100010001", "01110110", "011", "", "0", "001", "1010", "101", "", ""]}
+{"idx": 335, "prompt": "that", "stego": "that's my niece too", "tokens": [5562, 705, 82, 616, 41803, 1165], "bits": ["", "", "", "011", "10110101111001", "0"]}
+{"idx": 336, "prompt": "i", "stego": "i miss my carrrr", "tokens": [72, 2051, 616, 1097, 21062, 81], "bits": ["", "1000", "0", "010101", "10000", ""]}
+{"idx": 337, "prompt": "mark", "stego": "mark's got a fever", "tokens": [4102, 705, 82, 1392, 257, 17372], "bits": ["", "0110", "", "100001", "", "0111"]}
+{"idx": 338, "prompt": "09", "stego": "0918 i've been waiting for this to have an extended nap", "tokens": [2931, 1507, 1312, 705, 303, 587, 4953, 329, 428, 284, 423, 281, 7083, 25422], "bits": ["", "01", "10011", "11000", "11", "01", "", "", "", "01111110", "1000010", "100001", "1001000", "01101"]}
+{"idx": 339, "prompt": "did", "stego": "didn't win the lottery", "tokens": [20839, 299, 470, 1592, 262, 22098], "bits": ["", "", "", "101101", "", "0"]}
+{"idx": 340, "prompt": "gl", "stego": "glad you guys were there", "tokens": [4743, 324, 345, 3730, 547, 612], "bits": ["", "", "", "100101", "110011", ""]}
+{"idx": 341, "prompt": "f", "stego": "finally finished my comic book", "tokens": [69, 3289, 5201, 616, 9048, 1492], "bits": ["", "", "010", "", "1001011101111", ""]}
+{"idx": 342, "prompt": "s", "stego": "sad that my brother got sick he has to work until 245 today", "tokens": [82, 324, 326, 616, 3956, 1392, 6639, 339, 468, 284, 670, 1566, 29637, 1909], "bits": ["", "0", "10", "10011", "010110", "01111110", "", "100001001", "011", "01", "0", "101", "1000010110100", "10"]}
+{"idx": 343, "prompt": "hh", "stego": "hhmm what to do now", "tokens": [12337, 3020, 644, 284, 466, 783], "bits": ["", "", "100001", "0", "", "1"]}
+{"idx": 344, "prompt": "i", "stego": "i wish i could have come", "tokens": [72, 4601, 1312, 714, 423, 1282], "bits": ["", "100", "", "01", "10", "1001"]}
+{"idx": 345, "prompt": "i", "stego": "i wish i could make it", "tokens": [72, 4601, 1312, 714, 787, 340], "bits": ["", "100", "", "01", "101111", ""]}
+{"idx": 346, "prompt": "crazy", "stego": "crazyest dream i ever had", "tokens": [50112, 395, 4320, 1312, 1683, 550], "bits": ["", "10010111", "01", "100", "", ""]}
+{"idx": 347, "prompt": "morning", "stego": "morning my little twitterers", "tokens": [43911, 616, 1310, 665, 715, 19288], "bits": ["", "10000", "0", "", "", ""]}
+{"idx": 348, "prompt": "w", "stego": "welcome to twitter greetings", "tokens": [86, 9571, 284, 17044, 12589, 654], "bits": ["", "", "", "", "0111111111011011", ""]}
+{"idx": 349, "prompt": "we", "stego": "we are just simply being people", "tokens": [732, 389, 655, 2391, 852, 661], "bits": ["", "", "01110100", "10011010101", "100110", "1011110011"]}
+{"idx": 350, "prompt": "h", "stego": "hope to see you there", "tokens": [71, 3008, 284, 766, 345, 612], "bits": ["", "0", "11001", "", "", "0"]}
+{"idx": 351, "prompt": "off", "stego": "off to enjoy this beautiful day", "tokens": [2364, 284, 2883, 428, 4950, 1110], "bits": ["", "", "1100", "10001", "", ""]}
+{"idx": 352, "prompt": "on", "stego": "on my way home from work", "tokens": [261, 616, 835, 1363, 422, 670], "bits": ["", "", "", "1000", "", ""]}
+{"idx": 353, "prompt": "im", "stego": "imma call him shorty", "tokens": [320, 2611, 869, 683, 1790, 88], "bits": ["", "011", "100001", "1000010", "0111011100", ""]}
+{"idx": 354, "prompt": "good", "stego": "good morning the sun is shining", "tokens": [11274, 3329, 262, 4252, 318, 22751], "bits": ["", "0", "1010110", "", "", ""]}
+{"idx": 355, "prompt": "just", "stego": "just woke up with a headache", "tokens": [3137, 19092, 510, 351, 257, 24902], "bits": ["", "", "", "01111100", "", ""]}
+{"idx": 356, "prompt": "ng", "stego": "ng lt myh cha", "tokens": [782, 300, 83, 616, 71, 17792], "bits": ["", "00", "", "10000011111", "01111", "1000001001"]}
+{"idx": 357, "prompt": "i", "stego": "i miss my man mama", "tokens": [72, 2051, 616, 582, 285, 1689], "bits": ["", "1000", "0", "01011011", "1100010101", "10"]}
+{"idx": 358, "prompt": "th", "stego": "thats awesome then we should get our xbox on soon i think", "tokens": [400, 1381, 7427, 788, 356, 815, 651, 674, 2124, 3524, 319, 2582, 1312, 892], "bits": ["", "", "011111", "100111010", "100010", "1000", "1011", "100", "10010001111", "", "011", "1100", "0111010", ""]}
+{"idx": 359, "prompt": "another", "stego": "another lovely day in the countryside", "tokens": [29214, 14081, 1110, 287, 262, 25708], "bits": ["", "10011", "", "", "", "1000000"]}
+{"idx": 360, "prompt": "h", "stego": "haha that's funny", "tokens": [71, 12236, 326, 705, 82, 8258], "bits": ["", "", "1001", "", "", ""]}
+{"idx": 361, "prompt": "mys", "stego": "myspace is sooo slow", "tokens": [28744, 10223, 318, 523, 2238, 3105], "bits": ["", "", "", "", "0111", ""]}
+{"idx": 362, "prompt": "zero", "stego": "zero sad face for me today", "tokens": [22570, 6507, 1986, 329, 502, 1909], "bits": ["", "01101000", "", "0", "01", ""]}
+{"idx": 363, "prompt": "i", "stego": "i love the wolverine", "tokens": [72, 1842, 262, 266, 14375, 500], "bits": ["", "010", "10", "1001001110", "100", ""]}
+{"idx": 364, "prompt": "just", "stego": "just back from my summer holiday", "tokens": [3137, 736, 422, 616, 3931, 9912], "bits": ["", "1011111", "", "0101", "100", "10000001"]}
+{"idx": 365, "prompt": "oh", "stego": "ohh yea i noticed that", "tokens": [1219, 71, 44642, 1312, 6810, 326], "bits": ["", "011", "110001111", "01", "111010011", ""]}
+{"idx": 366, "prompt": "y", "stego": "yay for new meds", "tokens": [88, 323, 329, 649, 1117, 82], "bits": ["", "", "0", "0010", "1000110011", ""]}
+{"idx": 367, "prompt": "lol", "stego": "lol ok ok i will explain", "tokens": [47288, 12876, 12876, 1312, 481, 4727], "bits": ["", "1011", "100010", "010", "01", "100001001"]}
+{"idx": 368, "prompt": "that", "stego": "that's my favorite part", "tokens": [5562, 705, 82, 616, 4004, 636], "bits": ["", "", "", "011", "01", "1100"]}
+{"idx": 369, "prompt": "but", "stego": "but you 'll be happy", "tokens": [4360, 345, 705, 297, 307, 3772], "bits": ["", "10", "", "1000001", "0", "110"]}
+{"idx": 370, "prompt": "has", "stego": "has been singing it all day", "tokens": [10134, 587, 13777, 340, 477, 1110], "bits": ["", "", "100000000111", "10010", "", ""]}
+{"idx": 371, "prompt": "it", "stego": "it's not there anymore", "tokens": [270, 705, 82, 407, 612, 7471], "bits": ["", "", "", "01", "0111000", ""]}
+{"idx": 372, "prompt": "i", "stego": "i am loving my new place", "tokens": [72, 716, 14442, 616, 649, 1295], "bits": ["", "011", "10010", "100011", "", "0111"]}
+{"idx": 373, "prompt": "he", "stego": "hehehe its not fair", "tokens": [258, 258, 258, 663, 407, 3148], "bits": ["", "", "", "1000010101", "0100", "0011"]}
+{"idx": 374, "prompt": "i", "stego": "i wanted to go in today", "tokens": [72, 2227, 284, 467, 287, 1909], "bits": ["", "1110111", "", "", "100010010111", "00"]}
+{"idx": 375, "prompt": "gl", "stego": "glad you enjoyed the event", "tokens": [4743, 324, 345, 8359, 262, 1785], "bits": ["", "", "", "0", "01", "1010001"]}
+{"idx": 376, "prompt": "please", "stego": "please don't kill me", "tokens": [29688, 466, 299, 470, 1494, 502], "bits": ["", "00", "", "", "011", ""]}
+{"idx": 377, "prompt": "that", "stego": "that's my favorite animal", "tokens": [5562, 705, 82, 616, 4004, 5044], "bits": ["", "", "", "011", "01", "111010010"]}
+{"idx": 378, "prompt": "i", "stego": "i'm short and very short", "tokens": [72, 1101, 1790, 290, 845, 1790], "bits": ["", "0", "100000001100000", "00", "0011", "01"]}
+{"idx": 379, "prompt": "what", "stego": "what a lovely day for it", "tokens": [10919, 257, 14081, 1110, 329, 340], "bits": ["", "", "0110", "01", "", ""]}
+{"idx": 380, "prompt": "i", "stego": "i want to eat with you", "tokens": [72, 765, 284, 4483, 351, 345], "bits": ["", "", "0111", "11000", "1000101", ""]}
+{"idx": 381, "prompt": "i", "stego": "i am just another equipped individual", "tokens": [72, 716, 655, 1194, 10911, 1981], "bits": ["", "011", "10001", "10010011000", "10001000011001100", "01"]}
+{"idx": 382, "prompt": "rain", "stego": "rainy days make me sick", "tokens": [3201, 88, 1528, 787, 502, 6639], "bits": ["", "", "0111", "", "", "100100"]}
+{"idx": 383, "prompt": "especially", "stego": "especially if you're famous", "tokens": [16480, 611, 345, 705, 260, 5863], "bits": ["", "10", "0", "01", "", "10100111"]}
+{"idx": 384, "prompt": "will", "stego": "will i ever see you again", "tokens": [10594, 1312, 1683, 766, 345, 757], "bits": ["", "1001", "", "10", "", ""]}
+{"idx": 385, "prompt": "both", "stego": "both the profes was horrible", "tokens": [16885, 262, 1534, 274, 373, 12361], "bits": ["", "1010", "11001001010010", "", "100000100", "101110"]}
+{"idx": 386, "prompt": "i", "stego": "i want to see him too", "tokens": [72, 765, 284, 766, 683, 1165], "bits": ["", "", "0111", "", "1001011", "100"]}
+{"idx": 387, "prompt": "happy", "stego": "happy mothers day to all mothers", "tokens": [34191, 12289, 1110, 284, 477, 12289], "bits": ["", "10", "", "", "", ""]}
+{"idx": 388, "prompt": "im", "stego": "imma miss katarina", "tokens": [320, 2611, 2051, 479, 9459, 1437], "bits": ["", "011", "011", "100100001", "1001001101110", "01"]}
+{"idx": 389, "prompt": "perfect", "stego": "perfect feeling to start my day", "tokens": [25833, 4203, 284, 923, 616, 1110], "bits": ["", "1110", "", "10000000000", "", ""]}
+{"idx": 390, "prompt": "and", "stego": "and my birthday is coming up", "tokens": [392, 616, 10955, 318, 2406, 510], "bits": ["", "100", "011111011", "", "01", ""]}
+{"idx": 391, "prompt": "where", "stego": "where's the sunshine gone", "tokens": [3003, 705, 82, 262, 34488, 3750], "bits": ["", "0", "", "1", "01111", ""]}
+{"idx": 392, "prompt": "oh", "stego": "ohh i want to go", "tokens": [1219, 71, 1312, 765, 284, 467], "bits": ["", "011", "", "011111", "01", ""]}
+{"idx": 393, "prompt": "my", "stego": "my arms are knackered", "tokens": [1820, 5101, 389, 638, 330, 28970], "bits": ["", "1000100", "", "100001000010", "", ""]}
+{"idx": 394, "prompt": "i", "stego": "i don't wanna leave", "tokens": [72, 466, 299, 470, 18869, 2666], "bits": ["", "10", "", "", "1000", "0111"]}
+{"idx": 395, "prompt": "just", "stego": "just saw an old lady with a heart shaped nose and very unhappy dog", "tokens": [3137, 2497, 281, 1468, 10846, 351, 257, 2612, 14292, 9686, 290, 845, 19283, 3290], "bits": ["", "10011", "1", "", "100000001", "01010", "0", "0110111", "01", "100010", "", "011111110100", "010100", "100100010"]}
+{"idx": 396, "prompt": "i", "stego": "i mean how do you know", "tokens": [72, 1612, 703, 466, 345, 760], "bits": ["", "111101", "01111111", "01110", "0", ""]}
+{"idx": 397, "prompt": "hop", "stego": "hopefully we get to spend time with our leaving cert soon as well", "tokens": [8548, 7549, 356, 651, 284, 4341, 640, 351, 674, 4305, 5051, 2582, 355, 880], "bits": ["", "", "01", "10011", "", "1000101101", "100", "", "01", "1001100110010011101", "", "011111", "", ""]}
+{"idx": 398, "prompt": "ad", "stego": "adam lambert won the", "tokens": [324, 321, 30592, 4835, 1839, 262], "bits": ["", "", "", "", "011111", "01011"]}
+{"idx": 399, "prompt": "next", "stego": "next time maybe you 'll join in with some more short term warriors", "tokens": [19545, 640, 3863, 345, 705, 297, 4654, 287, 351, 617, 517, 1790, 3381, 17119], "bits": ["", "0", "10010", "10001", "011", "", "10011001", "1011", "1001", "10", "01011", "1001001001001", "0", "10001100010011"]}
+{"idx": 400, "prompt": "just", "stego": "just woke up damn i dont wanna get up at 3am anymoreee", "tokens": [3137, 19092, 510, 12270, 1312, 17666, 18869, 651, 510, 379, 513, 321, 7471, 1453], "bits": ["", "", "", "1000000110001", "0", "01110111", "0", "10100", "", "0", "100011", "", "100001010", "1000"]}
+{"idx": 401, "prompt": "cool", "stego": "cool have a good flight dear", "tokens": [24494, 423, 257, 922, 5474, 13674], "bits": ["", "011110", "", "01", "1110", "011011"]}
+{"idx": 402, "prompt": "i", "stego": "i wish it was that easy", "tokens": [72, 4601, 340, 373, 326, 2562], "bits": ["", "100", "100100", "0", "011", ""]}
+{"idx": 403, "prompt": "s", "stego": "sadly no budapest", "tokens": [82, 324, 306, 645, 3600, 35746], "bits": ["", "0", "", "1000", "110010111010", "11110"]}
+{"idx": 404, "prompt": "it", "stego": "it's not doing anything", "tokens": [270, 705, 82, 407, 1804, 1997], "bits": ["", "", "", "01", "1000010010", ""]}
+{"idx": 405, "prompt": "sp", "stego": "spent the afternoon working out", "tokens": [2777, 298, 262, 6672, 1762, 503], "bits": ["", "", "", "10000", "01111", ""]}
+{"idx": 406, "prompt": "do", "stego": "don't have the time", "tokens": [4598, 299, 470, 423, 262, 640], "bits": ["", "", "", "", "10000", "1000"]}
+{"idx": 407, "prompt": "ok", "stego": "okay and thanks for that", "tokens": [482, 323, 290, 5176, 329, 326], "bits": ["", "", "011101011", "100", "", "011"]}
+{"idx": 408, "prompt": "i", "stego": "i miss u on this cruise", "tokens": [72, 2051, 334, 319, 428, 20382], "bits": ["", "1000", "1000", "1000111", "0110111", "111000"]}
+{"idx": 409, "prompt": "i", "stego": "i want to be a model", "tokens": [72, 765, 284, 307, 257, 2746], "bits": ["", "", "0111", "10", "", ""]}
+{"idx": 410, "prompt": "lol", "stego": "lol yeah i hear ya from", "tokens": [47288, 10194, 1312, 3285, 21349, 422], "bits": ["", "", "", "10000000111001", "", "100101111000"]}
+{"idx": 411, "prompt": "our", "stego": "our classes will be suspended tomorrow", "tokens": [454, 6097, 481, 307, 9951, 9439], "bits": ["", "010001", "1001", "1", "0", "01"]}
+{"idx": 412, "prompt": "i", "stego": "i wasn't liking it", "tokens": [72, 373, 299, 470, 24976, 340], "bits": ["", "1", "01111000", "", "11100011111", ""]}
+{"idx": 413, "prompt": "f", "stego": "finally going to bed after a long day of work and late night", "tokens": [69, 3289, 1016, 284, 3996, 706, 257, 890, 1110, 286, 670, 290, 2739, 1755], "bits": ["", "", "0111", "", "0", "01", "", "", "", "0", "01", "", "100000100110", "0"]}
+{"idx": 414, "prompt": "a", "stego": "a sad day in london", "tokens": [64, 6507, 1110, 287, 300, 3391], "bits": ["", "011101", "", "100011", "1011", ""]}
+{"idx": 415, "prompt": "which", "stego": "which means i'm not going", "tokens": [4758, 1724, 1312, 1101, 407, 1016], "bits": ["", "10", "0", "", "01", ""]}
+{"idx": 416, "prompt": "no", "stego": "no internet in the app store", "tokens": [3919, 5230, 287, 262, 598, 3650], "bits": ["", "01111", "10010", "", "100101", ""]}
+{"idx": 417, "prompt": "do", "stego": "don't know what time", "tokens": [4598, 299, 470, 760, 644, 640], "bits": ["", "", "", "011", "", "10001111"]}
+{"idx": 418, "prompt": "l", "stego": "loves spring cleaning the house", "tokens": [75, 5241, 6076, 12724, 262, 2156], "bits": ["", "01", "1100100101", "011111", "0", ""]}
+{"idx": 419, "prompt": "even", "stego": "even if i know the answer", "tokens": [10197, 611, 1312, 760, 262, 3280], "bits": ["", "", "", "10000100101", "01", "0"]}
+{"idx": 420, "prompt": "inc", "stego": "incredibly jealous of your birthday", "tokens": [1939, 45779, 19354, 286, 534, 10955], "bits": ["", "", "01111001", "", "0", "0100101"]}
+{"idx": 421, "prompt": "but", "stego": "but i got my phone back", "tokens": [4360, 1312, 1392, 616, 3072, 736], "bits": ["", "", "01100", "0111", "", ""]}
+{"idx": 422, "prompt": "i", "stego": "i miss my husband so much", "tokens": [72, 2051, 616, 5229, 523, 881], "bits": ["", "1000", "0", "01010111", "", ""]}
+{"idx": 423, "prompt": "have", "stego": "have a safe flight tell me", "tokens": [14150, 257, 3338, 5474, 1560, 502], "bits": ["", "", "", "", "10000000011001110000", "01"]}
+{"idx": 424, "prompt": "what", "stego": "what are you doing baby boy", "tokens": [10919, 389, 345, 1804, 5156, 2933], "bits": ["", "10", "", "01", "1010001011", "10011"]}
+{"idx": 425, "prompt": "i", "stego": "i just wanted to congratulate you", "tokens": [72, 655, 2227, 284, 43647, 345], "bits": ["", "1010", "011001", "", "11000110", ""]}
+{"idx": 426, "prompt": "always", "stego": "always ready for next stay here", "tokens": [33770, 3492, 329, 1306, 2652, 994], "bits": ["", "100111", "01", "111100111", "100010010000101110", ""]}
+{"idx": 427, "prompt": "s", "stego": "says good afternoon plurkers", "tokens": [82, 592, 922, 6672, 30676, 15949], "bits": ["", "10", "010", "01", "01", ""]}
+{"idx": 428, "prompt": "i", "stego": "i have such a great day", "tokens": [72, 423, 884, 257, 1049, 1110], "bits": ["", "01", "100111", "", "1000010", "100010"]}
+{"idx": 429, "prompt": "i", "stego": "i hate fighting with the weather", "tokens": [72, 5465, 4330, 351, 262, 6193], "bits": ["", "1100", "1001000100", "", "100", "100"]}
+{"idx": 430, "prompt": "h", "stego": "haha i love coconut too", "tokens": [71, 12236, 1312, 1842, 20132, 1165], "bits": ["", "", "", "0111", "11011001000011110110", "010"]}
+{"idx": 431, "prompt": "c", "stego": "cant wait for the jonas brothers album and new moon trail", "tokens": [66, 415, 4043, 329, 262, 474, 261, 292, 9397, 5062, 290, 649, 8824, 8025], "bits": ["", "", "", "", "01", "1000110001", "", "", "", "", "", "", "", "100000000000010"]}
+{"idx": 432, "prompt": "g", "stego": "gotta love the weekend rain", "tokens": [70, 12375, 1842, 262, 5041, 6290], "bits": ["", "", "", "011", "011100", "100001"]}
+{"idx": 433, "prompt": "why", "stego": "why are you laughing at me", "tokens": [22850, 389, 345, 14376, 379, 502], "bits": ["", "", "", "011101110", "", ""]}
+{"idx": 434, "prompt": "g", "stego": "gonna celebrate with my boys", "tokens": [70, 6415, 10648, 351, 616, 6510], "bits": ["", "0", "1101000000", "0", "", "1001100"]}
+{"idx": 435, "prompt": "going", "stego": "going to sleepooooooooooooo", "tokens": [5146, 284, 3993, 26759, 13321, 78], "bits": ["", "", "0111", "11111110000000011010", "0", ""]}
+{"idx": 436, "prompt": "writing", "stego": "writing a maths paper this sucks", "tokens": [16502, 257, 47761, 3348, 428, 22523], "bits": ["", "0", "11000011", "", "10000", ""]}
+{"idx": 437, "prompt": "off", "stego": "off to get ready for work", "tokens": [2364, 284, 651, 3492, 329, 670], "bits": ["", "", "", "", "", ""]}
+{"idx": 438, "prompt": "just", "stego": "just woke up amp we're not moving anywhere near as freakin' easy as our office 2 hours left", "tokens": [3137, 19092, 510, 20766, 356, 705, 260, 407, 3867, 6609, 1474, 355, 22601, 259, 6, 2562, 355, 674, 2607, 362, 2250, 1364], "bits": ["", "", "", "0111111111", "110011010", "0", "", "10000", "11010000", "", "01111110", "100100", "11010111110", "", "", "100001", "", "1001110", "0101101", "10001", "01111110", "10110"]}
+{"idx": 439, "prompt": "g", "stego": "gonna sleep it off tonight", "tokens": [70, 6415, 3993, 340, 572, 9975], "bits": ["", "0", "1", "1000001000100", "", ""]}
+{"idx": 440, "prompt": "you", "stego": "you are such a sweetheart", "tokens": [5832, 389, 884, 257, 6029, 11499], "bits": ["", "", "100000", "", "0", ""]}
+{"idx": 441, "prompt": "so", "stego": "so glad you are having fun", "tokens": [568, 9675, 345, 389, 1719, 1257], "bits": ["", "010", "01", "101", "10110", ""]}
+{"idx": 442, "prompt": "aw", "stego": "awww i cant help it", "tokens": [707, 1383, 1312, 18548, 1037, 340], "bits": ["", "", "", "100011110010", "1010", ""]}
+{"idx": 443, "prompt": "been", "stego": "been to the beach all day", "tokens": [47436, 284, 262, 10481, 477, 1110], "bits": ["", "010", "", "01100", "0", ""]}
+{"idx": 444, "prompt": "aw", "stego": "aww sorry to hear that", "tokens": [707, 86, 7926, 284, 3285, 326], "bits": ["", "0", "1001", "", "", ""]}
+{"idx": 445, "prompt": "mys", "stego": "myspace isnt working again", "tokens": [28744, 10223, 318, 429, 1762, 757], "bits": ["", "", "", "100", "", "100"]}
+{"idx": 446, "prompt": "its", "stego": "its time to sleep night all", "tokens": [896, 640, 284, 3993, 1755, 477], "bits": ["", "1010", "011", "1010", "", ""]}
+{"idx": 447, "prompt": "y", "stego": "yay the sun is out", "tokens": [88, 323, 262, 4252, 318, 503], "bits": ["", "", "100000", "01", "", "0"]}
+{"idx": 448, "prompt": "our", "stego": "our clitimate is marching", "tokens": [454, 537, 270, 1920, 318, 26409], "bits": ["", "11000101101", "011111", "1101011110101", "", "1001101000001001110"]}
+{"idx": 449, "prompt": "i", "stego": "i just woke up still sick", "tokens": [72, 655, 19092, 510, 991, 6639], "bits": ["", "1010", "011010", "", "1000101", "1001"]}
+{"idx": 450, "prompt": "down", "stego": "down with pollen and colds", "tokens": [2902, 351, 40362, 290, 4692, 82], "bits": ["", "01", "1100110010001001", "0", "001", ""]}
+{"idx": 451, "prompt": "pl", "stego": "pls take care of yourself", "tokens": [489, 82, 1011, 1337, 286, 3511], "bits": ["", "", "1011", "0111", "", ""]}
+{"idx": 452, "prompt": "good", "stego": "good morning in san diego", "tokens": [11274, 3329, 287, 5336, 4656, 2188], "bits": ["", "0", "10110011", "1011", "", ""]}
+{"idx": 453, "prompt": "i", "stego": "i want to see you guys", "tokens": [72, 765, 284, 766, 345, 3730], "bits": ["", "", "0111", "", "1000", ""]}
+{"idx": 454, "prompt": "my", "stego": "my name is malonee", "tokens": [1820, 1438, 318, 6428, 505, 68], "bits": ["", "01110", "", "100001100110", "", ""]}
+{"idx": 455, "prompt": "f", "stego": "finally getting to sleep in", "tokens": [69, 3289, 1972, 284, 3993, 287], "bits": ["", "", "", "011111", "", ""]}
+{"idx": 456, "prompt": "i", "stego": "i want to play some television", "tokens": [72, 765, 284, 711, 617, 5581], "bits": ["", "", "0111", "1011", "1001000", "11101101110"]}
+{"idx": 457, "prompt": "f", "stego": "finally done with my report", "tokens": [69, 3289, 1760, 351, 616, 989], "bits": ["", "", "01", "", "", "0111100"]}
+{"idx": 458, "prompt": "ed", "stego": "ed mcmahon died today", "tokens": [276, 285, 11215, 30491, 3724, 1909], "bits": ["", "1", "", "", "1000", ""]}
+{"idx": 459, "prompt": "c", "stego": "cant wait to see her", "tokens": [66, 415, 4043, 284, 766, 607], "bits": ["", "", "", "0", "0", "1100"]}
+{"idx": 460, "prompt": "go", "stego": "gooooood morning twitterville", "tokens": [2188, 34160, 702, 3329, 17044, 4244], "bits": ["", "1011", "", "0", "", "1000"]}
+{"idx": 461, "prompt": "oh", "stego": "oh i hate you josh", "tokens": [1219, 1312, 5465, 345, 474, 3768], "bits": ["", "00", "101010", "0011", "10010", "011"]}
+{"idx": 462, "prompt": "and", "stego": "and i will never ever again", "tokens": [392, 1312, 481, 1239, 1683, 757], "bits": ["", "0", "10010", "100100", "10110", "101010"]}
+{"idx": 463, "prompt": "you", "stego": "you're actually watching now", "tokens": [5832, 705, 260, 1682, 4964, 783], "bits": ["", "0", "", "1101010001", "01111010", "110"]}
+{"idx": 464, "prompt": "y", "stego": "yayy doing my nails", "tokens": [88, 323, 88, 1804, 616, 23361], "bits": ["", "", "01110", "110101101110", "", "1000"]}
+{"idx": 465, "prompt": "god", "stego": "god's good to you", "tokens": [25344, 705, 82, 922, 284, 345], "bits": ["", "1110110", "", "00010", "0", "1"]}
+{"idx": 466, "prompt": "bus", "stego": "busy busy day for me", "tokens": [10885, 88, 8179, 1110, 329, 502], "bits": ["", "", "", "1001", "011", ""]}
+{"idx": 467, "prompt": "ha", "stego": "ha i'm in bed too", "tokens": [3099, 1312, 1101, 287, 3996, 1165], "bits": ["", "10", "", "0111101", "10100", "10"]}
+{"idx": 468, "prompt": "time", "stego": "time to make a happy face", "tokens": [2435, 284, 787, 257, 3772, 1986], "bits": ["", "", "01111", "01", "11000000", "01"]}
+{"idx": 469, "prompt": "i", "stego": "i am just glad to help", "tokens": [72, 716, 655, 9675, 284, 1037], "bits": ["", "011", "10001", "100011101", "100", "11"]}
+{"idx": 470, "prompt": "for", "stego": "for the first time in ages", "tokens": [1640, 262, 717, 640, 287, 9337], "bits": ["", "10", "010", "", "", "100"]}
+{"idx": 471, "prompt": "i", "stego": "i think i'm getting sick", "tokens": [72, 892, 1312, 1101, 1972, 6639], "bits": ["", "1001", "", "0", "", ""]}
+{"idx": 472, "prompt": "got", "stego": "got to go to work now", "tokens": [23442, 284, 467, 284, 670, 783], "bits": ["", "", "", "", "0111", ""]}
+{"idx": 473, "prompt": "i", "stego": "i wish i could see it", "tokens": [72, 4601, 1312, 714, 766, 340], "bits": ["", "100", "", "01", "1010", "1"]}
+{"idx": 474, "prompt": "w", "stego": "welcome to my twitterverse", "tokens": [86, 9571, 284, 616, 17044, 4399], "bits": ["", "", "", "10000", "0", "0"]}
+{"idx": 475, "prompt": "oo", "stego": "oooh you're welcome", "tokens": [2238, 1219, 345, 705, 260, 7062], "bits": ["", "", "", "", "", ""]}
+{"idx": 476, "prompt": "what", "stego": "what a busy day for me", "tokens": [10919, 257, 8179, 1110, 329, 502], "bits": ["", "", "10000000", "", "1001", ""]}
+{"idx": 477, "prompt": "just", "stego": "just watched el futurama", "tokens": [3137, 7342, 1288, 13294, 333, 1689], "bits": ["", "1001", "1000001110110", "101100001", "", "01"]}
+{"idx": 478, "prompt": "it", "stego": "it's so hott", "tokens": [270, 705, 82, 523, 289, 1252], "bits": ["", "", "", "0", "100101110", ""]}
+{"idx": 479, "prompt": "lov", "stego": "lovin' the european people don't have an accent", "tokens": [27086, 259, 6, 262, 11063, 431, 272, 661, 466, 299, 470, 423, 281, 18702], "bits": ["", "", "", "0", "111101000110", "", "", "100110", "0111111011", "", "", "10000", "0111", ""]}
+{"idx": 480, "prompt": "this", "stego": "this is why i love twitter", "tokens": [5661, 318, 1521, 1312, 1842, 17044], "bits": ["", "", "", "", "", "01111111"]}
+{"idx": 481, "prompt": "no", "stego": "no idea what theme to use", "tokens": [3919, 2126, 644, 7505, 284, 779], "bits": ["", "011110", "", "1001111111110100", "01", ""]}
+{"idx": 482, "prompt": "'", "stego": "'he is amazing in it", "tokens": [6, 258, 318, 4998, 287, 340], "bits": ["", "1001001", "01", "1000", "100000", ""]}
+{"idx": 483, "prompt": "put", "stego": "putting in a new project", "tokens": [1996, 889, 287, 257, 649, 1628], "bits": ["", "", "01101", "", "", "01111101"]}
+{"idx": 484, "prompt": "hate", "stego": "hate waking up in the morning", "tokens": [37035, 23137, 510, 287, 262, 3329], "bits": ["", "110001", "", "", "", ""]}
+{"idx": 485, "prompt": "aah", "stego": "aahhh im a bad girl", "tokens": [37500, 12337, 545, 257, 2089, 2576], "bits": ["", "0", "101100", "0110", "10000", ""]}
+{"idx": 486, "prompt": "i", "stego": "i am so effin sad", "tokens": [72, 716, 523, 914, 259, 6507], "bits": ["", "011", "01", "10001000", "", "1"]}
+{"idx": 487, "prompt": "does", "stego": "doesn't wanna get up", "tokens": [22437, 299, 470, 18869, 651, 510], "bits": ["", "", "", "011111", "110", ""]}
+{"idx": 488, "prompt": "and", "stego": "and my mom is a jerk", "tokens": [392, 616, 1995, 318, 257, 29757], "bits": ["", "100", "011000", "01", "0100", "010"]}
+{"idx": 489, "prompt": "or", "stego": "or what archie said lol", "tokens": [273, 644, 610, 3043, 531, 19462], "bits": ["", "1100000", "1100010000011101", "0", "0", "0"]}
+{"idx": 490, "prompt": "i", "stego": "i am old now that i have 3 followers i am a fatass", "tokens": [72, 716, 1468, 783, 326, 1312, 423, 513, 10569, 1312, 716, 257, 3735, 562], "bits": ["", "011", "10101010011110", "1011011", "01100", "", "01", "", "011111111", "", "011111", "011", "10001110", "10"]}
+{"idx": 491, "prompt": "n", "stego": "nope no thurs yet", "tokens": [77, 3008, 645, 294, 1834, 1865], "bits": ["", "0", "0110", "1001001101", "10000", "0"]}
+{"idx": 492, "prompt": "we", "stego": "we have a ton of our wind up that we have at the moment", "tokens": [732, 423, 257, 5680, 286, 674, 2344, 510, 326, 356, 423, 379, 262, 2589], "bits": ["", "100", "0", "0111000", "", "1001", "10000011101000", "011101", "101", "0111", "", "0111110", "", ""]}
+{"idx": 493, "prompt": "would", "stego": "would you like to show support", "tokens": [19188, 345, 588, 284, 905, 1104], "bits": ["", "01", "", "", "11001101010", "1011"]}
+{"idx": 494, "prompt": "well", "stego": "well i think you should follow", "tokens": [4053, 1312, 892, 345, 815, 1061], "bits": ["", "0", "0111", "10", "", "01111111"]}
+{"idx": 495, "prompt": "i", "stego": "i wish i had time to think of things to do in vegas", "tokens": [72, 4601, 1312, 550, 640, 284, 892, 286, 1243, 284, 466, 287, 1569, 22649], "bits": ["", "100", "", "1000", "11000", "0111", "1101010", "", "0111110", "", "", "011", "1011", ""]}
+{"idx": 496, "prompt": "where", "stego": "where are you at eric", "tokens": [3003, 389, 345, 379, 1931, 291], "bits": ["", "1", "0", "101", "100110111010", ""]}
+{"idx": 497, "prompt": "looking", "stego": "looking forward to playing club penguin but no sign of you on here", "tokens": [11534, 2651, 284, 2712, 3430, 38373, 259, 475, 645, 1051, 286, 345, 319, 994], "bits": ["", "", "", "11000110", "1011100100110", "00", "", "1", "011111100", "100110", "", "100111101", "10", ""]}
+{"idx": 498, "prompt": "i", "stego": "i am looking forward to it", "tokens": [72, 716, 2045, 2651, 284, 340], "bits": ["", "011", "10010010", "", "", ""]}
+{"idx": 499, "prompt": "going", "stego": "going to see hangover in the dl museum with the cousins today", "tokens": [5146, 284, 766, 8181, 2502, 287, 262, 288, 75, 13257, 351, 262, 28706, 1909], "bits": ["", "", "010", "11001", "", "1010110100", "10", "011110100", "0111011", "01111011", "0", "100", "1011001", ""]}
+{"idx": 500, "prompt": "major", "stego": "major delay on writing it down", "tokens": [22478, 5711, 319, 3597, 340, 866], "bits": ["", "10001", "011", "1010110110", "0110101", ""]}
+{"idx": 501, "prompt": "dog", "stego": "dogtown was so much fun", "tokens": [9703, 12735, 373, 523, 881, 1257], "bits": ["", "100110", "", "10000", "0", ""]}
+{"idx": 502, "prompt": "wh", "stego": "whats going on hunny", "tokens": [1929, 1381, 1016, 319, 5494, 3281], "bits": ["", "", "011", "", "1101111", ""]}
+{"idx": 503, "prompt": "t", "stego": "tweetup for the win", "tokens": [83, 7277, 929, 329, 262, 1592], "bits": ["", "", "100001001", "0110", "", "01111"]}
+{"idx": 504, "prompt": "finding", "stego": "finding out later this summer too", "tokens": [41070, 503, 1568, 428, 3931, 1165], "bits": ["", "0", "101101000111", "1000", "10000", "10010"]}
+{"idx": 505, "prompt": "d", "stego": "dude we have no lives", "tokens": [67, 2507, 356, 423, 645, 3160], "bits": ["", "01", "101011", "100", "00", ""]}
+{"idx": 506, "prompt": "w", "stego": "welcome to twitter luv", "tokens": [86, 9571, 284, 17044, 300, 14795], "bits": ["", "", "", "", "011110100", "011"]}
+{"idx": 507, "prompt": "t", "stego": "totally bummed i missed the air show so i missed the show", "tokens": [83, 38908, 39564, 1150, 1312, 6825, 262, 1633, 905, 523, 1312, 6825, 262, 905], "bits": ["", "1", "011001", "", "011111", "0", "00", "10110111110", "10", "1011010", "", "01", "", "0111"]}
+{"idx": 508, "prompt": "poor", "stego": "poor bebeeee x", "tokens": [36672, 307, 1350, 1453, 68, 2124], "bits": ["", "1011110", "10", "10000011011", "", "0110"]}
+{"idx": 509, "prompt": "my", "stego": "my legs are still too big", "tokens": [1820, 7405, 389, 991, 1165, 1263], "bits": ["", "011001", "", "1010", "10", "01111111"]}
+{"idx": 510, "prompt": "so", "stego": "so tired again no idea why", "tokens": [568, 10032, 757, 645, 2126, 1521], "bits": ["", "", "100000111110110", "0111111", "0", ""]}
+{"idx": 511, "prompt": "i", "stego": "i miss my good friend too", "tokens": [72, 2051, 616, 922, 1545, 1165], "bits": ["", "1000", "0", "01101010", "", "011111"]}
+{"idx": 512, "prompt": "my", "stego": "my mama did the same", "tokens": [1820, 285, 1689, 750, 262, 976], "bits": ["", "011111", "01", "100110011", "10", ""]}
+{"idx": 513, "prompt": "am", "stego": "am i a pig or what", "tokens": [321, 1312, 257, 12967, 393, 644], "bits": ["", "", "0111", "01111110", "0", ""]}
+{"idx": 514, "prompt": "y", "stego": "yay thanks for watching the mtv awardsi didn't win", "tokens": [88, 323, 5176, 329, 4964, 262, 285, 14981, 13304, 72, 750, 299, 470, 1592], "bits": ["", "", "100010", "", "100011001100011111", "111010", "0100", "", "111", "10011010010", "110001", "0", "", "1011"]}
+{"idx": 515, "prompt": "sum", "stego": "summer will be finally here", "tokens": [16345, 647, 481, 307, 3443, 994], "bits": ["", "", "110111", "", "1011101001", ""]}
+{"idx": 516, "prompt": "m", "stego": "monday is sucking so far", "tokens": [76, 3204, 318, 27904, 523, 1290], "bits": ["", "000", "01", "10011010", "", "00"]}
+{"idx": 517, "prompt": "i", "stego": "i wish i could be there", "tokens": [72, 4601, 1312, 714, 307, 612], "bits": ["", "100", "", "01", "", ""]}
+{"idx": 518, "prompt": "we", "stego": "we are a very special bunch", "tokens": [732, 389, 257, 845, 2041, 7684], "bits": ["", "", "0111001", "0110", "0100", "0"]}
+{"idx": 519, "prompt": "yeah", "stego": "yeah but i'm still working", "tokens": [43669, 475, 1312, 1101, 991, 1762], "bits": ["", "101", "01", "0", "", "01111"]}
+{"idx": 520, "prompt": "b", "stego": "bored too hahaha", "tokens": [65, 1850, 1165, 387, 71, 12236], "bits": ["", "01", "110110001", "10001", "", ""]}
+{"idx": 521, "prompt": "next", "stego": "next week i'm all positive", "tokens": [19545, 1285, 1312, 1101, 477, 3967], "bits": ["", "", "", "", "0111111111", "1011100001001"]}
+{"idx": 522, "prompt": "just", "stego": "just checking on an old friend", "tokens": [3137, 10627, 319, 281, 1468, 1545], "bits": ["", "1110", "1000001010", "10001110", "", ""]}
+{"idx": 523, "prompt": "it", "stego": "it's gonna be great", "tokens": [270, 705, 82, 8066, 307, 1049], "bits": ["", "", "", "100100", "", "10"]}
+{"idx": 524, "prompt": "which", "stego": "which is strength and not strength", "tokens": [4758, 318, 4202, 290, 407, 4202], "bits": ["", "0", "101100010011111111000", "10001", "0100", "0110"]}
+{"idx": 525, "prompt": "i", "stego": "i think im going to cry", "tokens": [72, 892, 545, 1016, 284, 3960], "bits": ["", "1001", "10011", "011", "", ""]}
+{"idx": 526, "prompt": "fun", "stego": "funny that's right", "tokens": [12543, 3281, 326, 705, 82, 826], "bits": ["", "", "0110", "011", "", "0111"]}
+{"idx": 527, "prompt": "had", "stego": "had a nice cockati night", "tokens": [18108, 257, 3621, 7540, 7246, 1755], "bits": ["", "", "0111", "1111001010000010100", "011", "1101001"]}
+{"idx": 528, "prompt": "t", "stego": "tweetdeck is strangely good", "tokens": [83, 7277, 35875, 318, 29381, 922], "bits": ["", "", "01", "", "100101111", "100000110001"]}
+{"idx": 529, "prompt": "good", "stego": "goodnight twitter have a great day the sun is out and i'm gonna have a good sleep tonight after all", "tokens": [11274, 3847, 17044, 423, 257, 1049, 1110, 262, 4252, 318, 503, 290, 1312, 1101, 8066, 423, 257, 922, 3993, 9975, 706, 477], "bits": ["", "1", "010", "100010111", "10", "10", "01", "11000101", "01", "", "101", "", "", "011111", "10010", "101", "", "0101", "1101", "0111", "011111101", ""]}
+{"idx": 530, "prompt": "what", "stego": "what a beautiful and sunny day", "tokens": [10919, 257, 4950, 290, 27737, 1110], "bits": ["", "", "01", "100100100", "", ""]}
+{"idx": 531, "prompt": "wow", "stego": "wow you really need to rest", "tokens": [42773, 345, 1107, 761, 284, 1334], "bits": ["", "", "100000", "100100", "", "0111100"]}
+{"idx": 532, "prompt": "but", "stego": "but i got 2 c pics", "tokens": [4360, 1312, 1392, 362, 269, 27618], "bits": ["", "", "01100", "100110001", "", "10000000"]}
+{"idx": 533, "prompt": "just", "stego": "just had a very good conversation", "tokens": [3137, 550, 257, 845, 922, 5273], "bits": ["", "100", "0", "010", "010", "10"]}
+{"idx": 534, "prompt": "s", "stego": "sitting in a sea of florida wondering what to do today", "tokens": [82, 2535, 287, 257, 5417, 286, 781, 273, 3755, 11263, 644, 284, 466, 1909], "bits": ["", "", "011", "10", "1010101111110001", "", "100001110", "01", "", "101", "011", "", "", "011"]}
+{"idx": 535, "prompt": "feel", "stego": "feel free to go with me", "tokens": [36410, 1479, 284, 467, 351, 502], "bits": ["", "", "", "1001001010", "0", ""]}
+{"idx": 536, "prompt": "to", "stego": "to the pinky tonight show", "tokens": [1462, 262, 11398, 88, 9975, 905], "bits": ["", "00", "10010110", "011111", "1000010011001", ""]}
+{"idx": 537, "prompt": "i", "stego": "i'm home and loved it", "tokens": [72, 1101, 1363, 290, 6151, 340], "bits": ["", "0", "01101001", "", "100010110100", ""]}
+{"idx": 538, "prompt": "need", "stego": "need to buy a new one", "tokens": [31227, 284, 2822, 257, 649, 530], "bits": ["", "", "10011", "", "", ""]}
+{"idx": 539, "prompt": "s", "stego": "sad to be missing it", "tokens": [82, 324, 284, 307, 4814, 340], "bits": ["", "0", "101", "10", "1001", ""]}
+{"idx": 540, "prompt": "i", "stego": "i'm stressing out over here", "tokens": [72, 1101, 43455, 503, 625, 994], "bits": ["", "0", "10000000001001", "", "10", ""]}
+{"idx": 541, "prompt": "proble", "stego": "proble arnt the best", "tokens": [1676, 903, 610, 429, 262, 1266], "bits": ["", "", "0111000", "0", "01101", "0"]}
+{"idx": 542, "prompt": "my", "stego": "my little sister is making pancakes", "tokens": [1820, 1310, 6621, 318, 1642, 47008], "bits": ["", "0100", "01111", "", "110010100", "10"]}
+{"idx": 543, "prompt": "m", "stego": "mum is working late tonight", "tokens": [76, 388, 318, 1762, 2739, 9975], "bits": ["", "01", "", "011111111001", "0", "011"]}
+{"idx": 544, "prompt": "so", "stego": "so not swinging up to me", "tokens": [568, 407, 25635, 510, 284, 502], "bits": ["", "10110", "11000101010111100000100", "100001010", "100", "01"]}
+{"idx": 545, "prompt": "watching", "stego": "watching quotdearquot", "tokens": [50042, 23611, 67, 451, 421, 313], "bits": ["", "0111", "1010010", "011", "0", ""]}
+{"idx": 546, "prompt": "having", "stego": "having a hard time falling asleep", "tokens": [40965, 257, 1327, 640, 7463, 16039], "bits": ["", "", "010", "", "0", ""]}
+{"idx": 547, "prompt": "aw", "stego": "awww that's sweet", "tokens": [707, 1383, 326, 705, 82, 6029], "bits": ["", "", "10", "", "", ""]}
+{"idx": 548, "prompt": "could", "stego": "couldn't see you either", "tokens": [24089, 299, 470, 766, 345, 2035], "bits": ["", "", "", "", "01111111", "101"]}
+{"idx": 549, "prompt": "which", "stego": "which is much more groovy", "tokens": [4758, 318, 881, 517, 7128, 27796], "bits": ["", "0", "10100010", "", "100000110010100110", ""]}
+{"idx": 550, "prompt": "today", "stego": "today was boring i love it", "tokens": [40838, 373, 14262, 1312, 1842, 340], "bits": ["", "1", "100101110", "01101", "10", "01"]}
+{"idx": 551, "prompt": "ar", "stego": "arrived home from chicago", "tokens": [283, 36207, 1363, 422, 442, 4549], "bits": ["", "111", "11001", "0", "10000", ""]}
+{"idx": 552, "prompt": "h", "stego": "haha i'm so jealous", "tokens": [71, 12236, 1312, 1101, 523, 19354], "bits": ["", "", "", "", "011111", "100"]}
+{"idx": 553, "prompt": "all", "stego": "allergies are kicking in", "tokens": [439, 6422, 444, 389, 17997, 287], "bits": ["", "100", "", "", "10010", ""]}
+{"idx": 554, "prompt": "but", "stego": "but im happy i got one", "tokens": [4360, 545, 3772, 1312, 1392, 530], "bits": ["", "11001", "0110", "1000000", "00", "01110"]}
+{"idx": 555, "prompt": "is", "stego": "is missing her gd friends", "tokens": [271, 4814, 607, 308, 67, 2460], "bits": ["", "1000", "011", "11001", "100000", ""]}
+{"idx": 556, "prompt": "i", "stego": "i want you to stay longer", "tokens": [72, 765, 345, 284, 2652, 2392], "bits": ["", "", "1000000000", "", "100000", "011"]}
+{"idx": 557, "prompt": "is", "stego": "is very very very very happy", "tokens": [271, 845, 845, 845, 845, 3772], "bits": ["", "100110", "00", "0", "", "10"]}
+{"idx": 558, "prompt": "ca", "stego": "can't wait to get my copy of the xbox 360 tomorrow", "tokens": [6888, 299, 470, 4043, 284, 651, 616, 4866, 286, 262, 2124, 3524, 11470, 9439], "bits": ["", "", "", "", "", "01111", "01", "011001", "", "", "01011100", "010", "", ""]}
+{"idx": 559, "prompt": "i", "stego": "i'm very slow on it", "tokens": [72, 1101, 845, 3105, 319, 340], "bits": ["", "0", "010101", "10111001101", "10", "100100"]}
+{"idx": 560, "prompt": "pre", "stego": "preach it for me please", "tokens": [3866, 620, 340, 329, 502, 3387], "bits": ["", "100", "", "01", "", ""]}
+{"idx": 561, "prompt": "aw", "stego": "awww that's good", "tokens": [707, 1383, 326, 705, 82, 922], "bits": ["", "", "10", "", "", "1001011"]}
+{"idx": 562, "prompt": "you", "stego": "you're official kendra", "tokens": [5832, 705, 260, 1743, 479, 48286], "bits": ["", "0", "", "111000000111011", "10110000", "100111"]}
+{"idx": 563, "prompt": "and", "stego": "and i feel your pain ok", "tokens": [392, 1312, 1254, 534, 2356, 12876], "bits": ["", "0", "100011", "011", "", "1000101100111"]}
+{"idx": 564, "prompt": "we", "stego": "we had snow for 2 days", "tokens": [732, 550, 6729, 329, 362, 1528], "bits": ["", "101", "1010100000", "1000001", "00", ""]}
+{"idx": 565, "prompt": "stored", "stego": "stored at home this morning", "tokens": [301, 1850, 379, 1363, 428, 3329], "bits": ["", "", "01", "", "", "011111"]}
+{"idx": 566, "prompt": "i", "stego": "i am so bored right now", "tokens": [72, 716, 523, 17533, 826, 783], "bits": ["", "011", "01", "0110", "", ""]}
+{"idx": 567, "prompt": "that", "stego": "that's so not fair", "tokens": [5562, 705, 82, 523, 407, 3148], "bits": ["", "", "", "", "01111", ""]}
+{"idx": 568, "prompt": "this", "stego": "this is so hard to do", "tokens": [5661, 318, 523, 1327, 284, 466], "bits": ["", "", "0111", "0111", "", "01"]}
+{"idx": 569, "prompt": "ch", "stego": "chillen at the house", "tokens": [354, 359, 268, 379, 262, 2156], "bits": ["", "", "011", "", "011", ""]}
+{"idx": 570, "prompt": "l", "stego": "loves twittersphere", "tokens": [75, 5241, 665, 45512, 79, 1456], "bits": ["", "01", "1100001101", "1000", "", ""]}
+{"idx": 571, "prompt": "i", "stego": "i haven't checked mine", "tokens": [72, 423, 299, 470, 10667, 6164], "bits": ["", "01", "100100", "", "1110011", "10000"]}
+{"idx": 572, "prompt": "best", "stego": "best part of the day p", "tokens": [13466, 636, 286, 262, 1110, 279], "bits": ["", "", "", "", "", "10000001101001"]}
+{"idx": 573, "prompt": "gl", "stego": "glad you are enjoying it", "tokens": [4743, 324, 345, 389, 13226, 340], "bits": ["", "", "", "", "01111", ""]}
+{"idx": 574, "prompt": "but", "stego": "but i def will be okay", "tokens": [4360, 1312, 825, 481, 307, 8788], "bits": ["", "", "0111111011111", "100", "01", "100000"]}
+{"idx": 575, "prompt": "looking", "stego": "looking forward to an exciting week", "tokens": [11534, 2651, 284, 281, 7895, 1285], "bits": ["", "", "", "101100", "10", ""]}
+{"idx": 576, "prompt": "se", "stego": "seems like fun to me", "tokens": [325, 5232, 588, 1257, 284, 502], "bits": ["", "", "", "01111", "", ""]}
+{"idx": 577, "prompt": "going", "stego": "going to sleep without my babe", "tokens": [5146, 284, 3993, 1231, 616, 42666], "bits": ["", "", "0111", "110011", "", "1000"]}
+{"idx": 578, "prompt": "c", "stego": "cuz i have a yankees game and i'm kinda sick", "tokens": [66, 10277, 1312, 423, 257, 331, 272, 16683, 983, 290, 1312, 1101, 17855, 6639], "bits": ["", "1", "", "01111011", "", "1010100011101", "011", "1", "0111", "0", "01", "01", "100101", "10110"]}
+{"idx": 579, "prompt": "bye", "stego": "bye bye kitty kitty", "tokens": [16390, 33847, 479, 9760, 479, 9760], "bits": ["", "", "00", "01111", "001", ""]}
+{"idx": 580, "prompt": "that", "stego": "that's a long time", "tokens": [5562, 705, 82, 257, 890, 640], "bits": ["", "", "", "0", "100", ""]}
+{"idx": 581, "prompt": "w", "stego": "welcome to my twitterverse", "tokens": [86, 9571, 284, 616, 17044, 4399], "bits": ["", "", "", "10000", "0", "0"]}
+{"idx": 582, "prompt": "you", "stego": "you are such a great dad", "tokens": [5832, 389, 884, 257, 1049, 9955], "bits": ["", "", "100000", "", "011", "110"]}
+{"idx": 583, "prompt": "new", "stego": "new episode of jonas", "tokens": [3605, 4471, 286, 474, 261, 292], "bits": ["", "011", "", "0111", "", ""]}
+{"idx": 584, "prompt": "i", "stego": "i want to see star trek", "tokens": [72, 765, 284, 766, 3491, 30784], "bits": ["", "", "0111", "", "1001100", ""]}
+{"idx": 585, "prompt": "looking", "stego": "looking forward to your blog post", "tokens": [11534, 2651, 284, 534, 4130, 1281], "bits": ["", "", "", "", "10001000", "01"]}
+{"idx": 586, "prompt": "i", "stego": "i miss you too arthur", "tokens": [72, 2051, 345, 1165, 610, 11098], "bits": ["", "1000", "01", "0", "10010101", "011"]}
+{"idx": 587, "prompt": "i", "stego": "i miss yooouuu", "tokens": [72, 2051, 331, 2238, 280, 12303], "bits": ["", "1000", "10010111", "011", "", ""]}
+{"idx": 588, "prompt": "a", "stego": "a friend's dad died", "tokens": [64, 1545, 705, 82, 9955, 3724], "bits": ["", "01010", "0110", "", "10110110", ""]}
+{"idx": 589, "prompt": "you", "stego": "you're just that great", "tokens": [5832, 705, 260, 655, 326, 1049], "bits": ["", "0", "", "1010", "10100", "01"]}
+{"idx": 590, "prompt": "my", "stego": "my cousin won't leave", "tokens": [1820, 16933, 24486, 299, 470, 2666], "bits": ["", "0111001", "1011001110", "", "", "0111"]}
+{"idx": 591, "prompt": "t", "stego": "tweet you all later folks", "tokens": [83, 7277, 345, 477, 1568, 7974], "bits": ["", "", "0111111", "", "", "01111"]}
+{"idx": 592, "prompt": "i", "stego": "i know i know i know", "tokens": [72, 760, 1312, 760, 1312, 760], "bits": ["", "11001", "0", "10", "", "01111"]}
+{"idx": 593, "prompt": "have", "stego": "have a great time today x", "tokens": [14150, 257, 1049, 640, 1909, 2124], "bits": ["", "", "0", "01", "1000101", "1000"]}
+{"idx": 594, "prompt": "you", "stego": "you are my best friend david", "tokens": [5832, 389, 616, 1266, 1545, 21970], "bits": ["", "", "1000010", "0110", "01", "110000010"]}
+{"idx": 595, "prompt": "in", "stego": "in bed after a long day", "tokens": [259, 3996, 706, 257, 890, 1110], "bits": ["", "100", "01011", "", "", ""]}
+{"idx": 596, "prompt": "about", "stego": "about to watch the cws", "tokens": [10755, 284, 2342, 262, 269, 18504], "bits": ["", "", "", "", "10001010101011", "1100"]}
+{"idx": 597, "prompt": "i", "stego": "i have a really bad headache", "tokens": [72, 423, 257, 1107, 2089, 24902], "bits": ["", "01", "", "0111001", "", ""]}
+{"idx": 598, "prompt": "please", "stego": "please come back to chile", "tokens": [29688, 1282, 736, 284, 442, 576], "bits": ["", "0", "101", "", "011", ""]}
+{"idx": 599, "prompt": "thy", "stego": "thyroid would make me happy", "tokens": [20057, 3882, 561, 787, 502, 3772], "bits": ["", "0", "0111100110", "011111", "0", "01"]}
+{"idx": 600, "prompt": "i", "stego": "i hope you're okay", "tokens": [72, 2911, 345, 705, 260, 8788], "bits": ["", "101", "01", "100", "", "0"]}
+{"idx": 601, "prompt": "done", "stego": "done with the ups and downs", "tokens": [28060, 351, 262, 19649, 290, 21838], "bits": ["", "", "0", "0110110011101", "", ""]}
+{"idx": 602, "prompt": "w", "stego": "wish i was going to cmo in the morning but work tomorrow", "tokens": [86, 680, 1312, 373, 1016, 284, 269, 5908, 287, 262, 3329, 475, 670, 9439], "bits": ["", "0", "", "", "100", "0111", "11011", "1000001000000100", "0101", "01110", "0", "01", "1000100", "101"]}
+{"idx": 603, "prompt": "my", "stego": "my 10 year old daughter is leaving this year and i'm really sad", "tokens": [1820, 838, 614, 1468, 4957, 318, 4305, 428, 614, 290, 1312, 1101, 1107, 6507], "bits": ["", "1100101000", "0", "", "", "011111", "1010111", "10100100", "1001101", "010", "0", "", "0111", ""]}
+{"idx": 604, "prompt": "des", "stego": "desperate housewives season 2", "tokens": [8906, 30052, 2156, 35234, 1622, 362], "bits": ["", "", "", "", "01", "01"]}
+{"idx": 605, "prompt": "oh", "stego": "oh god am i missing something", "tokens": [1219, 5770, 716, 1312, 4814, 1223], "bits": ["", "101", "10100000", "", "01111", ""]}
+{"idx": 606, "prompt": "_", "stego": "_ fuck fuck fuck fuck fuck", "tokens": [62, 5089, 5089, 5089, 5089, 5089], "bits": ["", "110000110", "0110", "", "", ""]}
+{"idx": 607, "prompt": "c", "stego": "cant wait till friday", "tokens": [66, 415, 4043, 10597, 1216, 2567], "bits": ["", "", "", "10010", "01", ""]}
+{"idx": 608, "prompt": "really", "stego": "really nice i love you really", "tokens": [27485, 3621, 1312, 1842, 345, 1107], "bits": ["", "10001", "011011", "00", "10", "100111111001"]}
+{"idx": 609, "prompt": "why", "stego": "why do i have to poop", "tokens": [22850, 466, 1312, 423, 284, 40125], "bits": ["", "0", "", "", "0111", "1111010110"]}
+{"idx": 610, "prompt": "grad", "stego": "graduation in like 2 weeks", "tokens": [9744, 2288, 287, 588, 362, 2745], "bits": ["", "", "", "1000", "010", "11"]}
+{"idx": 611, "prompt": "i", "stego": "i am going to the movies", "tokens": [72, 716, 1016, 284, 262, 6918], "bits": ["", "011", "0111", "", "011", "0111"]}
+{"idx": 612, "prompt": "but", "stego": "but i really wanna go somewhere", "tokens": [4360, 1312, 1107, 18869, 467, 7382], "bits": ["", "", "011011", "011", "", "100011010101"]}
+{"idx": 613, "prompt": "but", "stego": "but you're not right", "tokens": [4360, 345, 705, 260, 407, 826], "bits": ["", "10", "", "", "0111", "100100101"]}
+{"idx": 614, "prompt": "y", "stego": "yay yay yay", "tokens": [88, 323, 331, 323, 331, 323], "bits": ["", "", "100001", "", "", ""]}
+{"idx": 615, "prompt": "hey", "stego": "hey why are you so sweet", "tokens": [20342, 1521, 389, 345, 523, 6029], "bits": ["", "10100", "", "", "", "011111110110"]}
+{"idx": 616, "prompt": "that", "stego": "that's what i said", "tokens": [5562, 705, 82, 644, 1312, 531], "bits": ["", "", "", "01", "", ""]}
+{"idx": 617, "prompt": "is", "stego": "is really sad about leaving her", "tokens": [271, 1107, 6507, 546, 4305, 607], "bits": ["", "01111", "01001", "0", "101111", "01"]}
+{"idx": 618, "prompt": "5", "stego": "5 more days at the beach", "tokens": [20, 517, 1528, 379, 262, 10481], "bits": ["", "0", "", "101001110", "", ""]}
+{"idx": 619, "prompt": "hom", "stego": "homework then sunday lunch", "tokens": [26452, 6433, 788, 37437, 323, 9965], "bits": ["", "", "", "0111101111", "", "1000011"]}
+{"idx": 620, "prompt": "that", "stego": "that's awesome btw", "tokens": [5562, 705, 82, 7427, 275, 4246], "bits": ["", "", "", "1010", "01100", ""]}
+{"idx": 621, "prompt": "i", "stego": "i've got a cold", "tokens": [72, 705, 303, 1392, 257, 4692], "bits": ["", "0100", "1", "10", "", "10"]}
+{"idx": 622, "prompt": "i", "stego": "i wish i was a jerk", "tokens": [72, 4601, 1312, 373, 257, 29757], "bits": ["", "100", "", "", "01111111", "0111100010"]}
+{"idx": 623, "prompt": "party", "stego": "party in my room drinking tea", "tokens": [10608, 287, 616, 2119, 7722, 8887], "bits": ["", "0111", "100", "00", "11001011", "011"]}
+{"idx": 624, "prompt": "put", "stego": "put a smile on my face", "tokens": [1996, 257, 8212, 319, 616, 1986], "bits": ["", "101", "0", "", "", ""]}
+{"idx": 625, "prompt": "i", "stego": "i don't have any", "tokens": [72, 466, 299, 470, 423, 597], "bits": ["", "10", "", "", "100000", ""]}
+{"idx": 626, "prompt": "do", "stego": "don't think i can", "tokens": [4598, 299, 470, 892, 1312, 460], "bits": ["", "", "", "1000", "", "100"]}
+{"idx": 627, "prompt": "that", "stego": "that's the ultimate dilemma", "tokens": [5562, 705, 82, 262, 8713, 26566], "bits": ["", "", "", "100", "1001000101", "011"]}
+{"idx": 628, "prompt": "it", "stego": "it's not for me", "tokens": [270, 705, 82, 407, 329, 502], "bits": ["", "", "", "01", "0111010", ""]}
+{"idx": 629, "prompt": "i", "stego": "i was amazed at how good the sadland change is coming to me", "tokens": [72, 373, 24562, 379, 703, 922, 262, 6507, 1044, 1487, 318, 2406, 284, 502], "bits": ["", "1", "01111111100010", "", "01", "100011", "0", "10110001000100", "10001011111", "011111111", "100", "", "01111", "101"]}
+{"idx": 630, "prompt": "i", "stego": "i hate sleeping in my bed", "tokens": [72, 5465, 11029, 287, 616, 3996], "bits": ["", "1100", "100010111", "", "10100", ""]}
+{"idx": 631, "prompt": "oh", "stego": "oh how i miss houston", "tokens": [1219, 703, 1312, 2051, 289, 6526], "bits": ["", "10101", "", "1", "101101001", "0"]}
+{"idx": 632, "prompt": "share", "stego": "share it with me plz", "tokens": [20077, 340, 351, 502, 458, 89], "bits": ["", "", "", "", "", ""]}
+{"idx": 633, "prompt": "i", "stego": "i miss my stevie", "tokens": [72, 2051, 616, 336, 1990, 494], "bits": ["", "1000", "0", "011010101", "01", ""]}
+{"idx": 634, "prompt": "le", "stego": "leaving for boston tomorrow", "tokens": [293, 2703, 329, 275, 5744, 9439], "bits": ["", "", "0", "100000", "0", ""]}
+{"idx": 635, "prompt": "you", "stego": "you are soo sweet haha", "tokens": [5832, 389, 523, 78, 6029, 42254], "bits": ["", "", "0111", "100", "100000", "10000"]}
+{"idx": 636, "prompt": "you", "stego": "you know you're cool", "tokens": [5832, 760, 345, 705, 260, 3608], "bits": ["", "1010", "10", "0", "", "1000"]}
+{"idx": 637, "prompt": "k", "stego": "kennedy tonight goto bed", "tokens": [74, 1697, 4716, 9975, 43197, 3996], "bits": ["", "10000", "", "1000010000", "1101101110011000111000", "0"]}
+{"idx": 638, "prompt": "w", "stego": "welcome to my new followers", "tokens": [86, 9571, 284, 616, 649, 10569], "bits": ["", "", "", "10000", "01", ""]}
+{"idx": 639, "prompt": "im", "stego": "im scared i didnt sleep well", "tokens": [320, 12008, 1312, 42547, 3993, 880], "bits": ["", "11000111", "1", "1001101100", "1011", "0"]}
+{"idx": 640, "prompt": "well", "stego": "well my speed is so slow", "tokens": [4053, 616, 2866, 318, 523, 3105], "bits": ["", "1010", "100101111101011", "0", "0110", ""]}
+{"idx": 641, "prompt": "i", "stego": "i miss my m8y", "tokens": [72, 2051, 616, 285, 23, 88], "bits": ["", "1000", "0", "001011", "110011", "0111"]}
+{"idx": 642, "prompt": "i", "stego": "i'm bored and tired today", "tokens": [72, 1101, 17533, 290, 10032, 1909], "bits": ["", "0", "0110001", "", "0111", "0111101"]}
+{"idx": 643, "prompt": "the", "stego": "the library is closed for renovations", "tokens": [1169, 5888, 318, 4838, 329, 44481], "bits": ["", "1000100001", "", "0101", "0", "01"]}
+{"idx": 644, "prompt": "ca", "stego": "can't find my cd", "tokens": [6888, 299, 470, 1064, 616, 22927], "bits": ["", "", "", "10", "0", "1"]}
+{"idx": 645, "prompt": "is", "stego": "is now watching the hangover", "tokens": [271, 783, 4964, 262, 8181, 2502], "bits": ["", "", "10000000001", "", "01000", ""]}
+{"idx": 646, "prompt": "ca", "stego": "can't find my phone", "tokens": [6888, 299, 470, 1064, 616, 3072], "bits": ["", "", "", "10", "0", ""]}
+{"idx": 647, "prompt": "my", "stego": "my mother is not feeling well", "tokens": [1820, 2802, 318, 407, 4203, 880], "bits": ["", "01111", "011", "100001", "0", ""]}
+{"idx": 648, "prompt": "that", "stego": "that's what i did", "tokens": [5562, 705, 82, 644, 1312, 750], "bits": ["", "", "", "01", "", "100110"]}
+{"idx": 649, "prompt": "getting", "stego": "getting ready to go to work", "tokens": [37210, 3492, 284, 467, 284, 670], "bits": ["", "", "", "", "", ""]}
+{"idx": 650, "prompt": "my", "stego": "my jimmy choo", "tokens": [1820, 474, 320, 1820, 1727, 78], "bits": ["", "101100011", "0100", "", "1001", ""]}
+{"idx": 651, "prompt": "i", "stego": "i miss you too xxxx", "tokens": [72, 2051, 345, 1165, 2124, 31811], "bits": ["", "1000", "01", "0", "10000", ""]}
+{"idx": 652, "prompt": "what", "stego": "what a horrible day for guerrilla", "tokens": [10919, 257, 12361, 1110, 329, 42049], "bits": ["", "", "0111111", "010", "", "10011010000011110111011"]}
+{"idx": 653, "prompt": "i", "stego": "i'm off to sleep now", "tokens": [72, 1101, 572, 284, 3993, 783], "bits": ["", "0", "010", "", "011111", ""]}
+{"idx": 654, "prompt": "back", "stego": "back to school for me though", "tokens": [1891, 284, 1524, 329, 502, 996], "bits": ["", "", "0110", "10", "", "100000010"]}
+{"idx": 655, "prompt": "a", "stego": "a pic of mark from my back folding good thing i'm working today", "tokens": [64, 8301, 286, 1317, 422, 616, 736, 29909, 922, 1517, 1312, 1101, 1762, 1909], "bits": ["", "1001001", "01", "11111000101", "0110", "", "100000000101", "100110010000100101", "1001100000010", "01", "", "0110", "1011", "01"]}
+{"idx": 656, "prompt": "hi", "stego": "hi ho hi ho follow me", "tokens": [5303, 8169, 23105, 8169, 1061, 502], "bits": ["", "1010010", "0", "", "1011111100", ""]}
+{"idx": 657, "prompt": "ok", "stego": "okay im out of here", "tokens": [482, 323, 545, 503, 286, 994], "bits": ["", "", "010101", "1001", "0", ""]}
+{"idx": 658, "prompt": "working", "stego": "working on my essay for school", "tokens": [16090, 319, 616, 14268, 329, 1524], "bits": ["", "", "", "01100110", "0", "011"]}
+{"idx": 659, "prompt": "you", "stego": "you're the most beautiful", "tokens": [5832, 705, 260, 262, 749, 4950], "bits": ["", "0", "", "0111", "10110", "01"]}
+{"idx": 660, "prompt": "i", "stego": "i don't have that", "tokens": [72, 466, 299, 470, 423, 326], "bits": ["", "10", "", "", "100000", "110"]}
+{"idx": 661, "prompt": "n", "stego": "nooo i love cheerleading", "tokens": [77, 34160, 1312, 1842, 14042, 12294], "bits": ["", "100", "00", "", "1000001001110110111", ""]}
+{"idx": 662, "prompt": "you", "stego": "you're ill i'm allergited and kinda hyped up x", "tokens": [5832, 705, 260, 2801, 1312, 1101, 30975, 863, 290, 17855, 5328, 276, 510, 2124], "bits": ["", "0", "", "1101111110", "011111110", "", "10000010000010101000", "10001100011", "0", "1001001", "10000011010001", "", "0", "100101"]}
+{"idx": 663, "prompt": "is", "stego": "is this philippine trend", "tokens": [271, 428, 872, 8908, 500, 5182], "bits": ["", "0111", "1001001010110", "10", "", "1000000"]}
+{"idx": 664, "prompt": "any", "stego": "anyone have any random ideas", "tokens": [1092, 505, 423, 597, 4738, 4213], "bits": ["", "", "", "01111", "110010010", ""]}
+{"idx": 665, "prompt": "ch", "stego": "chillin with alaina and just to say happy moms day to all", "tokens": [354, 32672, 351, 435, 42183, 290, 655, 284, 910, 3772, 34015, 1110, 284, 477], "bits": ["", "0", "0", "1001100001", "1110011111", "0", "1010111", "1000010101", "01111", "", "100001001001001", "", "", ""]}
+{"idx": 666, "prompt": "i", "stego": "i miss you toooo twin", "tokens": [72, 2051, 345, 1165, 2238, 15203], "bits": ["", "1000", "01", "0", "1000101", "101110011"]}
+{"idx": 667, "prompt": "working", "stego": "working on some project for school", "tokens": [16090, 319, 617, 1628, 329, 1524], "bits": ["", "", "10", "01110", "0111", "01"]}
+{"idx": 668, "prompt": "i", "stego": "i wish i could go home", "tokens": [72, 4601, 1312, 714, 467, 1363], "bits": ["", "100", "", "01", "100", ""]}
+{"idx": 669, "prompt": "may", "stego": "may be cuz i'm trying to get a better one at least", "tokens": [11261, 307, 269, 10277, 1312, 1101, 2111, 284, 651, 257, 1365, 530, 379, 1551], "bits": ["", "", "10000001000", "", "", "0111", "1010011", "", "01", "0110", "011001", "01", "1000001", "10001"]}
+{"idx": 670, "prompt": "again", "stego": "again the choice of music amp parttime glorious is particularly weak and weak", "tokens": [17776, 262, 3572, 286, 2647, 20766, 636, 2435, 21140, 318, 3573, 4939, 290, 4939], "bits": ["", "", "1000000000000", "10001", "", "1000000101100", "1101011001110", "0", "1011111001010101", "0", "1001111000010", "11101111100", "010", "0101"]}
+{"idx": 671, "prompt": "i", "stego": "i love it when you smile", "tokens": [72, 1842, 340, 618, 345, 8212], "bits": ["", "010", "11000", "0", "1", ""]}
+{"idx": 672, "prompt": "it", "stego": "it's the 17th", "tokens": [270, 705, 82, 262, 1596, 400], "bits": ["", "", "", "", "0111111110", ""]}
+{"idx": 673, "prompt": "mm", "stego": "mmmmm waffles for breakfast", "tokens": [3020, 27532, 266, 48501, 329, 12607], "bits": ["", "", "1000011", "", "", ""]}
+{"idx": 674, "prompt": "h", "stego": "haha i love that movie", "tokens": [71, 12236, 1312, 1842, 326, 3807], "bits": ["", "", "", "0111", "", ""]}
+{"idx": 675, "prompt": "gu", "stego": "guess who's awake", "tokens": [5162, 408, 508, 705, 82, 21693], "bits": ["", "", "", "", "", "01111"]}
+{"idx": 676, "prompt": "today", "stego": "today is gonna be so great", "tokens": [40838, 318, 8066, 307, 523, 1049], "bits": ["", "", "0111", "", "011", "0111"]}
+{"idx": 677, "prompt": "its", "stego": "its been a really long day", "tokens": [896, 587, 257, 1107, 890, 1110], "bits": ["", "010", "", "0111", "01", ""]}
+{"idx": 678, "prompt": "gu", "stego": "guess what i'm doing", "tokens": [5162, 408, 644, 1312, 1101, 1804], "bits": ["", "", "101", "", "0", ""]}
+{"idx": 679, "prompt": "s", "stego": "sitting here with my parents", "tokens": [82, 2535, 994, 351, 616, 3397], "bits": ["", "", "1000", "01", "", "011101"]}
+{"idx": 680, "prompt": "i", "stego": "i think i have a fever", "tokens": [72, 892, 1312, 423, 257, 17372], "bits": ["", "1001", "", "0101", "", ""]}
+{"idx": 681, "prompt": "yeah", "stego": "yeah i was pleased with that", "tokens": [43669, 1312, 373, 10607, 351, 326], "bits": ["", "0", "01", "1010000011011", "", ""]}
+{"idx": 682, "prompt": "book", "stego": "booked the flight home today", "tokens": [2070, 276, 262, 5474, 1363, 1909], "bits": ["", "0", "1010", "0", "10", ""]}
+{"idx": 683, "prompt": "it", "stego": "it's only tuesday", "tokens": [270, 705, 82, 691, 256, 3322], "bits": ["", "", "", "100", "01", ""]}
+{"idx": 684, "prompt": "lol", "stego": "lol how's your day", "tokens": [47288, 703, 705, 82, 534, 1110], "bits": ["", "101010", "000", "", "", "01"]}
+{"idx": 685, "prompt": "n", "stego": "naww man lol exactly", "tokens": [77, 707, 86, 582, 19462, 3446], "bits": ["", "1001", "0", "1011101", "1101111", "101110010110"]}
+{"idx": 686, "prompt": "hai", "stego": "haih somebody should text me", "tokens": [44488, 71, 8276, 815, 2420, 502], "bits": ["", "", "10010011100100", "011010", "0", ""]}
+{"idx": 687, "prompt": "help", "stego": "help me to make this happen", "tokens": [16794, 502, 284, 787, 428, 1645], "bits": ["", "", "100", "01101", "11", ""]}
+{"idx": 688, "prompt": "working", "stego": "working on the house sales database", "tokens": [16090, 319, 262, 2156, 4200, 6831], "bits": ["", "", "100", "01000", "101110101110", "1100110111000"]}
+{"idx": 689, "prompt": "we", "stego": "we're rooting for you", "tokens": [732, 705, 260, 40105, 329, 345], "bits": ["", "0", "", "011111111", "", ""]}
+{"idx": 690, "prompt": "par", "stego": "paris is on tv tonight", "tokens": [1845, 271, 318, 319, 31557, 9975], "bits": ["", "", "", "100000", "10", "01111"]}
+{"idx": 691, "prompt": "best", "stego": "best weekend with the bestie", "tokens": [13466, 5041, 351, 262, 1266, 494], "bits": ["", "101100", "1101100", "1000", "", ""]}
+{"idx": 692, "prompt": "w", "stego": "welcome to twitter wen u get an a you're famous", "tokens": [86, 9571, 284, 17044, 266, 268, 334, 651, 281, 257, 345, 705, 260, 5863], "bits": ["", "", "", "", "01111011010", "110000101", "", "0011", "1011110", "010", "1000110", "011100", "", "001"]}
+{"idx": 693, "prompt": "i", "stego": "i'm too poor to have", "tokens": [72, 1101, 1165, 3595, 284, 423], "bits": ["", "0", "01100101", "100", "01", "101011"]}
+{"idx": 694, "prompt": "my", "stego": "my thoughts are with you all", "tokens": [1820, 6066, 389, 351, 345, 477], "bits": ["", "1000010", "", "", "01", ""]}
+{"idx": 695, "prompt": "when", "stego": "when i was 15 i remembered", "tokens": [12518, 1312, 373, 1315, 1312, 12086], "bits": ["", "0", "01", "10011100", "01", "1101001"]}
+{"idx": 696, "prompt": "that", "stego": "that's the first time i ever replied to your last post sorry", "tokens": [5562, 705, 82, 262, 717, 640, 1312, 1683, 8712, 284, 534, 938, 1281, 7926], "bits": ["", "", "", "100", "011101", "", "", "1001110011", "01100", "", "10000", "1010011", "101", ""]}
+{"idx": 697, "prompt": "they", "stego": "they are both sooo cute", "tokens": [9930, 389, 1111, 523, 2238, 13779], "bits": ["", "", "1000000", "001", "0", ""]}
+{"idx": 698, "prompt": "i", "stego": "i think i hurt my ankle", "tokens": [72, 892, 1312, 5938, 616, 19847], "bits": ["", "1001", "", "011111", "", "01111"]}
+{"idx": 699, "prompt": "so", "stego": "so far is great at times", "tokens": [568, 1290, 318, 1049, 379, 1661], "bits": ["", "100", "1000010", "01111110", "10110101", ""]}
+{"idx": 700, "prompt": "t", "stego": "tweetie won't", "tokens": [83, 7277, 494, 24486, 299, 470], "bits": ["", "", "01111", "101010100", "", ""]}
+{"idx": 701, "prompt": "i", "stego": "i want to talk to him", "tokens": [72, 765, 284, 1561, 284, 683], "bits": ["", "", "0111", "1100001", "", "1"]}
+{"idx": 702, "prompt": "program", "stego": "programming to queen tomorrow morning", "tokens": [23065, 2229, 284, 16599, 9439, 3329], "bits": ["", "", "100", "1101000100", "100011011001", "0"]}
+{"idx": 703, "prompt": "makes", "stego": "makes me want to cryy", "tokens": [49123, 502, 765, 284, 3960, 88], "bits": ["", "", "", "", "011", ""]}
+{"idx": 704, "prompt": "i", "stego": "i miss my best friends already", "tokens": [72, 2051, 616, 1266, 2460, 1541], "bits": ["", "1000", "0", "00", "100000", "0"]}
+{"idx": 705, "prompt": "picked", "stego": "picked up the phone so lonely", "tokens": [41891, 510, 262, 3072, 523, 21757], "bits": ["", "", "1", "0111", "1000", "10001011110101"]}
+{"idx": 706, "prompt": "off", "stego": "off to bed now nite", "tokens": [2364, 284, 3996, 783, 299, 578], "bits": ["", "", "01", "", "011110110", ""]}
+{"idx": 707, "prompt": "yeah", "stego": "yeah a bit of a disappointment", "tokens": [43669, 257, 1643, 286, 257, 18641], "bits": ["", "11", "1000000", "", "", "100000"]}
+{"idx": 708, "prompt": "kay", "stego": "kaylee ttynx", "tokens": [5568, 7197, 256, 774, 77, 87], "bits": ["", "1100", "111010010", "1000", "100010", "01"]}
+{"idx": 709, "prompt": "i", "stego": "i don't like it", "tokens": [72, 466, 299, 470, 588, 340], "bits": ["", "10", "", "", "011", "01"]}
+{"idx": 710, "prompt": "aw", "stego": "awww i want to go", "tokens": [707, 1383, 1312, 765, 284, 467], "bits": ["", "", "", "10001001", "0", "0"]}
+{"idx": 711, "prompt": "i", "stego": "i can tell you i've been in the trending topics for ages", "tokens": [72, 460, 1560, 345, 1312, 705, 303, 587, 287, 262, 29056, 10233, 329, 9337], "bits": ["", "111001", "101011", "0", "10011", "1001", "0", "", "0100101", "0", "10011111", "", "0111", ""]}
+{"idx": 712, "prompt": "country", "stego": "country music luv ya girl", "tokens": [19315, 2647, 300, 14795, 21349, 2576], "bits": ["", "0", "10111110", "10", "011", "011"]}
+{"idx": 713, "prompt": "about", "stego": "about to go on a jog", "tokens": [10755, 284, 467, 319, 257, 48342], "bits": ["", "", "0", "11", "0111", "11110"]}
+{"idx": 714, "prompt": "thanks", "stego": "thanks for the link to the", "tokens": [27547, 329, 262, 2792, 284, 262], "bits": ["", "", "", "100", "011", "01"]}
+{"idx": 715, "prompt": "i", "stego": "i want to go see up", "tokens": [72, 765, 284, 467, 766, 510], "bits": ["", "", "0111", "01", "110", "0"]}
+{"idx": 716, "prompt": "this", "stego": "this week has been extremely boring", "tokens": [5661, 1285, 468, 587, 4457, 14262], "bits": ["", "11001", "", "", "10000111", "10"]}
+{"idx": 717, "prompt": "g", "stego": "gonna get ready for work", "tokens": [70, 6415, 651, 3492, 329, 670], "bits": ["", "0", "10", "10000", "", ""]}
+{"idx": 718, "prompt": "are", "stego": "are you saying that yet lol", "tokens": [533, 345, 2282, 326, 1865, 19462], "bits": ["", "", "101111", "01", "100110010001", "100"]}
+{"idx": 719, "prompt": "i", "stego": "i haven't even started", "tokens": [72, 423, 299, 470, 772, 2067], "bits": ["", "01", "100100", "", "1001", ""]}
+{"idx": 720, "prompt": "maybe", "stego": "maybe you should go find it", "tokens": [25991, 345, 815, 467, 1064, 340], "bits": ["", "01", "", "10001", "100001", "0100"]}
+{"idx": 721, "prompt": "s", "stego": "sad face for tj", "tokens": [82, 324, 1986, 329, 256, 73], "bits": ["", "0", "110001", "", "0111001", "0101"]}
+{"idx": 722, "prompt": "gu", "stego": "guess i 'll have to wait for the next time i guess", "tokens": [5162, 408, 1312, 705, 297, 423, 284, 4043, 329, 262, 1306, 640, 1312, 4724], "bits": ["", "", "0", "", "", "", "", "011", "1", "01", "0011", "1001011", "0", ""]}
+{"idx": 723, "prompt": "13", "stego": "13 days left yippee", "tokens": [1485, 1528, 1364, 331, 3974, 1453], "bits": ["", "0", "10", "101101", "0111111", ""]}
+{"idx": 724, "prompt": "ollywood", "stego": "ollywood with the famd text", "tokens": [31777, 351, 262, 1145, 67, 2420], "bits": ["", "0111110", "00", "0", "100101010001", "1001100"]}
+{"idx": 725, "prompt": "tw", "stego": "twilight is pretty good too", "tokens": [4246, 15512, 318, 2495, 922, 1165], "bits": ["", "", "01", "01110110", "0", ""]}
+{"idx": 726, "prompt": "i", "stego": "i have a dreamwidth account", "tokens": [72, 423, 257, 4320, 10394, 1848], "bits": ["", "01", "", "1000000011100", "", ""]}
+{"idx": 727, "prompt": "my", "stego": "my mind is going to explode", "tokens": [1820, 2000, 318, 1016, 284, 22818], "bits": ["", "1000110", "", "10000", "", ""]}
+{"idx": 728, "prompt": "aye", "stego": "aye but i don't think i can make it to the exam", "tokens": [48822, 475, 1312, 466, 299, 470, 892, 1312, 460, 787, 340, 284, 262, 2814], "bits": ["", "011", "0", "01111", "", "", "10", "", "10", "011", "", "", "", "10011100"]}
+{"idx": 729, "prompt": "i", "stego": "i miss you too rhonda", "tokens": [72, 2051, 345, 1165, 9529, 13533], "bits": ["", "1000", "01", "0", "10101001100110", ""]}
+{"idx": 730, "prompt": "70", "stego": "70 and sunny here in california but still no sunshine over here", "tokens": [2154, 290, 27737, 994, 287, 2386, 361, 3317, 475, 991, 645, 34488, 625, 994], "bits": ["", "0111", "", "", "0111", "11001111", "", "", "0101", "100", "011", "0111", "10", ""]}
+{"idx": 731, "prompt": "b", "stego": "boredom can be addictive", "tokens": [65, 1850, 296, 460, 307, 28389], "bits": ["", "01", "1010", "100010011", "", ""]}
+{"idx": 732, "prompt": "is", "stego": "is enjoying a nice warm afternoon", "tokens": [271, 13226, 257, 3621, 5814, 6672], "bits": ["", "100", "0111", "011", "011", "100011"]}
+{"idx": 733, "prompt": "y", "stego": "yay you're back", "tokens": [88, 323, 345, 705, 260, 736], "bits": ["", "", "01111", "", "", ""]}
+{"idx": 734, "prompt": "i", "stego": "i am so bored right now", "tokens": [72, 716, 523, 17533, 826, 783], "bits": ["", "011", "01", "0110", "", ""]}
+{"idx": 735, "prompt": "fa", "stego": "faery is not open today", "tokens": [13331, 1924, 318, 407, 1280, 1909], "bits": ["", "", "", "011111111", "100011100", ""]}
+{"idx": 736, "prompt": "but", "stego": "but i still love bonfires", "tokens": [4360, 1312, 991, 1842, 5351, 27312], "bits": ["", "", "010", "", "1000111011011", "100"]}
+{"idx": 737, "prompt": "would", "stego": "wouldn't that be acceptable", "tokens": [19188, 299, 470, 326, 307, 10909], "bits": ["", "", "", "", "", "10000110001011"]}
+{"idx": 738, "prompt": "and", "stego": "and it's raining again", "tokens": [392, 340, 705, 82, 43079, 757], "bits": ["", "01", "", "", "01110", ""]}
+{"idx": 739, "prompt": "that", "stego": "that's what i get", "tokens": [5562, 705, 82, 644, 1312, 651], "bits": ["", "", "", "01", "", "10010"]}
+{"idx": 740, "prompt": "h", "stego": "haha i need to get to bed nighty night xoxo", "tokens": [71, 12236, 1312, 761, 284, 651, 284, 3996, 1755, 88, 1755, 2124, 1140, 78], "bits": ["", "", "", "10001111", "", "0111111", "011", "", "1010000111", "", "", "010", "", ""]}
+{"idx": 741, "prompt": "ordered", "stego": "ordered my latte from the library and i feel really sick but happy", "tokens": [24071, 616, 3042, 660, 422, 262, 5888, 290, 1312, 1254, 1107, 6639, 475, 3772], "bits": ["", "0", "1000011011010", "", "", "", "01111101111", "", "01", "1000000", "1000001", "0", "11000100", "0"]}
+{"idx": 742, "prompt": "thanks", "stego": "thanks for the ff luv", "tokens": [27547, 329, 262, 31246, 300, 14795], "bits": ["", "", "", "10001", "010", ""]}
+{"idx": 743, "prompt": "i", "stego": "i love making flower noises so i get to see my man this weekend", "tokens": [72, 1842, 1642, 15061, 26782, 523, 1312, 651, 284, 766, 616, 582, 428, 5041], "bits": ["", "010", "110110000", "100111000111", "1010001101000011", "100011", "01", "100010", "", "0", "", "1000011101", "00", ""]}
+{"idx": 744, "prompt": "quite", "stego": "quite sad to see it go", "tokens": [37121, 6507, 284, 766, 340, 467], "bits": ["", "100", "01", "0", "10", ""]}
+{"idx": 745, "prompt": "will", "stego": "will be in new orleans", "tokens": [10594, 307, 287, 649, 393, 11861], "bits": ["", "0", "0001", "0111", "10000", ""]}
+{"idx": 746, "prompt": "now", "stego": "now i have to try again", "tokens": [2197, 1312, 423, 284, 1949, 757], "bits": ["", "", "010", "", "101100", ""]}
+{"idx": 747, "prompt": "wh", "stego": "whats your ym account", "tokens": [1929, 1381, 534, 331, 76, 1848], "bits": ["", "", "", "100001110111", "", "10111"]}
+{"idx": 748, "prompt": "going", "stego": "going to be a long day", "tokens": [5146, 284, 307, 257, 890, 1110], "bits": ["", "", "011", "", "", "01"]}
+{"idx": 749, "prompt": "i", "stego": "i was wondering about that earlier", "tokens": [72, 373, 11263, 546, 326, 2961], "bits": ["", "1", "011110110", "1", "", "1000"]}
+{"idx": 750, "prompt": "i", "stego": "i miss my two lovebirds", "tokens": [72, 2051, 616, 734, 1842, 32002], "bits": ["", "1000", "0", "011", "10000000010000", ""]}
+{"idx": 751, "prompt": "outside", "stego": "outside of the store forgot to tell her about the ultra cool psychic chicken", "tokens": [43435, 286, 262, 3650, 16453, 284, 1560, 607, 546, 262, 14764, 3608, 25058, 9015], "bits": ["", "", "", "011111101", "10001000111", "010", "100110", "110", "10100", "0", "1110010011111", "01110000", "1110010010001", "100000001111110"]}
+{"idx": 752, "prompt": "i", "stego": "i miss you sooooo much", "tokens": [72, 2051, 345, 523, 13321, 881], "bits": ["", "1000", "01", "01", "111", ""]}
+{"idx": 753, "prompt": "i", "stego": "i hope you feel better soon", "tokens": [72, 2911, 345, 1254, 1365, 2582], "bits": ["", "101", "01", "0", "", ""]}
+{"idx": 754, "prompt": "reading", "stego": "reading for the first time today", "tokens": [25782, 329, 262, 717, 640, 1909], "bits": ["", "01110", "", "01", "", "0"]}
+{"idx": 755, "prompt": "i", "stego": "i miss the jayz", "tokens": [72, 2051, 262, 474, 323, 89], "bits": ["", "1000", "", "01111010", "", ""]}
+{"idx": 756, "prompt": "weather", "stego": "weather is hot out there again", "tokens": [23563, 318, 3024, 503, 612, 757], "bits": ["", "", "", "100000000010", "100000", "1101"]}
+{"idx": 757, "prompt": "i", "stego": "i love how you write fast", "tokens": [72, 1842, 703, 345, 3551, 3049], "bits": ["", "010", "1100", "01101", "1001101", "1101101"]}
+{"idx": 758, "prompt": "lol", "stego": "lol no i am just kidding", "tokens": [47288, 645, 1312, 716, 655, 26471], "bits": ["", "1000", "", "1000", "1000010001", "0"]}
+{"idx": 759, "prompt": "internet", "stego": "internet connection at router is down", "tokens": [37675, 4637, 379, 20264, 318, 866], "bits": ["", "10", "10011", "1101101001011110", "", "01"]}
+{"idx": 760, "prompt": "h", "stego": "hope it all works out", "tokens": [71, 3008, 340, 477, 2499, 503], "bits": ["", "0", "10", "1000", "10", ""]}
+{"idx": 761, "prompt": "just", "stego": "just got home from the hospital", "tokens": [3137, 1392, 1363, 422, 262, 4436], "bits": ["", "0", "", "", "", "011"]}
+{"idx": 762, "prompt": "the", "stego": "the cat has her first rounds", "tokens": [1169, 3797, 468, 607, 717, 9196], "bits": ["", "011011", "10000", "10101110", "0100", "101011110"]}
+{"idx": 763, "prompt": "om", "stego": "omg the weekend is over", "tokens": [296, 70, 262, 5041, 318, 625], "bits": ["", "", "10110", "010001", "", ""]}
+{"idx": 764, "prompt": "li", "stego": "liar im in so much pain and i really have to go it", "tokens": [4528, 283, 545, 287, 523, 881, 2356, 290, 1312, 1107, 423, 284, 467, 340], "bits": ["", "", "", "01111111110", "100110", "", "", "1000", "", "10011110", "101111", "", "0111", "1000101100100"]}
+{"idx": 765, "prompt": "feel", "stego": "feel free to check it out", "tokens": [36410, 1479, 284, 2198, 340, 503], "bits": ["", "", "", "10000", "100", ""]}
+{"idx": 766, "prompt": "c", "stego": "cant go back to sleep", "tokens": [66, 415, 467, 736, 284, 3993], "bits": ["", "", "10110", "", "", ""]}
+{"idx": 767, "prompt": "vote", "stego": "vote for for ms twitterworld", "tokens": [27257, 329, 329, 13845, 17044, 6894], "bits": ["", "", "", "01111", "", ""]}
+{"idx": 768, "prompt": "at", "stego": "at the airport leaves for regarding my tire noon and friday so excited", "tokens": [265, 262, 9003, 5667, 329, 5115, 616, 15867, 19613, 290, 1216, 2567, 523, 6568], "bits": ["", "", "01111", "10010100110", "", "10000000110111000111111101", "101", "1001100011000", "10000110101100", "011111011", "1001110100", "", "1001100", "1"]}
+{"idx": 769, "prompt": "i", "stego": "i want to see it again", "tokens": [72, 765, 284, 766, 340, 757], "bits": ["", "", "0111", "", "", ""]}
+{"idx": 770, "prompt": "family", "stego": "family force 5 is on tonight", "tokens": [17989, 2700, 642, 318, 319, 9975], "bits": ["", "", "", "", "011111", ""]}
+{"idx": 771, "prompt": "i", "stego": "i wish i could be there", "tokens": [72, 4601, 1312, 714, 307, 612], "bits": ["", "100", "", "01", "", ""]}
+{"idx": 772, "prompt": "and", "stego": "and i hate it when they call a cop and toss it to me", "tokens": [392, 1312, 5465, 340, 618, 484, 869, 257, 2243, 290, 12153, 340, 284, 502], "bits": ["", "0", "100010", "001", "", "10", "100000001", "1011000", "0111011100", "01", "1100000110111", "0", "010", ""]}
+{"idx": 773, "prompt": "i", "stego": "i just had a great dinner", "tokens": [72, 655, 550, 257, 1049, 8073], "bits": ["", "1010", "010", "", "011110", "110"]}
+{"idx": 774, "prompt": "off", "stego": "off to bed kiddo", "tokens": [2364, 284, 3996, 479, 1638, 78], "bits": ["", "", "01", "11110000001", "", ""]}
+{"idx": 775, "prompt": "i", "stego": "i miss you too sweetie", "tokens": [72, 2051, 345, 1165, 6029, 494], "bits": ["", "1000", "01", "0", "011100", "0"]}
+{"idx": 776, "prompt": "thank", "stego": "thank you for the love x", "tokens": [40716, 345, 329, 262, 1842, 2124], "bits": ["", "", "", "", "01011", "01101"]}
+{"idx": 777, "prompt": "tom", "stego": "tomorrow is the big day", "tokens": [39532, 6254, 318, 262, 1263, 1110], "bits": ["", "", "", "", "", ""]}
+{"idx": 778, "prompt": "off", "stego": "off to get ready for work", "tokens": [2364, 284, 651, 3492, 329, 670], "bits": ["", "", "", "", "", ""]}
+{"idx": 779, "prompt": "good", "stego": "good luck with the nice weather", "tokens": [11274, 8458, 351, 262, 3621, 6193], "bits": ["", "", "", "", "0111111000101001", ""]}
+{"idx": 780, "prompt": "are", "stego": "are you still studying for finals", "tokens": [533, 345, 991, 11065, 329, 18576], "bits": ["", "", "0010", "111001010", "", "0"]}
+{"idx": 781, "prompt": "i", "stego": "i want to see you too", "tokens": [72, 765, 284, 766, 345, 1165], "bits": ["", "", "0111", "", "1000", "01"]}
+{"idx": 782, "prompt": "bb", "stego": "bbq at 6pm tonight", "tokens": [11848, 80, 379, 718, 4426, 9975], "bits": ["", "", "0", "1001000101", "", ""]}
+{"idx": 783, "prompt": "f", "stego": "finally the sun is out", "tokens": [69, 3289, 262, 4252, 318, 503], "bits": ["", "", "10010", "0", "", ""]}
+{"idx": 784, "prompt": "let", "stego": "let's try our best", "tokens": [1616, 705, 82, 1949, 674, 1266], "bits": ["", "", "", "10011", "1010111", ""]}
+{"idx": 785, "prompt": "i", "stego": "i want to take a nap", "tokens": [72, 765, 284, 1011, 257, 25422], "bits": ["", "", "0111", "11001", "", ""]}
+{"idx": 786, "prompt": "good", "stego": "good luck with your paper writing", "tokens": [11274, 8458, 351, 534, 3348, 3597], "bits": ["", "", "", "1000", "0011", "10001"]}
+{"idx": 787, "prompt": "i", "stego": "i love you too sis", "tokens": [72, 1842, 345, 1165, 264, 271], "bits": ["", "010", "", "1000", "01011", ""]}
+{"idx": 788, "prompt": "oo", "stego": "oooh you did that too", "tokens": [2238, 1219, 345, 750, 326, 1165], "bits": ["", "", "", "1000011101", "100", "01"]}
+{"idx": 789, "prompt": "i", "stego": "i love how tony osbourne is almost eliminated from the top10", "tokens": [72, 1842, 703, 256, 1647, 28686, 12544, 318, 2048, 15254, 422, 262, 1353, 940], "bits": ["", "010", "1100", "01111110010", "10", "1001000101000110", "", "00", "10101", "100010011011110", "01", "", "010", "100100"]}
+{"idx": 790, "prompt": "she", "stego": "she is sooo so beautiful", "tokens": [7091, 318, 523, 2238, 523, 4950], "bits": ["", "10", "10", "0101", "1000111", "1000"]}
+{"idx": 791, "prompt": "are", "stego": "are you on your way back", "tokens": [533, 345, 319, 534, 835, 736], "bits": ["", "", "0111", "01", "", ""]}
+{"idx": 792, "prompt": "left", "stego": "left my mom at home today", "tokens": [9464, 616, 1995, 379, 1363, 1909], "bits": ["", "", "100000", "011110", "110", ""]}
+{"idx": 793, "prompt": "i", "stego": "i 'll go for both", "tokens": [72, 705, 297, 467, 329, 1111], "bits": ["", "0100", "", "100010", "10", "1000000"]}
+{"idx": 794, "prompt": "rem", "stego": "reminds me of twitter", "tokens": [2787, 521, 82, 502, 286, 17044], "bits": ["", "", "", "", "", "011000"]}
+{"idx": 795, "prompt": "aw", "stego": "aww gramma cant wait", "tokens": [707, 86, 14599, 2611, 18548, 4043], "bits": ["", "0", "11110010101111110000", "01", "101010101", ""]}
+{"idx": 796, "prompt": "our", "stego": "our big brother is the best", "tokens": [454, 1263, 3956, 318, 262, 1266], "bits": ["", "10000000", "010", "", "1000011", ""]}
+{"idx": 797, "prompt": "one", "stego": "one more hour till the weekend", "tokens": [505, 517, 1711, 10597, 262, 5041], "bits": ["", "1", "011", "", "01111", ""]}
+{"idx": 798, "prompt": "got", "stego": "got my motorbike running today", "tokens": [23442, 616, 5584, 32256, 2491, 1909], "bits": ["", "01", "11001101001", "", "0111100", "0"]}
+{"idx": 799, "prompt": "two", "stego": "two days without sleeping is awesome", "tokens": [11545, 1528, 1231, 11029, 318, 7427], "bits": ["", "01", "10100", "0111011", "0", "0110"]}
+{"idx": 800, "prompt": "y", "stego": "yay finished my video today", "tokens": [88, 323, 5201, 616, 2008, 1909], "bits": ["", "", "1001100", "01", "10110010", "10001"]}
+{"idx": 801, "prompt": "i", "stego": "i'm having a bad day", "tokens": [72, 1101, 1719, 257, 2089, 1110], "bits": ["", "0", "01000", "", "011", ""]}
+{"idx": 802, "prompt": "but", "stego": "but i love you miley", "tokens": [4360, 1312, 1842, 345, 285, 9618], "bits": ["", "", "0100", "011", "0", ""]}
+{"idx": 803, "prompt": "b", "stego": "bout to go to bed", "tokens": [65, 448, 284, 467, 284, 3996], "bits": ["", "", "", "", "", "10000"]}
+{"idx": 804, "prompt": "too", "stego": "too bad i am too broke", "tokens": [18820, 2089, 1312, 716, 1165, 6265], "bits": ["", "", "0", "11010", "100001", "10"]}
+{"idx": 805, "prompt": "little", "stego": "little munchkin is sick", "tokens": [31629, 285, 3316, 5116, 318, 6639], "bits": ["", "010111", "", "", "00", ""]}
+{"idx": 806, "prompt": "may", "stego": "may have to use this one", "tokens": [11261, 423, 284, 779, 428, 530], "bits": ["", "0", "", "10101", "0111010", "0"]}
+{"idx": 807, "prompt": "when", "stego": "when are you coming back again", "tokens": [12518, 389, 345, 2406, 736, 757], "bits": ["", "", "01", "", "", ""]}
+{"idx": 808, "prompt": "f", "stego": "finally back in the bay", "tokens": [69, 3289, 736, 287, 262, 15489], "bits": ["", "", "100", "01", "", "100000"]}
+{"idx": 809, "prompt": "s", "stego": "sadly just make sure you're not referring to the advertisement", "tokens": [82, 324, 306, 655, 787, 1654, 345, 705, 260, 407, 9759, 284, 262, 15422], "bits": ["", "0", "", "1001110011", "01111010111", "011", "", "0110", "", "01", "100110011", "", "0", "1011001011000101"]}
+{"idx": 810, "prompt": "i", "stego": "i am officially the last person to have three days of school this summer", "tokens": [72, 716, 8720, 262, 938, 1048, 284, 423, 1115, 1528, 286, 1524, 428, 3931], "bits": ["", "011", "100011", "10010", "011101", "011", "0", "0111", "100110001110", "0111", "1", "0111", "", "100011011"]}
+{"idx": 811, "prompt": "i", "stego": "i 'll have some soon", "tokens": [72, 705, 297, 423, 617, 2582], "bits": ["", "0100", "", "011", "1010001101", "0100"]}
+{"idx": 812, "prompt": "you", "stego": "you 'll do fine babe", "tokens": [5832, 705, 297, 466, 3734, 42666], "bits": ["", "0", "1110", "100", "100", "01111"]}
+{"idx": 813, "prompt": "my", "stego": "my eyes are colorblind haha", "tokens": [1820, 2951, 389, 3124, 27461, 42254], "bits": ["", "00111", "", "1011001001011011", "", "100000100100"]}
+{"idx": 814, "prompt": "mom", "stego": "mommy has to work today", "tokens": [32542, 1820, 468, 284, 670, 1909], "bits": ["", "", "010", "1000", "", ""]}
+{"idx": 815, "prompt": "what", "stego": "what a lucky gift for a relationship and that's what you get", "tokens": [10919, 257, 9670, 6979, 329, 257, 2776, 290, 326, 705, 82, 644, 345, 651], "bits": ["", "", "1000110001", "100001110011", "10", "11001", "10001011111", "0111101", "01100", "", "", "0110", "10", ""]}
+{"idx": 816, "prompt": "lol", "stego": "lol it was just so funny", "tokens": [47288, 340, 373, 655, 523, 8258], "bits": ["", "0111", "", "100000", "10011", ""]}
+{"idx": 817, "prompt": "gl", "stego": "glad you made it safe", "tokens": [4743, 324, 345, 925, 340, 3338], "bits": ["", "", "", "1000", "", "100"]}
+{"idx": 818, "prompt": "are", "stego": "are you on the job hunt", "tokens": [533, 345, 319, 262, 1693, 12601], "bits": ["", "", "0111", "0", "1001010110", ""]}
+{"idx": 819, "prompt": "long", "stego": "long day no sleep no gossip", "tokens": [6511, 1110, 645, 3993, 645, 30914], "bits": ["", "0", "100101", "", "0111111", "101110000"]}
+{"idx": 820, "prompt": "c", "stego": "cant wait for june", "tokens": [66, 415, 4043, 329, 474, 1726], "bits": ["", "", "", "", "100001", "100"]}
+{"idx": 821, "prompt": "i", "stego": "i'm broke as shit though", "tokens": [72, 1101, 6265, 355, 7510, 996], "bits": ["", "0", "01111011001", "", "100010110", "01"]}
+{"idx": 822, "prompt": "my", "stego": "my 5 year old daughter has moved from a very flat to a flat", "tokens": [1820, 642, 614, 1468, 4957, 468, 3888, 422, 257, 845, 6228, 284, 257, 6228], "bits": ["", "1100000001", "0", "", "0100", "101", "100010110", "100010", "010", "010010", "1100010", "01", "", "0"]}
+{"idx": 823, "prompt": "so", "stego": "so tired after the long weekend", "tokens": [568, 10032, 706, 262, 890, 5041], "bits": ["", "", "100000", "10000", "01", ""]}
+{"idx": 824, "prompt": "you", "stego": "you're still in la", "tokens": [5832, 705, 260, 991, 287, 8591], "bits": ["", "0", "", "101100", "0", "011"]}
+{"idx": 825, "prompt": "iw", "stego": "iwantherduitmusic", "tokens": [14246, 415, 372, 67, 5013, 28965], "bits": ["", "", "100", "01111110111", "10111101000101101010", "110001110"]}
+{"idx": 826, "prompt": "back", "stego": "back to study my ass off", "tokens": [1891, 284, 2050, 616, 840, 572], "bits": ["", "", "011110110", "10010110", "01", ""]}
+{"idx": 827, "prompt": "only", "stego": "only got 3 hours of sleep", "tokens": [8807, 1392, 513, 2250, 286, 3993], "bits": ["", "0101", "00", "", "", ""]}
+{"idx": 828, "prompt": "that", "stego": "that's just getting worse", "tokens": [5562, 705, 82, 655, 1972, 4785], "bits": ["", "", "", "10011", "1011110", ""]}
+{"idx": 829, "prompt": "hey", "stego": "hey guys i'm in the uk and i'm working on my project and have to work on my project", "tokens": [20342, 3730, 1312, 1101, 287, 262, 334, 74, 290, 1312, 1101, 1762, 319, 616, 1628, 290, 423, 284, 670, 319, 616, 1628], "bits": ["", "011", "011", "0", "101011", "01", "0111", "", "0", "0", "0", "1011", "", "10000", "10000", "010", "10001", "", "011101", "0", "", "01"]}
+{"idx": 830, "prompt": "happy", "stego": "happy bday to my father", "tokens": [34191, 275, 820, 284, 616, 2988], "bits": ["", "101", "", "", "011", "11101111"]}
+{"idx": 831, "prompt": "some", "stego": "somehow the internet was down", "tokens": [11246, 4919, 262, 5230, 373, 866], "bits": ["", "01", "1011", "011", "1000000100", ""]}
+{"idx": 832, "prompt": "let", "stego": "let's chat before work", "tokens": [1616, 705, 82, 8537, 878, 670], "bits": ["", "", "", "10110110", "1100110", "01100"]}
+{"idx": 833, "prompt": "kn", "stego": "knackered thought i was done with work and now i'm bored", "tokens": [15418, 330, 28970, 1807, 1312, 373, 1760, 351, 670, 290, 783, 1312, 1101, 17533], "bits": ["", "1", "", "100011101111010010", "0", "", "01", "011", "1", "1000010", "0", "01", "", "00"]}
+{"idx": 834, "prompt": "last", "stego": "last day in sin city tomorrow", "tokens": [12957, 1110, 287, 7813, 1748, 9439], "bits": ["", "", "", "1000101010100", "", "011110"]}
+{"idx": 835, "prompt": "thank", "stego": "thank you for the ff mention", "tokens": [40716, 345, 329, 262, 31246, 3068], "bits": ["", "", "", "", "0", "1000"]}
+{"idx": 836, "prompt": "going", "stego": "going to sleep have a great day everyone and see you in the morning", "tokens": [5146, 284, 3993, 423, 257, 1049, 1110, 2506, 290, 766, 345, 287, 262, 3329], "bits": ["", "", "0111", "110110", "", "10000111", "0", "0", "01", "01111", "", "", "", ""]}
+{"idx": 837, "prompt": "maybe", "stego": "maybe it's my phone", "tokens": [25991, 340, 705, 82, 616, 3072], "bits": ["", "", "", "", "1000011", "0101"]}
+{"idx": 838, "prompt": "w", "stego": "welcome to twitter dns", "tokens": [86, 9571, 284, 17044, 288, 5907], "bits": ["", "", "", "", "011110001", "1000101100011101"]}
+{"idx": 839, "prompt": "s", "stego": "sitting in a doctors office", "tokens": [82, 2535, 287, 257, 7519, 2607], "bits": ["", "", "011", "10", "1000110", ""]}
+{"idx": 840, "prompt": "amp", "stego": "ampampamp he got my", "tokens": [696, 696, 696, 339, 1392, 616], "bits": ["", "01", "", "0111101011", "010110", "101"]}
+{"idx": 841, "prompt": "but", "stego": "but i saw taylor swift", "tokens": [4360, 1312, 2497, 256, 7167, 14622], "bits": ["", "", "011111000", "100000001", "", "01"]}
+{"idx": 842, "prompt": "i", "stego": "i need a godaddy friend", "tokens": [72, 761, 257, 5770, 13218, 1545], "bits": ["", "10110", "", "10011011011", "100010", "100100"]}
+{"idx": 843, "prompt": "so", "stego": "so hot and humid here today", "tokens": [568, 3024, 290, 35441, 994, 1909], "bits": ["", "1101100", "1001", "", "0111", "01"]}
+{"idx": 844, "prompt": "i", "stego": "i love you to death smile", "tokens": [72, 1842, 345, 284, 1918, 8212], "bits": ["", "010", "", "10010111", "", "1000000101101001"]}
+{"idx": 845, "prompt": "w", "stego": "welcome to twitter jon", "tokens": [86, 9571, 284, 17044, 474, 261], "bits": ["", "", "", "", "01110", "10001"]}
+{"idx": 846, "prompt": "but", "stego": "but i hate the word limit", "tokens": [4360, 1312, 5465, 262, 1573, 4179], "bits": ["", "", "011101", "01110", "0111001", "01"]}
+{"idx": 847, "prompt": "it", "stego": "it's all good tho", "tokens": [270, 705, 82, 477, 922, 42796], "bits": ["", "", "", "0111", "01", "10"]}
+{"idx": 848, "prompt": "im", "stego": "im glad you liked the video", "tokens": [320, 9675, 345, 8288, 262, 2008], "bits": ["", "1000", "01", "", "", ""]}
+{"idx": 849, "prompt": "i", "stego": "i want some snooze", "tokens": [72, 765, 617, 3013, 2238, 2736], "bits": ["", "", "0111111111", "1000011", "1000000", ""]}
+{"idx": 850, "prompt": "would", "stego": "would you mind adding me haha", "tokens": [19188, 345, 2000, 4375, 502, 42254], "bits": ["", "01", "11011", "110000", "0", "11110110"]}
+{"idx": 851, "prompt": "this", "stego": "this is not a good day", "tokens": [5661, 318, 407, 257, 922, 1110], "bits": ["", "", "011", "0", "", ""]}
+{"idx": 852, "prompt": "twitter", "stego": "twittering from phone the messenger", "tokens": [6956, 278, 422, 3072, 262, 31228], "bits": ["", "10", "0", "10111100", "1100001", "011101100"]}
+{"idx": 853, "prompt": "hop", "stego": "hopefully it turns out okay", "tokens": [8548, 7549, 340, 4962, 503, 8788], "bits": ["", "", "0", "1001110", "", "100"]}
+{"idx": 854, "prompt": "i", "stego": "i hope so thanks for that", "tokens": [72, 2911, 523, 5176, 329, 326], "bits": ["", "101", "0111111", "10000001010", "", "1000"]}
+{"idx": 855, "prompt": "more", "stego": "more details to come in handy", "tokens": [3549, 3307, 284, 1282, 287, 15728], "bits": ["", "0111000", "01", "", "00110", ""]}
+{"idx": 856, "prompt": "s", "stego": "sounds like a good idea", "tokens": [82, 3733, 588, 257, 922, 2126], "bits": ["", "00", "", "", "0", "011"]}
+{"idx": 857, "prompt": "i", "stego": "i wish i could be there", "tokens": [72, 4601, 1312, 714, 307, 612], "bits": ["", "100", "", "01", "", ""]}
+{"idx": 858, "prompt": "i", "stego": "i love you sooooo much", "tokens": [72, 1842, 345, 523, 13321, 881], "bits": ["", "010", "", "", "10000", ""]}
+{"idx": 859, "prompt": "it", "stego": "it's the final countdown", "tokens": [270, 705, 82, 262, 2457, 33970], "bits": ["", "", "", "", "011111111", ""]}
+{"idx": 860, "prompt": "i", "stego": "i want my comfy bed", "tokens": [72, 765, 616, 401, 24928, 3996], "bits": ["", "", "0111111", "10110010010", "0", ""]}
+{"idx": 861, "prompt": "not", "stego": "not sure how far that is", "tokens": [1662, 1654, 703, 1290, 326, 318], "bits": ["", "001", "1", "1001100101", "011", "01"]}
+{"idx": 862, "prompt": "do", "stego": "do you think i am ready", "tokens": [4598, 345, 892, 1312, 716, 3492], "bits": ["", "11", "110", "", "0111111", "10010000"]}
+{"idx": 863, "prompt": "my", "stego": "my niece is making a twitter", "tokens": [1820, 41803, 318, 1642, 257, 17044], "bits": ["", "101001001", "0", "011111", "110", ""]}
+{"idx": 864, "prompt": "me", "stego": "me and my mama just came to see you at the ball park", "tokens": [1326, 290, 616, 285, 1689, 655, 1625, 284, 766, 345, 379, 262, 2613, 3952], "bits": ["", "", "", "01110111", "011", "", "1000010011", "01", "01", "011", "01", "", "0101011", "100011"]}
+{"idx": 865, "prompt": "you", "stego": "you're crazy on that", "tokens": [5832, 705, 260, 7165, 319, 326], "bits": ["", "0", "", "11001101", "1001000", "1010"]}
+{"idx": 866, "prompt": "dam", "stego": "damn it's hot", "tokens": [11043, 77, 340, 705, 82, 3024], "bits": ["", "", "10", "010", "", ""]}
+{"idx": 867, "prompt": "i", "stego": "i'm just going to sleep", "tokens": [72, 1101, 655, 1016, 284, 3993], "bits": ["", "0", "0", "011111101", "", "01"]}
+{"idx": 868, "prompt": "ha", "stego": "ha ha what a good night", "tokens": [3099, 387, 644, 257, 922, 1755], "bits": ["", "", "011001", "10", "01", "0111"]}
+{"idx": 869, "prompt": "dam", "stego": "damn you britney", "tokens": [11043, 77, 345, 275, 799, 1681], "bits": ["", "", "", "011010100", "0", ""]}
+{"idx": 870, "prompt": "luck", "stego": "luckily i'm not alone", "tokens": [46708, 813, 1312, 1101, 407, 3436], "bits": ["", "", "", "01", "", "0"]}
+{"idx": 871, "prompt": "not", "stego": "not yet rain is coming down", "tokens": [1662, 1865, 6290, 318, 2406, 866], "bits": ["", "10101", "10001110010101", "10", "", "100001"]}
+{"idx": 872, "prompt": "i", "stego": "i want to see it again", "tokens": [72, 765, 284, 766, 340, 757], "bits": ["", "", "0111", "", "", ""]}
+{"idx": 873, "prompt": "girl", "stego": "girl you 'll be fine", "tokens": [15219, 345, 705, 297, 307, 3734], "bits": ["", "", "", "", "01111111", ""]}
+{"idx": 874, "prompt": "tr", "stego": "troutin was a success", "tokens": [2213, 448, 259, 373, 257, 1943], "bits": ["", "101010", "010", "100001101", "0", ""]}
+{"idx": 875, "prompt": "and", "stego": "and now on to the future", "tokens": [392, 783, 319, 284, 262, 2003], "bits": ["", "", "100000011", "0111", "", "00111"]}
+{"idx": 876, "prompt": "i", "stego": "i want to see him again", "tokens": [72, 765, 284, 766, 683, 757], "bits": ["", "", "0111", "", "1001011", ""]}
+{"idx": 877, "prompt": "so", "stego": "so you're finally free", "tokens": [568, 345, 705, 260, 3443, 1479], "bits": ["", "1000", "01", "", "100100", "01"]}
+{"idx": 878, "prompt": "lt", "stego": "lt3 mccarley", "tokens": [2528, 18, 285, 535, 283, 1636], "bits": ["", "", "1001", "10001111000", "0", "011"]}
+{"idx": 879, "prompt": "i", "stego": "i am so proud of myself", "tokens": [72, 716, 523, 6613, 286, 3589], "bits": ["", "011", "01", "0", "", ""]}
+{"idx": 880, "prompt": "th", "stego": "thats cool what about you", "tokens": [400, 1381, 3608, 644, 546, 345], "bits": ["", "", "", "10000000000", "", ""]}
+{"idx": 881, "prompt": "is", "stego": "is missing her baby like crazy", "tokens": [271, 4814, 607, 5156, 588, 7165], "bits": ["", "1000", "011", "", "10000", ""]}
+{"idx": 882, "prompt": "rearr", "stego": "rearranging the house for my neighbours birthday they're still sick", "tokens": [260, 3258, 4924, 262, 2156, 329, 616, 23788, 10955, 484, 705, 260, 991, 6639], "bits": ["", "", "", "", "", "10000001101", "", "10000100110011", "10010", "01110000", "", "", "1001010", "1010"]}
+{"idx": 883, "prompt": "it", "stego": "it's been 13 years", "tokens": [270, 705, 82, 587, 1511, 812], "bits": ["", "", "", "011", "101001000011111", "0"]}
+{"idx": 884, "prompt": "pot", "stego": "potential for the best breakfast", "tokens": [13059, 1843, 329, 262, 1266, 12607], "bits": ["", "", "001", "100", "01100", "10100100"]}
+{"idx": 885, "prompt": "i", "stego": "i am putting on flower makeup", "tokens": [72, 716, 5137, 319, 15061, 16029], "bits": ["", "011", "1010100", "0111111", "1010001100011", "01111110"]}
+{"idx": 886, "prompt": "fun", "stego": "funny music has been cancelled", "tokens": [12543, 3281, 2647, 468, 587, 16769], "bits": ["", "", "10011000", "10010001000", "011", "101111"]}
+{"idx": 887, "prompt": "i", "stego": "i think i 'll just have to wait a whole week to see", "tokens": [72, 892, 1312, 705, 297, 655, 423, 284, 4043, 257, 2187, 1285, 284, 766], "bits": ["", "1001", "", "0110", "", "10010", "", "", "01110", "11", "011111", "01", "1", "01"]}
+{"idx": 888, "prompt": "have", "stego": "have fun on your day off", "tokens": [14150, 1257, 319, 534, 1110, 572], "bits": ["", "10", "110", "", "1000", ""]}
+{"idx": 889, "prompt": "you", "stego": "you don't hate me", "tokens": [5832, 466, 299, 470, 5465, 502], "bits": ["", "11001", "", "", "1100111", ""]}
+{"idx": 890, "prompt": "exc", "stego": "excited for a work out", "tokens": [41194, 863, 329, 257, 670, 503], "bits": ["", "", "", "01100", "110011010", "0"]}
+{"idx": 891, "prompt": "last", "stego": "last day of spring break tomorrow", "tokens": [12957, 1110, 286, 6076, 2270, 9439], "bits": ["", "", "0", "1", "", "01111"]}
+{"idx": 892, "prompt": "ha", "stego": "ha i love the summer rain", "tokens": [3099, 1312, 1842, 262, 3931, 6290], "bits": ["", "10", "100", "100", "100110", "1000"]}
+{"idx": 893, "prompt": "rain", "stego": "rainy monday 2day", "tokens": [3201, 88, 285, 3204, 362, 820], "bits": ["", "", "1000", "", "101011011", ""]}
+{"idx": 894, "prompt": "i", "stego": "i am super bored with this", "tokens": [72, 716, 2208, 17533, 351, 428], "bits": ["", "011", "100111000", "10011", "110101011", "01"]}
+{"idx": 895, "prompt": "so", "stego": "so excited to do it all", "tokens": [568, 6568, 284, 466, 340, 477], "bits": ["", "0111", "1", "1000110011", "", "100001"]}
+{"idx": 896, "prompt": "h", "stego": "haha aww poor you", "tokens": [71, 12236, 257, 1383, 3595, 345], "bits": ["", "", "10110100", "", "0101", ""]}
+{"idx": 897, "prompt": "http", "stego": "http sorry to hear that mate", "tokens": [4023, 7926, 284, 3285, 326, 16133], "bits": ["", "100010", "10000", "", "", "0111"]}
+{"idx": 898, "prompt": "check", "stego": "check out emailunlimited on", "tokens": [9122, 503, 3053, 403, 10698, 319], "bits": ["", "", "0", "", "", ""]}
+{"idx": 899, "prompt": "is", "stego": "is tired but has to work", "tokens": [271, 10032, 475, 468, 284, 670], "bits": ["", "10010", "0111", "011", "0", ""]}
+{"idx": 900, "prompt": "they", "stego": "they are always so active remember", "tokens": [9930, 389, 1464, 523, 4075, 3505], "bits": ["", "", "100000", "", "100000001100", "100000100000110"]}
+{"idx": 901, "prompt": "g", "stego": "gotta love that movie too", "tokens": [70, 12375, 1842, 326, 3807, 1165], "bits": ["", "", "", "011111", "011100", "10"]}
+{"idx": 902, "prompt": "qu", "stego": "quotfor some reason i am aery khoukquot there's a lot of work to do", "tokens": [421, 313, 1640, 617, 1738, 1312, 716, 257, 1924, 44081, 38960, 421, 313, 612, 705, 82, 257, 1256, 286, 670, 284, 466], "bits": ["", "", "011111", "10011", "", "011", "101", "10", "100000111111111010", "10000000100111", "100001101111", "", "", "100001110011000", "", "", "0111", "001", "", "01110", "", ""]}
+{"idx": 903, "prompt": "x", "stego": "xbox live is down again", "tokens": [87, 3524, 2107, 318, 866, 757], "bits": ["", "", "", "", "", ""]}
+{"idx": 904, "prompt": "in", "stego": "in other news no one wants to come with me to my birthday party", "tokens": [259, 584, 1705, 645, 530, 3382, 284, 1282, 351, 502, 284, 616, 10955, 2151], "bits": ["", "10010", "", "101101", "00110", "0011", "", "0", "", "", "", "01111111", "00", ""]}
+{"idx": 905, "prompt": "selling", "stego": "selling my bike to a neighbor", "tokens": [16473, 616, 7161, 284, 257, 4780], "bits": ["", "", "01000101", "00", "10", "1000000000"]}
+{"idx": 906, "prompt": "hey", "stego": "hey are you going to play", "tokens": [20342, 389, 345, 1016, 284, 711], "bits": ["", "10010", "", "01110", "", "101001"]}
+{"idx": 907, "prompt": "well", "stego": "well at least you arent", "tokens": [4053, 379, 1551, 345, 389, 429], "bits": ["", "1001", "", "01", "", "1000101011"]}
+{"idx": 908, "prompt": "they", "stego": "they're playing soccer today", "tokens": [9930, 705, 260, 2712, 11783, 1909], "bits": ["", "0", "", "01101", "0110111110", "10"]}
+{"idx": 909, "prompt": "lol", "stego": "lol aww i love you", "tokens": [47288, 257, 1383, 1312, 1842, 345], "bits": ["", "10100", "", "", "100001", ""]}
+{"idx": 910, "prompt": "cong", "stego": "congrats on the new bike", "tokens": [36801, 46714, 319, 262, 649, 7161], "bits": ["", "", "", "", "0", "111011011"]}
+{"idx": 911, "prompt": "just", "stego": "just watched the e3 coverage", "tokens": [3137, 7342, 262, 304, 18, 5197], "bits": ["", "1001", "0", "1001100111", "", "0"]}
+{"idx": 912, "prompt": "has", "stego": "has been feeling rather sick today", "tokens": [10134, 587, 4203, 2138, 6639, 1909], "bits": ["", "", "01111", "01111110", "01101", "0"]}
+{"idx": 913, "prompt": "d", "stego": "dunno how i 'd have done without 4 hrs of sleep", "tokens": [67, 403, 3919, 703, 1312, 705, 67, 423, 1760, 1231, 604, 36201, 286, 3993], "bits": ["", "101", "", "10011", "101", "10", "10110011", "", "", "10000000000", "0111111000000", "1001", "", ""]}
+{"idx": 914, "prompt": "it", "stego": "it's all fixed now", "tokens": [270, 705, 82, 477, 5969, 783], "bits": ["", "", "", "0111", "1011000", ""]}
+{"idx": 915, "prompt": "how", "stego": "how do you like the show", "tokens": [4919, 466, 345, 588, 262, 905], "bits": ["", "", "", "", "", "10000000001"]}
+{"idx": 916, "prompt": "well", "stego": "well done on your new job", "tokens": [4053, 1760, 319, 534, 649, 1693], "bits": ["", "", "01111", "01", "01", "0"]}
+{"idx": 917, "prompt": "aw", "stego": "awww i'm sorry though", "tokens": [707, 1383, 1312, 1101, 7926, 996], "bits": ["", "", "", "", "01111", "10100101"]}
+{"idx": 918, "prompt": "is", "stego": "is trying to get up early", "tokens": [271, 2111, 284, 651, 510, 1903], "bits": ["", "100100", "", "0", "100000001", "01"]}
+{"idx": 919, "prompt": "same", "stego": "same here less than 12 hours", "tokens": [31642, 994, 1342, 621, 1105, 2250], "bits": ["", "", "100101010111", "0", "11100", ""]}
+{"idx": 920, "prompt": "and", "stego": "and it's only 3", "tokens": [392, 340, 705, 82, 691, 513], "bits": ["", "01", "", "", "011110", "101010"]}
+{"idx": 921, "prompt": "where", "stego": "where's the sun gone", "tokens": [3003, 705, 82, 262, 4252, 3750], "bits": ["", "0", "", "1", "0", ""]}
+{"idx": 922, "prompt": "i", "stego": "i hope shes okay when you areghan will you be back in la too i love you more barbie", "tokens": [72, 2911, 673, 82, 8788, 618, 345, 389, 6064, 481, 345, 307, 736, 287, 8591, 1165, 1312, 1842, 345, 517, 2318, 12590], "bits": ["", "101", "0111", "10000110", "100", "10000101110100", "10", "01100", "1101011001011100", "01101", "011111", "", "", "10000100", "101101111", "1010100", "0", "1000", "", "100001101", "1101010111001", "0111"]}
+{"idx": 923, "prompt": "ow", "stego": "owww crampsss", "tokens": [322, 1383, 1067, 696, 824, 82], "bits": ["", "0", "11011001010", "10", "", "10"]}
+{"idx": 924, "prompt": "its", "stego": "its getting through big things rocks", "tokens": [896, 1972, 832, 1263, 1243, 12586], "bits": ["", "1011111", "111000111101111", "11001000", "", "100011000010001"]}
+{"idx": 925, "prompt": "morning", "stego": "morning to you too my dear", "tokens": [43911, 284, 345, 1165, 616, 13674], "bits": ["", "", "01111", "", "00", "1"]}
+{"idx": 926, "prompt": "and", "stego": "and you can come say hi", "tokens": [392, 345, 460, 1282, 910, 23105], "bits": ["", "1000", "1000", "010", "01111", "011"]}
+{"idx": 927, "prompt": "i", "stego": "i really don't understand", "tokens": [72, 1107, 466, 299, 470, 1833], "bits": ["", "110", "011111", "", "", "1"]}
+{"idx": 928, "prompt": "5", "stego": "5am starts in 45 min", "tokens": [20, 321, 4940, 287, 4153, 949], "bits": ["", "", "01111110", "", "10010001", "11"]}
+{"idx": 929, "prompt": "i", "stego": "i don't feel good", "tokens": [72, 466, 299, 470, 1254, 922], "bits": ["", "10", "", "", "0111", "0"]}
+{"idx": 930, "prompt": "maybe", "stego": "maybe this makes a good one", "tokens": [25991, 428, 1838, 257, 922, 530], "bits": ["", "11010", "1010010111", "110", "", "1000"]}
+{"idx": 931, "prompt": "ue", "stego": "ue has already lost a member", "tokens": [518, 468, 1541, 2626, 257, 2888], "bits": ["", "01111", "10110", "0111110", "100100", "0101"]}
+{"idx": 932, "prompt": "miss", "stego": "misses monday nights too", "tokens": [3927, 274, 285, 3204, 12513, 1165], "bits": ["", "1", "1000111", "10", "011111", "100111"]}
+{"idx": 933, "prompt": "wow", "stego": "wow no farm town for me", "tokens": [42773, 645, 5318, 3240, 329, 502], "bits": ["", "110011", "1001010111000", "", "011111", ""]}
+{"idx": 934, "prompt": "my", "stego": "my boy is sick at home", "tokens": [1820, 2933, 318, 6639, 379, 1363], "bits": ["", "10011111", "0", "01", "01111", ""]}
+{"idx": 935, "prompt": "aw", "stego": "awwwwwww no fun", "tokens": [707, 1383, 1383, 1383, 645, 1257], "bits": ["", "", "100", "", "10110", ""]}
+{"idx": 936, "prompt": "my", "stego": "my foot is still bothering me", "tokens": [1820, 2366, 318, 991, 41656, 502], "bits": ["", "", "", "01111111110", "1100110", ""]}
+{"idx": 937, "prompt": "cong", "stego": "congrats on the new job", "tokens": [36801, 46714, 319, 262, 649, 1693], "bits": ["", "", "", "", "0", "0"]}
+{"idx": 938, "prompt": "its", "stego": "its gunna be a blast", "tokens": [896, 2485, 2616, 307, 257, 11975], "bits": ["", "110110", "", "", "", ""]}
+{"idx": 939, "prompt": "eating", "stego": "eating dinner in les buenas noche crackers with alex", "tokens": [30041, 8073, 287, 10287, 809, 268, 292, 299, 30848, 8469, 364, 351, 257, 2588], "bits": ["", "", "100000", "1000100011111111", "10100011", "01", "1", "00", "01", "11100001101", "", "011", "10011", ""]}
+{"idx": 940, "prompt": "no", "stego": "no paula for me", "tokens": [3919, 279, 2518, 64, 329, 502], "bits": ["", "10101", "01110111", "", "01", ""]}
+{"idx": 941, "prompt": "i", "stego": "i 'll post the link", "tokens": [72, 705, 297, 1281, 262, 2792], "bits": ["", "0100", "", "1001011", "1", ""]}
+{"idx": 942, "prompt": "am", "stego": "am i going to have to vent on you cause i love you too", "tokens": [321, 1312, 1016, 284, 423, 284, 7435, 319, 345, 2728, 1312, 1842, 345, 1165], "bits": ["", "", "", "", "1000000001", "", "10011111010000", "0", "1101", "100000", "", "01111", "", "011"]}
+{"idx": 943, "prompt": "really", "stego": "really you're just awesome", "tokens": [27485, 345, 705, 260, 655, 7427], "bits": ["", "1100001", "01", "", "110011", "101010"]}
+{"idx": 944, "prompt": "just", "stego": "just woke up wolverine", "tokens": [3137, 19092, 510, 266, 14375, 500], "bits": ["", "", "", "1000000011", "10100011011", ""]}
+{"idx": 945, "prompt": "i", "stego": "i've just discovered that", "tokens": [72, 705, 303, 655, 5071, 326], "bits": ["", "0100", "1", "110100", "11000", ""]}
+{"idx": 946, "prompt": "that", "stego": "that's soooo true", "tokens": [5562, 705, 82, 523, 34160, 2081], "bits": ["", "", "", "", "011111", ""]}
+{"idx": 947, "prompt": "h", "stego": "haha i'm so stupid", "tokens": [71, 12236, 1312, 1101, 523, 8531], "bits": ["", "", "", "", "011111", "1100"]}
+{"idx": 948, "prompt": "same", "stego": "same here though the recession sucks", "tokens": [31642, 994, 996, 262, 16457, 22523], "bits": ["", "", "100000011", "010011", "01110100", "0111"]}
+{"idx": 949, "prompt": "i", "stego": "i think i'm getting sick", "tokens": [72, 892, 1312, 1101, 1972, 6639], "bits": ["", "1001", "", "0", "", ""]}
+{"idx": 950, "prompt": "has", "stego": "has to go to work today", "tokens": [10134, 284, 467, 284, 670, 1909], "bits": ["", "01", "", "", "", "01111"]}
+{"idx": 951, "prompt": "at", "stego": "at the gym on the treadmill", "tokens": [265, 262, 11550, 319, 262, 49246], "bits": ["", "", "1000", "10000000", "100", ""]}
+{"idx": 952, "prompt": "was", "stego": "was just surprised at the news", "tokens": [9776, 655, 6655, 379, 262, 1705], "bits": ["", "0", "10001100011", "0", "10", "0110"]}
+{"idx": 953, "prompt": "i", "stego": "i really don't want to go back to school tomorrow and today", "tokens": [72, 1107, 466, 299, 470, 765, 284, 467, 736, 284, 1524, 9439, 290, 1909], "bits": ["", "110", "011111", "", "", "10", "", "", "1001", "", "", "", "1000010", "110010"]}
+{"idx": 954, "prompt": "oh", "stego": "oh wait i didn't", "tokens": [1219, 4043, 1312, 750, 299, 470], "bits": ["", "1011", "01", "0111", "", ""]}
+{"idx": 955, "prompt": "that", "stego": "that's the new life", "tokens": [5562, 705, 82, 262, 649, 1204], "bits": ["", "", "", "100", "011100", "0111100"]}
+{"idx": 956, "prompt": "most", "stego": "most of my followers are fake", "tokens": [1712, 286, 616, 10569, 389, 8390], "bits": ["", "", "01", "0110", "", "011"]}
+{"idx": 957, "prompt": "ok", "stego": "ok i'm officially done now", "tokens": [482, 1312, 1101, 8720, 1760, 783], "bits": ["", "10", "", "01110", "", "1000000"]}
+{"idx": 958, "prompt": "the", "stego": "the count down begins for me", "tokens": [1169, 954, 866, 6140, 329, 502], "bits": ["", "10100111101", "", "", "011010", ""]}
+{"idx": 959, "prompt": "do", "stego": "don't talk about it", "tokens": [4598, 299, 470, 1561, 546, 340], "bits": ["", "", "", "1011110", "", "0"]}
+{"idx": 960, "prompt": "i", "stego": "i haven't bothered packing", "tokens": [72, 423, 299, 470, 20466, 24157], "bits": ["", "01", "100100", "", "11111010000110", "0111"]}
+{"idx": 961, "prompt": "why", "stego": "why would you want to die", "tokens": [22850, 561, 345, 765, 284, 4656], "bits": ["", "1101", "0", "011", "", "0110"]}
+{"idx": 962, "prompt": "flav", "stego": "flavent of flist", "tokens": [2704, 615, 298, 286, 781, 396], "bits": ["", "", "0111", "010", "100001011", "1110001101"]}
+{"idx": 963, "prompt": "when", "stego": "when is your next goal achieved", "tokens": [12518, 318, 534, 1306, 3061, 8793], "bits": ["", "10", "101", "0", "10010010", "011111110010"]}
+{"idx": 964, "prompt": "getting", "stego": "getting ready to go to work", "tokens": [37210, 3492, 284, 467, 284, 670], "bits": ["", "", "", "", "", ""]}
+{"idx": 965, "prompt": "some", "stego": "some people are just plain mean", "tokens": [11246, 661, 389, 655, 8631, 1612], "bits": ["", "10", "", "", "100000", "100"]}
+{"idx": 966, "prompt": "its", "stego": "its as much fun as nathan mask and taylor lautner", "tokens": [896, 355, 881, 1257, 355, 299, 6696, 9335, 290, 256, 7167, 300, 2306, 1008], "bits": ["", "1110101111", "0111100", "", "01", "111011101011", "101100", "11101000001000", "", "100000100101", "", "0", "", ""]}
+{"idx": 967, "prompt": "had", "stego": "had a fun night with jeremiah at the exploringylan's", "tokens": [18108, 257, 1257, 1755, 351, 474, 567, 35029, 379, 262, 13504, 18554, 705, 82], "bits": ["", "", "1001", "0", "1", "1001111", "0111110", "1000001", "0111111", "", "100000001100100100", "1101010100000000", "", ""]}
+{"idx": 968, "prompt": "and", "stego": "and my food is already gone", "tokens": [392, 616, 2057, 318, 1541, 3750], "bits": ["", "100", "10010100", "01111", "10001", ""]}
+{"idx": 969, "prompt": "amer", "stego": "america's next top model must be your favorite kind of company", "tokens": [2382, 3970, 705, 82, 1306, 1353, 2746, 1276, 307, 534, 4004, 1611, 286, 1664], "bits": ["", "", "0", "", "100", "", "", "1101011", "", "1001001100", "0111", "0101101", "", "011111001"]}
+{"idx": 970, "prompt": "i", "stego": "i've missed my girls", "tokens": [72, 705, 303, 6825, 616, 4813], "bits": ["", "0100", "1", "11000", "1", ""]}
+{"idx": 971, "prompt": "rem", "stego": "reminds me of whenever i read about the new japanese", "tokens": [2787, 521, 82, 502, 286, 8797, 1312, 1100, 546, 262, 649, 474, 2674, 2771], "bits": ["", "", "", "", "", "0111111101111", "100", "01101", "01", "011", "011", "100000", "10001", ""]}
+{"idx": 972, "prompt": "is", "stego": "is on the road to 1st amp the 5th again yay", "tokens": [271, 319, 262, 2975, 284, 352, 301, 20766, 262, 642, 400, 757, 331, 323], "bits": ["", "01110", "", "10000", "", "1000101101101100", "01111", "11001", "01110", "10000101100", "", "1101010001", "0100", ""]}
+{"idx": 973, "prompt": "god", "stego": "god i'm diggin it", "tokens": [25344, 1312, 1101, 3100, 1655, 340], "bits": ["", "0", "10", "101100001001111", "", ""]}
+{"idx": 974, "prompt": "fre", "stego": "freakin out about manana", "tokens": [19503, 27048, 503, 546, 582, 2271], "bits": ["", "0", "100", "", "10011000111", "100010"]}
+{"idx": 975, "prompt": "have", "stego": "have a good nightlt3", "tokens": [14150, 257, 922, 1755, 2528, 18], "bits": ["", "", "01", "", "101000110000", ""]}
+{"idx": 976, "prompt": "so", "stego": "so much to do so little time left to do anything and eat anything", "tokens": [568, 881, 284, 466, 523, 1310, 640, 1364, 284, 466, 1997, 290, 4483, 1997], "bits": ["", "00", "1011", "", "10", "", "", "1100", "", "01", "01", "", "10000010001", "0"]}
+{"idx": 977, "prompt": "and", "stego": "and yes on the chicken wing", "tokens": [392, 3763, 319, 262, 9015, 8539], "bits": ["", "1001", "1000110010", "", "1001101001011", "011100"]}
+{"idx": 978, "prompt": "look", "stego": "looks like another beautiful day", "tokens": [5460, 82, 588, 1194, 4950, 1110], "bits": ["", "", "", "10", "0110", ""]}
+{"idx": 979, "prompt": "i", "stego": "i am so tired of you", "tokens": [72, 716, 523, 10032, 286, 345], "bits": ["", "011", "01", "01100", "0", "10110001"]}
+{"idx": 980, "prompt": "still", "stego": "still had a hard time sleeping", "tokens": [24219, 550, 257, 1327, 640, 11029], "bits": ["", "1011010", "0", "101000", "", ""]}
+{"idx": 981, "prompt": "i", "stego": "i miss you too you know", "tokens": [72, 2051, 345, 1165, 345, 760], "bits": ["", "1000", "01", "0", "1000111", ""]}
+{"idx": 982, "prompt": "this", "stego": "this is why i love them", "tokens": [5661, 318, 1521, 1312, 1842, 606], "bits": ["", "", "", "", "", "10000000001"]}
+{"idx": 983, "prompt": "no", "stego": "no 30 for me this week", "tokens": [3919, 1542, 329, 502, 428, 1285], "bits": ["", "110000", "", "", "01111111", "1"]}
+{"idx": 984, "prompt": "i", "stego": "i don't like it", "tokens": [72, 466, 299, 470, 588, 340], "bits": ["", "10", "", "", "011", "01"]}
+{"idx": 985, "prompt": "but", "stego": "but no one is in town", "tokens": [4360, 645, 530, 318, 287, 3240], "bits": ["", "1", "", "0111111", "011001", ""]}
+{"idx": 986, "prompt": "maybe", "stego": "maybe its time for a nap", "tokens": [25991, 663, 640, 329, 257, 25422], "bits": ["", "11001", "1010", "", "", "01"]}
+{"idx": 987, "prompt": "ca", "stego": "can't wait to hear about the faffing weather we have", "tokens": [6888, 299, 470, 4043, 284, 3285, 546, 262, 277, 2001, 278, 6193, 356, 423], "bits": ["", "", "", "", "", "01110", "", "011111", "01111010", "1100000111", "0", "011100000", "01", ""]}
+{"idx": 988, "prompt": "lol", "stego": "lol yeah i think so too", "tokens": [47288, 10194, 1312, 892, 523, 1165], "bits": ["", "", "", "01111111", "", ""]}
+{"idx": 989, "prompt": "so", "stego": "so tired from cleaning but happy", "tokens": [568, 10032, 422, 12724, 475, 3772], "bits": ["", "", "100000011", "1010110", "1001111", "0"]}
+{"idx": 990, "prompt": "back", "stego": "back from the school and tired", "tokens": [1891, 422, 262, 1524, 290, 10032], "bits": ["", "1", "00", "01011001", "0011", "001"]}
+{"idx": 991, "prompt": "had", "stego": "had a nice dinner with mum", "tokens": [18108, 257, 3621, 8073, 351, 25682], "bits": ["", "", "0111", "101", "01", "11010"]}
+{"idx": 992, "prompt": "cc", "stego": "cc on live just not recording", "tokens": [535, 319, 2107, 655, 407, 8296], "bits": ["", "1000000", "1000101101", "0111110", "01111", "0100"]}
+{"idx": 993, "prompt": "but", "stego": "but i was carrying the sax", "tokens": [4360, 1312, 373, 6872, 262, 46909], "bits": ["", "", "011010", "10001001110", "", "100000101001"]}
+{"idx": 994, "prompt": "it", "stego": "it's the new release", "tokens": [270, 705, 82, 262, 649, 2650], "bits": ["", "", "", "", "0111111100", "100100"]}
+{"idx": 995, "prompt": "doing", "stego": "doing the dreaded rain dance again", "tokens": [19631, 262, 39229, 6290, 9280, 757], "bits": ["", "", "1000000001", "1000100", "", ""]}
+{"idx": 996, "prompt": "my", "stego": "my mouth is aching today", "tokens": [1820, 5422, 318, 257, 10813, 1909], "bits": ["", "0111111", "", "100101", "", "0110"]}
+{"idx": 997, "prompt": "le", "stego": "leaving the kl now", "tokens": [293, 2703, 262, 479, 75, 783], "bits": ["", "", "", "100010100", "10000100", "0"]}
+{"idx": 998, "prompt": "would", "stego": "wouldn't it be good", "tokens": [19188, 299, 470, 340, 307, 922], "bits": ["", "", "", "1000", "", "1"]}
+{"idx": 999, "prompt": "i", "stego": "i want to feel like shit", "tokens": [72, 765, 284, 1254, 588, 7510], "bits": ["", "", "0111", "110100", "01111", "011"]}
+{"idx": 1000, "prompt": "i", "stego": "i feel like a little kid", "tokens": [72, 1254, 588, 257, 1310, 5141], "bits": ["", "11000", "0", "0", "01000", ""]}

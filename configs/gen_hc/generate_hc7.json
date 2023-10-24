@@ -1,0 +1,38 @@
+{
+  "algorithm": "hc",
+  "bit_filepath": "bit_stream.txt",
+  "prompt_filepath": "",
+  "forbiddenid_filepath": "xx.json",
+  "generate_num":10000,
+  "max_new_tokens":512,
+  "ac": {
+    "precision":52
+  },
+  "hc":{
+    "bit":7
+  },
+  "adg": {
+
+  },
+  "flc":{
+    "bit":5
+  },
+  "adgv2": {
+    "epsilon":0.01,
+    "max_bit":15
+  },
+  "plain": {
+    "temperature": 1.00,
+    "topp":1.00,
+    "topk":100000
+  },
+  "meteor": {
+
+  },
+  "saac": {
+    "topp": 0.99
+  },
+  "patient-huffman": {
+
+  }
+}
