@@ -11,7 +11,7 @@ Please create a new python environment and install this list:
 pip install -r requirements.txt
 ```
 
-### Run an exmaple
+### Run an example
 ```shell
 python Generate.py \
 --mode=G \
