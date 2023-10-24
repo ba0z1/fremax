@@ -1,0 +1,1 @@
+{"ppls_mean": 19503.659221517628, "ppls_std": 21507.093214361834, "ppls_med": 12108.4287109375, "entropys_mean": 50.40705865004967, "entropys_std": 35.43390625664034, "entropys_med": 30.174152374267578, "tokens_nums_mean": 10.655172413793103, "tokens_nums_std": 5.566376039368235, "tokens_nums_med": 7.0, "dist2": 1.0, "dist3": 1.0, "dist4": 1.0, "bpt": 9.475728155339805}
