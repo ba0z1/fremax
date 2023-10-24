@@ -23,3 +23,4 @@ python Generate.py \
 --alpha=0.5 \
 --beta=2
 ``` 
+Values of alpha and beta can be freeeeeeeeely adjusted.
